@@ -1,0 +1,104 @@
+id,name,subregion,country,city,thes_int_rank
+grid.25879.31,University of Pennsylvania,Northern America,United States,Philadelphia,10
+grid.16750.35,Princeton University,Northern America,United States,Princeton,7
+grid.38142.3c,Harvard University,Northern America,United States,Cambridge,6
+grid.7445.2,Imperial College London,Northern Europe,United Kingdom,London,8
+grid.116068.8,Massachusetts Institute of Technology,Northern America,United States,Cambridge,5
+grid.5335.0,University of Cambridge,Northern Europe,United Kingdom,Cambridge,2
+grid.20861.3d,California Institute of Technology,Northern America,United States,Pasadena,3
+grid.168010.e,Stanford University,Northern America,United States,Stanford,3
+grid.21107.35,Johns Hopkins University,Northern America,United States,Baltimore,13
+grid.170205.1,University of Chicago,Northern America,United States,Chicago,9
+grid.47100.32,Yale University,Northern America,United States,New Haven,12
+grid.21729.3f,Columbia University,Northern America,United States,New York,14
+grid.4991.5,University of Oxford,Northern Europe,United Kingdom,Oxford,1
+grid.461025.4,University College Lahore,Northern Europe,Pakistan,Lahore,16
+grid.1001.0,Australian National University,Australia and New Zealand,Australia,Canberra,48
+grid.448660.8,Carnegie Mellon University,Northern America,Australia,Adelaide,24
+grid.4280.e,National University of Singapore,South-Eastern Asia,Singapore,Singapore,22
+grid.5333.6,École Polytechnique Fédérale de Lausanne,Western Europe,Switzerland,Lausanne,38
+grid.47840.3f,"University of California, Berkeley",Northern America,United States,Berkeley,18
+grid.1008.9,University of Melbourne,Australia and New Zealand,Australia,Melbourne,32
+grid.13063.37,London School of Economics and Political Science,Northern Europe,United Kingdom,London,25
+grid.4305.2,University of Edinburgh,Northern Europe,United Kingdom,Edinburgh,27
+grid.14709.3b,McGill University,Northern America,Canada,Montreal,42
+grid.11135.37,Peking University,Eastern Asia,China,Beijing,27
+grid.213917.f,Georgia Institute of Technology,Northern America,United States,Atlanta,33
+grid.1013.3,University of Sydney,Australia and New Zealand,Australia,Sydney,61
+grid.10388.32,University of Bonn,Western Europe,Germany,Bonn,100
+grid.189504.1,Boston University,Northern America,United States,Boston,70
+grid.5477.1,Utrecht University,Western Europe,Netherlands,Utrecht,68
+grid.6612.3,University of Basel,Western Europe,Switzerland,Basel,95
+grid.4514.4,Lund University,Northern Europe,Sweden,Lund,93
+grid.21925.3d,University of Pittsburgh,Northern America,United States,Pittsburgh,100
+grid.7372.1,University of Warwick,Northern Europe,United Kingdom,Coventry,91
+grid.4830.f,University of Groningen,Western Europe,Netherlands,Groningen,83
+grid.254880.3,Dartmouth College,Northern America,United States,Hanover,89
+grid.42505.36,University of Southern California,Northern America,United States,Los Angeles,66
+grid.7737.4,University of Helsinki,Northern Europe,Finland,Helsinki,90
+grid.10698.36,University of North Carolina at Chapel Hill,Northern America,United States,Chapel Hill,56
+grid.27755.32,University of Virginia,Northern America,United States,Charlottesville,113
+grid.6852.9,Eindhoven University of Technology,Western Europe,Netherlands,Eindhoven,141
+grid.5012.6,Maastricht University,Western Europe,Netherlands,Maastricht,103
+grid.9654.e,University of Auckland,Australia and New Zealand,New Zealand,Auckland,192
+grid.35030.35,City University of Hong Kong,Eastern Asia,Hong Kong,Kowloon,119
+grid.11914.3c,University of St Andrews,Northern Europe,United Kingdom,St Andrews,143
+grid.5510.1,University of Oslo,Northern Europe,Norway,Oslo,146
+grid.67105.35,Case Western Reserve University,Northern America,United States,Cleveland,158
+grid.1010.0,University of Adelaide,Australia and New Zealand,Australia,Adelaide,134
+grid.5601.2,University of Mannheim,Western Europe,Germany,Mannheim,125
+grid.12295.3d,Tilburg University,Western Europe,Netherlands,Tilburg,195
+grid.177174.3,Kyushu University,Eastern Asia,Japan,Fukuoka,400
+grid.5475.3,University of Surrey,Northern Europe,United Kingdom,Guildford,300
+grid.5836.8,University of Siegen,Western Europe,Germany,Siegen,500
+grid.16463.36,University of KwaZulu-Natal,Southern Africa,South Africa,Durban,500
+grid.262743.6,Rush University,Northern America,United States,Chicago,350
+grid.5606.5,University of Genoa,Southern Europe,Italy,Genoa,500
+grid.10858.34,University of Oulu,Northern Europe,Finland,Oulu,300
+grid.443228.b,Western University,Northern America,Cambodia,Phnom Penh,250
+grid.254444.7,Wayne State University,Northern America,United States,Detroit,400
+grid.4691.a,University of Naples Federico II,Southern Europe,Italy,Naples,500
+grid.5110.5,University of Graz,Western Europe,Austria,Graz,500
+grid.6571.5,Loughborough University,Northern Europe,United Kingdom,Loughborough,350
+grid.413050.3,Yuan Ze University,Eastern Asia,Taiwan,Taoyuan District,1000
+grid.8096.7,Coventry University,Northern Europe,United Kingdom,Coventry,800
+grid.411340.3,Aligarh Muslim University,Southern Asia,India,Aligarh,800
+grid.412831.d,University of Tabriz,Southern Asia,Iran,Tabriz,800
+grid.7427.6,University of Beira Interior,Southern Europe,Portugal,Covilha,800
+grid.9601.e,Istanbul University,Western Asia,Turkey,Istanbul,1000
+grid.411301.6,Ferdowsi University of Mashhad,Southern Asia,Iran,Mashhad,1000
+grid.252890.4,Baylor University,Northern America,United States,Waco,800
+grid.77602.34,Tomsk State University,Eastern Europe,Russia,Tomsk,600
+grid.410714.7,Showa University,Eastern Asia,Japan,Tokyo,1000
+grid.419886.a,Monterrey Institute of Technology and Higher Education,Northern America,Mexico,Monterrey,800
+grid.411247.5,Federal University of São Carlos,South America,Brazil,São Carlos,1000
+grid.5380.e,University of Concepción,South America,Chile,Concepción,1000
+grid.412831.d,University of Tabriz,Southern Asia,Iran,Tabriz,800
+grid.412419.b,Osmania University,Southern Asia,India,Hyderabad,1000
+grid.7836.a,University of Cape Town,Southern Africa,South Africa,Rondebosch,171
+grid.16463.36,University of KwaZulu-Natal,Southern Africa,South Africa,Durban,500
+grid.7776.1,Cairo University,Northern Africa,Egypt,Giza,1000
+grid.5801.c,Swiss Federal Institute of Technology in Zurich,Western Europe,Switzerland,Zurich,10
+grid.19006.3e,University of California Los Angeles,Northern America,United States,Los Angeles,15
+grid.35403.31,University of Illinois at Urbana Champaign,Northern America,United States,Urbana,37
+grid.26999.3d,University of Tokyo,Eastern Asia,Japan,Tokyo,46
+grid.89336.37,The University of Texas at Austin,Northern America,United States,Austin,49
+grid.59025.3b,Nanyang Technological University,South-Eastern Asia,Singapore,Singapore,52
+grid.35541.36,Korea Institute of Science and Technology,Eastern Asia,South Korea,Seoul,95
+grid.5037.1,Royal Institute of Technology,Northern Europe,Sweden,Stockholm,173
+grid.4488.0,Dresden University of Technology,Western Europe,Germany,Dresden,155
+grid.14476.30,Moscow State University,Eastern Europe,Russia,Moscow,194
+grid.8664.c,University of Giessen,Western Europe,Germany,Giessen,400
+grid.41312.35,Pontifical Xavierian University,South America,Colombia,Bogotá,600
+grid.417984.7,Indian School of Mines,Southern Asia,India,Dhanbad,800
+grid.34980.36,Indian Institute of Science Bangalore,Southern Asia,India,Bengaluru,300
+grid.411840.8,Cadi Ayyad University,Northern Africa,Morocco,Marrakesh,1000
+grid.12380.38,VU University Amsterdam,Western Europe,Netherlands,Amsterdam,165
+grid.410356.5,Queen's University,Northern America,Canada,Kingston,300
+grid.264200.2,"St George’s, University of London",Northern Europe,United Kingdom,London,250
+grid.434933.a,Institut Teknologi Bandung,South-Eastern Asia,Indonesia,Bandung,1000
+grid.278276.e,Kōchi University,Eastern Asia,Japan,Kochi,800
+grid.7247.6,Universidad de Los Andes,South America,Columbia,Bogota,800
+grid.412522.2,Pontifícia Universidade Católica do Paraná,South America,Brazil,Curitiba,1000
+grid.35915.3b,"Saint Petersburg State University of Information Technologies, Mechanics and Optics",Eastern Europe,Russia,Saint Petersburg,600
+grid.412813.d,Vellore Institute of Technology University,Southern Asia,India,Vellore,1000

@@ -1,0 +1,106 @@
+,name,rank_group,int_rank,region,subregion,country
+0,University of Pennsylvania,0001-15,10,Americas,Northern America,United States
+1,Princeton University,0001-15,7,Americas,Northern America,United States
+2,ETH Zurich – Swiss Federal Institute of Technology Zurich,0001-15,10,Europe,Western Europe,Switzerland
+3,Harvard University,0001-15,6,Americas,Northern America,United States
+4,Imperial College London,0001-15,8,Europe,Northern Europe,United Kingdom
+5,"University of California, Los Angeles",0001-15,15,Americas,Northern America,United States
+6,Massachusetts Institute of Technology,0001-15,5,Americas,Northern America,United States
+7,University of Cambridge,0001-15,2,Europe,Northern Europe,United Kingdom
+8,California Institute of Technology,0001-15,3,Americas,Northern America,United States
+9,Stanford University,0001-15,3,Americas,Northern America,United States
+10,Johns Hopkins University,0001-15,13,Americas,Northern America,United States
+11,University of Chicago,0001-15,9,Americas,Northern America,United States
+12,Yale University,0001-15,12,Americas,Northern America,United States
+13,Columbia University,0001-15,14,Americas,Northern America,United States
+14,University of Oxford,0001-15,1,Europe,Northern Europe,United Kingdom
+15,UCL,0016-50,16,Europe,Northern Europe,United Kingdom
+16,University of Illinois at Urbana-Champaign,0016-50,37,Americas,Northern America,United States
+17,Australian National University,0016-50,48,Oceania,Australia and New Zealand,Australia
+18,Carnegie Mellon University,0016-50,24,Americas,Northern America,United States
+19,National University of Singapore,0016-50,22,Asia,South-Eastern Asia,Singapore
+20,École Polytechnique Fédérale de Lausanne,0016-50,38,Europe,Western Europe,Switzerland
+21,The University of Tokyo,0016-50,46,Asia,Eastern Asia,Japan
+22,"University of California, Berkeley",0016-50,18,Americas,Northern America,United States
+23,University of Melbourne,0016-50,32,Oceania,Australia and New Zealand,Australia
+24,University of Texas at Austin,0016-50,49,Americas,Northern America,United States
+25,London School of Economics and Political Science,0016-50,25,Europe,Northern Europe,United Kingdom
+26,University of Edinburgh,0016-50,27,Europe,Northern Europe,United Kingdom
+27,McGill University,0016-50,42,Americas,Northern America,Canada
+28,Peking University,0016-50,27,Asia,Eastern Asia,China
+29,Georgia Institute of Technology,0016-50,33,Americas,Northern America,United States
+30,University of Sydney,0051-100,61,Oceania,Australia and New Zealand,Australia
+31,"Nanyang Technological University, Singapore",0051-100,52,Asia,South-Eastern Asia,Singapore
+32,University of Bonn,0051-100,100,Europe,Western Europe,Germany
+33,Boston University,0051-100,70,Americas,Northern America,United States
+34,Utrecht University,0051-100,68,Europe,Western Europe,Netherlands
+35,University of Basel,0051-100,95,Europe,Western Europe,Switzerland
+36,Lund University,0051-100,93,Europe,Northern Europe,Sweden
+37,University of Pittsburgh,0051-100,100,Americas,Northern America,United States
+38,University of Warwick,0051-100,91,Europe,Northern Europe,United Kingdom
+39,University of Groningen,0051-100,83,Europe,Western Europe,Netherlands
+40,Dartmouth College,0051-100,89,Americas,Northern America,United States
+41,Korea Advanced Institute of Science and Technology (KAIST),0051-100,95,Asia,Eastern Asia,South Korea
+42,University of Southern California,0051-100,66,Americas,Northern America,United States
+43,University of Helsinki,0051-100,90,Europe,Northern Europe,Finland
+44,University of North Carolina at Chapel Hill,0051-100,56,Americas,Northern America,United States
+45,University of Virginia,0101-200,113,Americas,Northern America,United States
+46,KTH Royal Institute of Technology,0101-200,173,Europe,Northern Europe,Sweden
+47,Eindhoven University of Technology,0101-200,141,Europe,Western Europe,Netherlands
+48,Maastricht University,0101-200,103,Europe,Western Europe,Netherlands
+49,University of Auckland,0101-200,192,Oceania,Australia and New Zealand,New Zealand
+50,City University of Hong Kong,0101-200,119,Asia,Eastern Asia,Hong Kong
+51,University of St Andrews,0101-200,143,Europe,Northern Europe,United Kingdom
+52,TU Dresden,0101-200,155,Europe,Western Europe,Germany
+53,University of Oslo,0101-200,146,Europe,Northern Europe,Norway
+54,Vrije Universiteit Amsterdam,0101-200,165,Europe,Western Europe,Netherlands
+55,Case Western Reserve University,0101-200,158,Americas,Northern America,United States
+56,University of Adelaide,0101-200,134,Oceania,Australia and New Zealand,Australia
+57,University of Mannheim,0101-200,125,Europe,Western Europe,Germany
+58,Lomonosov Moscow State University,0101-200,194,Europe,Eastern Europe,Russian Federation
+59,Tilburg University,0101-200,195,Europe,Western Europe,Netherlands
+60,Justus Liebig University Giessen,0201-500,400,Europe,Western Europe,Germany
+61,Kyushu University,0201-500,400,Asia,Eastern Asia,Japan
+62,University of Surrey,0201-500,300,Europe,Northern Europe,United Kingdom
+63,University of Siegen,0201-500,500,Europe,Western Europe,Germany
+64,University of KwaZulu-Natal,0201-500,500,Africa,Southern Africa,South Africa
+65,Queen’s University,0201-500,300,Americas,Northern America,Canada
+66,Rush University,0201-500,350,Americas,Northern America,United States
+67,University of Genoa,0201-500,500,Europe,Southern Europe,Italy
+68,University of Oulu,0201-500,300,Europe,Northern Europe,Finland
+69,Western University,0201-500,250,Americas,Northern America,Canada
+70,Wayne State University,0201-500,400,Americas,Northern America,United States
+71,University of Naples Federico II,0201-500,500,Europe,Southern Europe,Italy
+72,"St George’s, University of London",0201-500,250,Europe,Northern Europe,United Kingdom
+73,University of Graz,0201-500,500,Europe,Western Europe,Austria
+74,Loughborough University,0201-500,350,Europe,Northern Europe,United Kingdom
+75,Bandung Institute of Technology (ITB),0501-1000,1000,Asia,South-Eastern Asia,Indonesia
+76,Kochi University,0501-1000,800,Asia,Eastern Asia,Japan
+77,Yuan Ze University,0501-1000,1000,Asia,Eastern Asia,Taiwan
+78,"University of the Andes, Colombia",0501-1000,800,Americas,South America,Colombia
+79,Coventry University,0501-1000,800,Europe,Northern Europe,United Kingdom
+80,Aligarh Muslim University,0501-1000,800,Asia,Southern Asia,India
+81,University of Tabriz,0501-1000,800,Asia,Southern Asia,Iran
+82,University of Beira Interior,0501-1000,800,Europe,Southern Europe,Portugal
+83,Pontifical Catholic University of Paraná,0501-1000,1000,Americas,South America,Brazil
+84,Istanbul University,0501-1000,1000,Asia,Western Asia,Turkey
+85,Ferdowsi University of Mashhad,0501-1000,1000,Asia,Southern Asia,Iran
+86,Baylor University,0501-1000,800,Americas,Northern America,United States
+87,ITMO University,0501-1000,600,Europe,Eastern Europe,Russian Federation
+88,Tomsk State University,0501-1000,600,Europe,Eastern Europe,Russian Federation
+89,Showa University,0501-1000,1000,Asia,Eastern Asia,Japan
+714,Monterrey Institute of Technology and Higher Education,0501-1000,800,Americas,Northern America,Mexico
+859,Federal University of São Carlos,0501-1000,1000,Americas,South America,Brazil
+843,University of Concepción,0501-1000,1000,Americas,South America,Chile
+570,Pontifical Javeriana University,0501-1000,600,Americas,South America,Colombia
+936,Pontifical Catholic University of Paraná,0501-1000,1000,Americas,South America,Brazil
+775,University of Tabriz,0501-1000,800,Asia,Southern Asia,Iran
+678,Indian Institute of Technology (Indian School of Mines) Dhanbad,0501-1000,800,Asia,Southern Asia,India
+986,VIT University,0501-1000,1000,Asia,Southern Asia,India
+269,Indian Institute of Science,0201-500,300,Asia,Southern Asia,India
+931,Osmania University,0501-1000,1000,Asia,Southern Asia,India
+170,University of Cape Town,0101-200,171,Africa,Southern Africa,South Africa
+977,University of Tlemcen,0501-1000,1000,Africa,Northern Africa,Algeria
+902,University of Marrakech Cadi Ayyad,0501-1000,1000,Africa,Northern Africa,Morocco
+434,University of KwaZulu-Natal,0201-500,500,Africa,Southern Africa,South Africa
+827,Cairo University,0501-1000,1000,Africa,Northern Africa,Egypt

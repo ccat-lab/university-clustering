@@ -1,0 +1,1104 @@
+female_%,students_per_staff,int_rank,region,country,subregion,teaching_score,gender_ratio,country_code,overall_score,name,rank,student_fte,industry_income,citations,research_score,foreign_students_%,rank_group,international_outlook
+46,11.2,1,Europe,United Kingdom,Northern Europe,86.7,46 : 54,GB,94.3,University of Oxford,1,20409,63.7,99.1,99.5,38,0001-15,95.0
+45,10.9,2,Europe,United Kingdom,Northern Europe,87.8,45 : 55,GB,93.2,University of Cambridge,2,18389,51.5,97.5,97.8,35,0001-15,93.0
+31,6.5,3,Americas,United States,Northern America,90.3,31 : 69,US,93.0,California Institute of Technology,=3,2209,92.6,99.5,97.5,27,0001-15,59.7
+42,7.5,3,Americas,United States,Northern America,89.1,42 : 58,US,93.0,Stanford University,=3,15845,60.5,99.9,96.7,22,0001-15,77.6
+37,8.7,5,Americas,United States,Northern America,87.3,37 : 63,US,92.5,Massachusetts Institute of Technology,5,11177,88.4,100.0,91.9,34,0001-15,87.6
+,8.9,6,Americas,United States,Northern America,84.2,n/a,US,91.8,Harvard University,6,20326,46.4,99.7,98.4,26,0001-15,79.7
+45,8.3,7,Americas,United States,Northern America,85.7,45 : 55,US,91.1,Princeton University,7,7955,58.0,99.6,93.9,24,0001-15,78.7
+37,11.4,8,Europe,United Kingdom,Northern Europe,81.7,37 : 63,GB,89.2,Imperial College London,8,15857,71.6,96.7,88.7,55,0001-15,96.6
+44,6.2,9,Americas,United States,Northern America,85.3,44 : 56,US,88.6,University of Chicago,9,13525,39.8,99.4,90.1,25,0001-15,69.6
+31,14.6,10,Europe,Switzerland,Western Europe,76.4,31 : 69,CH,87.7,ETH Zurich – Swiss Federal Institute of Technology Zurich,=10,19233,60.3,94.3,92.0,38,0001-15,98.1
+50,6.5,10,Americas,United States,Northern America,83.7,50 : 50,US,87.7,University of Pennsylvania,=10,20361,56.9,98.5,90.1,20,0001-15,61.3
+49,4.3,12,Americas,United States,Northern America,86.7,49 : 51,US,87.6,Yale University,12,12155,45.1,98.4,87.0,21,0001-15,64.6
+52,4.3,13,Americas,United States,Northern America,76.1,52 : 48,US,86.5,Johns Hopkins University,13,15498,95.8,98.4,88.1,24,0001-15,70.6
+,6.1,14,Americas,United States,Northern America,82.2,n/a,US,86.0,Columbia University,14,26587,41.3,98.8,83.3,32,0001-15,76.6
+53,9.6,15,Americas,United States,Northern America,80.7,53 : 47,US,85.7,"University of California, Los Angeles",15,39279,48.6,97.9,88.1,17,0001-15,59.5
+56,10.5,16,Europe,United Kingdom,Northern Europe,74.4,56 : 44,GB,85.3,UCL,16,30304,41.2,94.6,88.2,49,0016-50,94.6
+49,4.5,17,Americas,United States,Northern America,80.7,49 : 51,US,85.1,Duke University,17,15256,100.0,98.3,80.6,22,0016-50,62.5
+52,13.1,18,Americas,United States,Northern America,77.4,52 : 48,US,84.3,"University of California, Berkeley",18,36182,37.5,99.8,84.5,17,0016-50,64.5
+49,9.8,19,Americas,United States,Northern America,76.2,49 : 51,US,84.2,Cornell University,19,21850,34.6,97.6,86.6,24,0016-50,69.2
+48,12.8,20,Americas,United States,Northern America,72.6,48 : 52,US,83.3,Northwestern University,20,17466,78.2,96.9,86.7,18,0016-50,59.2
+48,8.6,21,Americas,United States,Northern America,77.2,48 : 52,US,83.1,University of Michigan,21,41818,46.2,95.7,86.3,16,0016-50,55.8
+51,17.0,22,Asia,Singapore,South-Eastern Asia,77.4,51 : 49,SG,82.8,National University of Singapore,=22,30602,61.9,81.3,88.2,30,0016-50,95.8
+,18.7,22,Americas,Canada,Northern America,74.6,n/a,CA,82.8,University of Toronto,=22,69427,46.5,92.6,84.8,17,0016-50,80.1
+39,13.5,24,Americas,United States,Northern America,65.8,39 : 61,US,81.9,Carnegie Mellon University,24,12676,50.4,99.7,83.7,45,0016-50,79.1
+52,12.2,25,Europe,United Kingdom,Northern Europe,71.8,52 : 48,GB,79.4,London School of Economics and Political Science,=25,10065,33.7,94.9,72.0,71,0016-50,92.2
+52,11.4,25,Americas,United States,Northern America,67.9,52 : 48,US,79.4,University of Washington,=25,44945,47.3,99.0,79.9,16,0016-50,56.5
+59,12.5,27,Europe,United Kingdom,Northern Europe,66.8,59 : 41,GB,79.2,University of Edinburgh,=27,26759,36.3,97.0,74.2,40,0016-50,92.0
+56,9.6,27,Americas,United States,Northern America,73.7,56 : 44,US,79.2,New York University,=27,43860,37.0,96.5,77.4,26,0016-50,53.4
+47,8.9,27,Asia,China,Eastern Asia,83.0,47 : 53,CN,79.2,Peking University,=27,42136,100.0,74.2,85.1,16,0016-50,53.0
+32,13.7,30,Asia,China,Eastern Asia,80.2,32 : 68,CN,79.0,Tsinghua University,30,42089,99.8,71.4,93.2,9,0016-50,41.0
+46,12.8,31,Americas,United States,Northern America,62.9,46 : 54,US,78.7,"University of California, San Diego",31,29633,96.5,98.6,79.8,17,0016-50,51.9
+55,26.6,32,Oceania,Australia,Australia and New Zealand,64.9,55 : 45,AU,77.5,University of Melbourne,32,42116,70.1,90.3,74.2,40,0016-50,92.7
+31,20.7,33,Americas,United States,Northern America,59.7,31 : 69,US,77.0,Georgia Institute of Technology,33,20773,60.2,94.3,78.9,27,0016-50,75.0
+54,18.1,34,Americas,Canada,Northern America,61.8,54 : 46,CA,76.2,University of British Columbia,=34,51889,42.6,93.4,72.2,29,0016-50,92.2
+61,15.6,34,Europe,Germany,Western Europe,65.4,61 : 39,DE,76.2,LMU Munich,=34,36091,100.0,91.3,72.3,15,0016-50,66.3
+62,12.0,36,Europe,United Kingdom,Northern Europe,59.3,62 : 38,GB,75.6,King’s College London,36,23207,43.9,94.4,71.2,41,0016-50,94.5
+46,22.8,37,Americas,United States,Northern America,65.8,46 : 54,US,75.4,University of Illinois at Urbana-Champaign,37,43402,56.0,88.9,78.9,23,0016-50,52.8
+28,11.2,38,Europe,Switzerland,Western Europe,58.8,28 : 72,CH,75.3,École Polytechnique Fédérale de Lausanne,=38,9928,76.0,94.2,66.8,55,0016-50,98.7
+68,10.9,38,Europe,Sweden,Northern Europe,57.0,68 : 32,SE,75.3,Karolinska Institute,=38,7424,71.4,95.9,74.4,19,0016-50,70.3
+54,18.0,40,Asia,Hong Kong,Eastern Asia,68.8,54 : 46,HK,75.1,University of Hong Kong,40,18364,54.0,74.2,77.9,42,0016-50,99.5
+34,54.4,41,Europe,Germany,Western Europe,60.3,34 : 66,DE,73.5,Technical University of Munich,41,38689,100.0,88.4,71.2,23,0016-50,66.8
+57,13.3,42,Americas,Canada,Northern America,63.4,57 : 43,CA,73.2,McGill University,42,30940,39.8,84.7,70.8,26,0016-50,87.5
+51,10.7,43,Americas,United States,Northern America,68.4,51 : 49,US,73.1,University of Wisconsin-Madison,43,38960,45.8,86.5,73.9,12,0016-50,43.4
+,23.1,44,Asia,Hong Kong,Eastern Asia,55.2,n/a,HK,72.7,Hong Kong University of Science and Technology,44,10214,58.1,93.1,68.4,31,0016-50,83.4
+55,23.2,45,Europe,Germany,Western Europe,63.6,55 : 45,DE,72.3,Heidelberg University,45,28876,56.0,94.2,62.2,17,0016-50,64.7
+,6.7,46,Asia,Japan,Eastern Asia,79.5,n/a,JP,72.2,The University of Tokyo,46,26000,52.7,63.7,85.2,10,0016-50,32.2
+50,37.1,47,Europe,Belgium,Western Europe,54.2,50 : 50,BE,71.8,KU Leuven,47,44412,99.9,88.7,70.9,15,0016-50,68.3
+52,19.3,48,Oceania,Australia,Australia and New Zealand,52.7,52 : 48,AU,71.6,Australian National University,48,15986,61.1,85.5,72.0,35,0016-50,94.3
+51,17.1,49,Americas,United States,Northern America,60.9,51 : 49,US,71.4,University of Texas at Austin,49,48561,48.2,95.7,68.3,10,0016-50,36.7
+,10.7,50,Americas,United States,Northern America,63.8,n/a,US,70.8,Brown University,=50,8898,34.1,96.7,57.9,20,0016-50,59.0
+,7.5,50,Americas,United States,Northern America,60.8,n/a,US,70.8,Washington University in St Louis,=50,12600,36.9,99.4,59.7,17,0016-50,52.1
+48,16.3,52,Asia,Singapore,South-Eastern Asia,49.5,48 : 52,SG,70.5,"Nanyang Technological University, Singapore",52,25499,94.0,90.7,63.0,31,0051-100,95.9
+52,28.1,53,Americas,United States,Northern America,50.0,52 : 48,US,70.0,"University of California, Santa Barbara",53,23054,82.0,98.8,61.5,14,0051-100,65.4
+56,13.8,54,Americas,United States,Northern America,60.9,56 : 44,US,69.5,"University of California, Davis",=54,37365,53.4,86.0,64.5,10,0051-100,63.7
+52,14.6,54,Europe,United Kingdom,Northern Europe,56.3,52 : 48,GB,69.5,University of Manchester,=54,35318,44.1,84.3,65.3,38,0051-100,88.7
+51,17.4,56,Americas,United States,Northern America,57.6,51 : 49,US,69.0,University of Minnesota,=56,60949,90.4,87.5,67.9,11,0051-100,37.7
+56,9.7,56,Americas,United States,Northern America,57.9,56 : 44,US,69.0,University of North Carolina at Chapel Hill,=56,34684,39.2,96.7,61.8,8,0051-100,41.5
+,17.3,58,Asia,Hong Kong,Eastern Asia,57.0,n/a,HK,68.5,Chinese University of Hong Kong,58,18072,56.8,80.6,64.4,31,0051-100,86.6
+57,12.3,59,Europe,Netherlands,Western Europe,51.3,57 : 43,NL,68.4,University of Amsterdam,59,23495,49.9,91.9,62.6,12,0051-100,72.2
+42,17.4,60,Americas,United States,Northern America,62.3,42 : 58,US,68.2,Purdue University,60,38770,63.5,73.4,68.9,23,0051-100,69.9
+57,21.6,61,Oceania,Australia,Australia and New Zealand,50.2,57 : 43,AU,67.8,University of Sydney,61,44553,67.9,85.9,63.1,32,0051-100,84.6
+,56.5,62,Europe,Germany,Western Europe,61.9,n/a,DE,67.4,Humboldt University of Berlin,62,32172,38.6,76.1,67.1,17,0051-100,65.6
+28,19.6,63,Europe,Netherlands,Western Europe,53.4,28 : 72,NL,67.3,Delft University of Technology,63,17057,99.8,68.5,72.0,27,0051-100,88.5
+55,19.7,64,Europe,Netherlands,Western Europe,46.6,55 : 45,NL,67.2,Wageningen University & Research,64,12326,100.0,95.2,53.6,29,0051-100,80.6
+55,35.7,65,Oceania,Australia,Australia and New Zealand,47.6,55 : 45,AU,67.0,University of Queensland,65,38968,76.2,87.8,59.4,26,0051-100,88.8
+53,12.8,66,Americas,United States,Northern America,49.8,53 : 47,US,66.8,University of Southern California,66,38380,37.9,95.6,58.4,23,0051-100,63.0
+57,18.2,67,Europe,Netherlands,Western Europe,44.6,57 : 43,NL,66.0,Leiden University,67,24825,78.8,87.8,63.2,12,0051-100,70.5
+59,15.2,68,Europe,Netherlands,Western Europe,45.5,59 : 41,NL,65.8,Utrecht University,68,31522,72.6,89.9,63.1,7,0051-100,59.6
+48,16.5,69,Americas,United States,Northern America,49.6,48 : 52,US,65.7,"University of Maryland, College Park",69,31772,38.4,93.5,63.0,10,0051-100,39.0
+60,8.6,70,Americas,United States,Northern America,57.1,60 : 40,US,65.4,Boston University,=70,24833,34.0,97.2,45.9,25,0051-100,60.0
+49,12.7,70,Americas,United States,Northern America,55.5,49 : 51,US,65.4,Ohio State University,=70,53190,52.0,88.0,56.2,13,0051-100,56.4
+49,20.1,72,Europe,Netherlands,Western Europe,38.9,49 : 51,NL,65.2,Erasmus University Rotterdam,=72,22047,51.7,96.7,57.2,20,0051-100,80.6
+,10.1,72,Europe,France,Western Europe,57.0,n/a,FR,65.2,Paris Sciences & Lettres – PSL University,=72,19978,48.2,85.0,52.0,25,0051-100,76.7
+24,8.7,74,Asia,Japan,Eastern Asia,71.8,24 : 76,JP,64.9,Kyoto University,=74,22481,93.8,50.9,78.6,8,0051-100,28.8
+,12.6,74,Asia,South Korea,Eastern Asia,69.3,n/a,KR,64.9,Seoul National University,=74,26470,79.8,60.6,71.2,11,0051-100,34.1
+53,13.7,76,Europe,United Kingdom,Northern Europe,45.7,53 : 47,GB,64.8,University of Bristol,76,19995,39.3,94.7,51.2,27,0051-100,84.8
+46,15.2,77,Americas,United States,Northern America,53.6,46 : 54,US,64.6,Pennsylvania State University,77,45411,50.0,81.6,64.8,14,0051-100,44.3
+52,24.7,78,Americas,Canada,Northern America,45.6,52 : 48,CA,63.4,McMaster University,78,23693,89.8,89.9,48.8,15,0051-100,78.1
+32,57.7,79,Europe,Germany,Western Europe,53.4,32 : 68,DE,63.3,RWTH Aachen University,79,43721,99.7,72.8,62.4,18,0051-100,56.4
+58,15.4,80,Europe,United Kingdom,Northern Europe,43.4,58 : 42,GB,63.2,University of Glasgow,=80,23389,38.6,92.6,48.9,36,0051-100,90.4
+57,33.7,80,Oceania,Australia,Australia and New Zealand,47.4,57 : 43,AU,63.2,Monash University,=80,46846,71.5,80.9,55.4,28,0051-100,83.8
+57,40.3,82,Europe,Germany,Western Europe,47.1,57 : 43,DE,62.9,University of Freiburg,82,20871,100.0,83.1,54.3,19,0051-100,67.2
+52,24.1,83,Europe,Netherlands,Western Europe,40.7,52 : 48,NL,62.8,University of Groningen,=83,26197,77.2,89.0,54.8,17,0051-100,74.4
+51,17.0,83,Americas,United States,Northern America,55.1,51 : 49,US,62.8,Michigan State University,=83,44556,35.7,82.6,53.3,17,0051-100,61.2
+46,26.7,85,Oceania,Australia,Australia and New Zealand,40.9,46 : 54,AU,62.5,University of New South Wales,85,40133,49.8,82.8,57.5,34,0051-100,91.4
+43,9.0,86,Americas,United States,Northern America,45.1,43 : 57,US,62.2,Rice University,=86,6441,42.4,98.7,41.9,28,0051-100,72.7
+57,17.3,86,Europe,Sweden,Northern Europe,42.9,57 : 43,SE,62.2,Uppsala University,=86,25174,79.5,84.6,56.1,11,0051-100,68.8
+59,57.0,88,Europe,Germany,Western Europe,58.7,59 : 41,DE,62.1,Free University of Berlin,88,34114,39.8,60.6,66.5,21,0051-100,71.8
+47,6.6,89,Americas,United States,Northern America,58.5,47 : 53,US,62.0,Dartmouth College,89,6100,37.9,93.4,41.9,15,0051-100,39.1
+65,16.2,90,Europe,Finland,Northern Europe,45.7,65 : 35,FI,61.7,University of Helsinki,90,22532,35.5,86.9,56.6,6,0051-100,53.3
+48,13.0,91,Europe,United Kingdom,Northern Europe,46.6,48 : 52,GB,61.6,University of Warwick,91,18424,41.0,80.4,52.0,39,0051-100,91.9
+34,64.3,92,Europe,Germany,Western Europe,49.0,34 : 66,DE,61.5,Technical University of Berlin,92,22390,97.8,74.2,58.0,20,0051-100,62.4
+55,12.1,93,Europe,Sweden,Northern Europe,40.8,55 : 45,SE,61.3,Lund University,93,28663,70.9,85.9,52.6,16,0051-100,76.1
+59,38.5,94,Europe,Germany,Western Europe,45.7,59 : 41,DE,61.2,University of Tübingen,94,27844,55.4,83.0,55.4,13,0051-100,60.8
+55,17.7,95,Europe,Switzerland,Western Europe,39.8,55 : 45,CH,60.9,University of Basel,=95,12729,99.9,91.0,39.9,27,0051-100,95.9
+20,10.6,95,Asia,South Korea,Eastern Asia,56.3,20 : 80,KR,60.9,Korea Advanced Institute of Science and Technology (KAIST),=95,9464,100.0,70.4,59.2,9,0051-100,35.6
+54,14.9,97,Europe,United Kingdom,Northern Europe,44.8,54 : 46,GB,60.8,Durham University,97,16310,36.8,84.6,47.9,29,0051-100,89.0
+57,4.4,98,Americas,United States,Northern America,47.1,57 : 43,US,60.7,Emory University,98,12649,42.3,98.1,40.4,19,0051-100,53.3
+52,17.0,99,Americas,United States,Northern America,43.4,52 : 48,US,60.6,"University of California, Irvine",99,30419,43.9,93.6,44.9,21,0051-100,65.2
+55,77.9,100,Europe,Germany,Western Europe,47.3,55 : 45,DE,60.5,University of Bonn,=100,35619,83.5,91.3,41.6,13,0051-100,58.4
+44,16.3,100,Americas,United States,Northern America,44.8,44 : 56,US,60.5,University of Colorado Boulder,=100,30780,37.5,97.4,45.8,10,0051-100,42.4
+52,5.9,100,Americas,United States,Northern America,45.7,52 : 48,US,60.5,University of Pittsburgh,=100,26367,39.9,94.9,48.7,10,0051-100,36.8
+58,18.0,103,Europe,Netherlands,Western Europe,40.2,58 : 42,NL,60.4,Maastricht University,103,16727,87.6,79.9,49.7,50,0101-200,96.7
+50,14.9,104,Europe,United Kingdom,Northern Europe,42.9,50 : 50,GB,60.1,University of Sheffield,104,24581,43.7,86.8,45.7,36,0101-200,85.4
+56,16.5,105,Europe,Switzerland,Western Europe,42.7,56 : 44,CH,60.0,University of Bern,=105,10449,81.0,85.4,43.6,15,0101-200,85.7
+53,3.3,105,Americas,United States,Northern America,47.7,53 : 47,US,60.0,Vanderbilt University,=105,12011,52.8,96.9,41.4,13,0101-200,38.9
+53,35.9,107,Europe,Belgium,Western Europe,44.4,53 : 47,BE,59.8,Ghent University,107,35909,84.3,77.6,56.2,10,0101-200,56.8
+55,21.9,108,Americas,Canada,Northern America,44.5,55 : 45,CA,59.6,University of Montreal,108,41017,65.3,79.0,48.9,22,0101-200,83.2
+54,14.3,109,Europe,Denmark,Northern Europe,37.3,54 : 46,DK,59.4,Aarhus University,=109,25167,67.6,82.7,53.6,12,0101-200,75.3
+58,4.1,109,Europe,Denmark,Northern Europe,44.0,58 : 42,DK,59.4,University of Copenhagen,=109,30395,44.6,90.6,39.7,14,0101-200,79.3
+42,19.6,111,Asia,South Korea,Eastern Asia,54.1,42 : 58,KR,59.3,Sungkyunkwan University (SKKU),=111,24055,93.7,69.5,55.1,12,0101-200,44.7
+49,21.8,111,Oceania,Australia,Australia and New Zealand,33.5,49 : 51,AU,59.3,University of Western Australia,=111,18787,54.5,90.6,46.1,25,0101-200,91.9
+50,27.9,113,Europe,Germany,Western Europe,47.1,50 : 50,DE,59.2,University of Göttingen,=113,28554,33.7,82.4,50.3,12,0101-200,58.6
+52,9.7,113,Americas,United States,Northern America,52.4,52 : 48,US,59.2,University of Virginia,=113,24055,40.6,89.3,40.7,12,0101-200,46.5
+21,5.1,115,Europe,France,Western Europe,54.4,21 : 79,FR,59.1,École Polytechnique,115,2799,70.8,75.1,38.2,36,0101-200,93.4
+51,12.1,116,Asia,China,Eastern Asia,59.5,51 : 49,CN,58.9,Fudan University,116,32859,53.0,65.1,57.5,10,0101-200,38.7
+52,14.1,117,Americas,United States,Northern America,50.5,52 : 48,US,58.7,Indiana University,=117,66835,51.5,81.9,46.5,15,0101-200,50.5
+58,22.8,117,Europe,Ireland,Northern Europe,45.3,58 : 42,IE,58.7,Trinity College Dublin,=117,16157,41.2,79.0,44.8,27,0101-200,92.1
+55,21.6,119,Americas,Canada,Northern America,47.2,55 : 45,CA,58.6,University of Alberta,=119,32435,63.4,70.5,51.2,26,0101-200,84.8
+54,11.2,119,Asia,Hong Kong,Eastern Asia,40.8,54 : 46,HK,58.6,City University of Hong Kong,=119,9240,65.9,79.4,48.6,35,0101-200,84.4
+54,13.3,121,Europe,United Kingdom,Northern Europe,32.8,54 : 46,GB,58.5,Queen Mary University of London,121,15405,39.1,96.7,38.2,45,0101-200,95.5
+56,19.1,122,Europe,Netherlands,Western Europe,33.9,56 : 44,NL,58.4,Radboud University Nijmegen,122,19358,44.8,89.4,50.4,12,0101-200,68.8
+54,8.6,123,Americas,United States,Northern America,51.8,54 : 46,US,58.3,Georgetown University,=123,15956,66.3,87.5,37.2,17,0101-200,49.6
+49,12.3,123,Europe,France,Western Europe,49.5,49 : 51,FR,58.3,Pierre and Marie Curie University,=123,25117,31.8,85.7,39.8,20,0101-200,66.6
+54,74.5,125,Europe,Germany,Western Europe,41.8,54 : 46,DE,58.2,University of Mannheim,125,10995,57.8,80.5,53.0,16,0101-200,55.9
+43,20.1,126,Americas,United States,Northern America,41.5,43 : 57,US,58.1,Arizona State University,=126,44475,35.7,87.1,48.3,19,0101-200,55.2
+63,16.2,126,Europe,Germany,Western Europe,43.3,63 : 37,DE,58.1,Charité - Universitätsmedizin Berlin,=126,6792,87.5,88.6,39.2,18,0101-200,60.7
+53,12.5,126,Europe,United Kingdom,Northern Europe,37.9,53 : 47,GB,58.1,University of Southampton,=126,21670,38.5,86.0,43.7,33,0101-200,92.0
+54,37.8,129,Europe,Belgium,Western Europe,38.9,54 : 46,BE,58.0,Université Catholique de Louvain,129,24451,54.0,78.6,52.2,19,0101-200,76.7
+55,17.5,130,Europe,United Kingdom,Northern Europe,34.5,55 : 45,GB,57.8,University of Exeter,=130,19159,34.6,93.7,39.3,28,0101-200,88.8
+61,15.1,130,Europe,Switzerland,Western Europe,35.8,61 : 39,CH,57.8,University of Geneva,=130,16085,68.7,82.9,43.6,40,0101-200,98.2
+,8.2,132,Asia,China,Eastern Asia,52.7,n/a,CN,57.7,University of Science and Technology of China,132,16032,81.7,76.9,49.1,3,0101-200,27.9
+27,26.3,133,Europe,Germany,Western Europe,44.6,27 : 73,DE,57.6,Karlsruhe Institute of Technology,133,25824,97.9,75.7,47.7,18,0101-200,62.9
+48,34.3,134,Oceania,Australia,Australia and New Zealand,35.9,48 : 52,AU,57.5,University of Adelaide,=134,21241,67.3,85.3,43.1,26,0101-200,86.6
+,24.9,134,Europe,Sweden,Northern Europe,33.1,n/a,SE,57.5,Stockholm University,=134,33156,34.5,89.1,48.4,8,0101-200,72.7
+57,5.9,136,Europe,Switzerland,Western Europe,42.0,57 : 43,CH,57.4,University of Zurich,136,26363,43.2,87.0,36.0,20,0101-200,90.8
+22,10.4,137,Asia,South Korea,Eastern Asia,47.9,22 : 78,KR,57.3,Pohang University of Science and Technology,=137,3046,99.8,76.4,49.8,4,0101-200,34.3
+55,15.1,137,Europe,United Kingdom,Northern Europe,40.5,55 : 45,GB,57.3,University of York,=137,14962,34.1,81.6,44.9,27,0101-200,85.3
+60,14.7,139,Europe,United Kingdom,Northern Europe,42.2,60 : 40,GB,57.1,University of Leeds,139,27995,38.8,77.8,46.7,26,0101-200,82.1
+59,20.8,140,Europe,Spain,Southern Europe,34.7,59 : 41,ES,56.9,Pompeu Fabra University,140,11172,40.0,97.1,38.9,12,0101-200,62.3
+54,15.0,141,Europe,United Kingdom,Northern Europe,36.5,54 : 46,GB,56.8,University of Birmingham,=141,27061,37.2,89.7,38.3,27,0101-200,86.3
+28,18.6,141,Europe,Netherlands,Western Europe,41.3,28 : 72,NL,56.8,Eindhoven University of Technology,=141,7637,100.0,72.3,49.0,17,0101-200,73.9
+54,17.5,143,Americas,United States,Northern America,52.8,54 : 46,US,56.6,University of Florida,=143,46346,80.7,68.4,51.2,9,0101-200,37.9
+58,13.0,143,Europe,United Kingdom,Northern Europe,42.9,58 : 42,GB,56.6,University of St Andrews,=143,9005,33.6,76.6,42.5,48,0101-200,95.5
+65,50.9,145,Europe,Germany,Western Europe,39.8,65 : 35,DE,56.4,University of Cologne,145,45087,76.8,84.8,42.7,10,0101-200,57.1
+60,18.6,146,Europe,Norway,Northern Europe,36.0,60 : 40,NO,56.3,University of Oslo,146,27730,41.9,86.8,42.8,19,0101-200,73.4
+59,12.9,147,Europe,Spain,Southern Europe,43.3,59 : 41,ES,56.2,Autonomous University of Barcelona,=147,32309,42.1,89.5,36.1,16,0101-200,60.1
+54,14.0,147,Europe,United Kingdom,Northern Europe,40.5,54 : 46,GB,56.2,University of Nottingham,=147,29176,38.5,80.5,41.9,30,0101-200,84.4
+55,15.4,147,Europe,United Kingdom,Northern Europe,34.1,55 : 45,GB,56.2,University of Sussex,=147,12384,33.3,89.5,38.1,38,0101-200,91.5
+51,13.1,150,Europe,United Kingdom,Northern Europe,37.0,51 : 49,GB,55.9,Lancaster University,=150,11637,33.7,83.2,40.5,38,0101-200,91.1
+45,13.4,150,Americas,United States,Northern America,49.8,45 : 55,US,55.9,University of Notre Dame,=150,11912,35.3,83.0,37.9,11,0101-200,50.7
+,13.6,152,Europe,Switzerland,Western Europe,30.4,n/a,CH,55.7,University of Lausanne,152,13065,78.4,78.5,47.4,25,0101-200,90.8
+29,6.0,153,Europe,Denmark,Northern Europe,35.9,29 : 71,DK,55.6,Technical University of Denmark,=153,8548,63.8,81.6,39.5,24,0101-200,91.6
+49,4.3,153,Americas,United States,Northern America,41.7,49 : 51,US,55.6,University of Rochester,=153,9636,39.5,90.2,34.2,29,0101-200,63.7
+37,11.7,155,Europe,Italy,Southern Europe,41.6,37 : 63,IT,55.5,Scuola Superiore Sant’Anna,=155,690,87.8,88.0,36.0,14,0101-200,48.3
+42,35.9,155,Europe,Germany,Western Europe,42.8,42 : 58,DE,55.5,TU Dresden,=155,34514,95.0,74.2,46.9,13,0101-200,52.6
+48,28.4,155,Europe,Germany,Western Europe,37.1,48 : 52,DE,55.5,Ulm University,=155,10657,77.3,90.0,37.4,13,0101-200,56.5
+49,7.1,158,Americas,United States,Northern America,44.4,49 : 51,US,55.2,Case Western Reserve University,158,10130,36.7,90.1,34.9,19,0101-200,46.1
+54,14.1,159,Europe,United Kingdom,Northern Europe,32.2,54 : 46,GB,55.0,University of Leicester,=159,14635,35.2,91.4,34.5,38,0101-200,89.9
+48,23.6,159,Americas,United States,Northern America,50.4,48 : 52,US,55.0,Texas A&M University,=159,56245,41.2,60.2,56.3,9,0101-200,52.0
+52,13.0,161,Americas,United States,Northern America,44.3,52 : 48,US,54.9,University of Arizona,161,38334,46.1,85.4,38.7,9,0101-200,43.3
+52,23.0,162,Americas,United States,Northern America,31.5,52 : 48,US,54.8,"University of California, Santa Cruz",=162,17866,38.2,99.9,35.0,4,0101-200,51.6
+58,13.5,162,Europe,United Kingdom,Northern Europe,35.8,58 : 42,GB,54.8,Cardiff University,=162,24186,35.5,84.5,39.3,26,0101-200,80.6
+49,58.5,162,Europe,Germany,Western Europe,39.8,49 : 51,DE,54.8,University of Erlangen-Nuremberg,=162,38730,95.9,77.6,44.0,12,0101-200,53.0
+66,20.8,165,Europe,Austria,Western Europe,42.6,66 : 34,AT,54.7,University of Vienna,=165,35375,33.2,66.0,47.6,26,0101-200,93.4
+56,18.1,165,Europe,Netherlands,Western Europe,32.5,56 : 44,NL,54.7,Vrije Universiteit Amsterdam,=165,24554,56.3,89.1,40.7,7,0101-200,60.7
+57,33.9,165,Europe,Germany,Western Europe,35.8,57 : 43,DE,54.7,University of Würzburg,=165,22537,46.1,86.5,42.8,9,0101-200,53.7
+61,15.2,168,Americas,United States,Northern America,39.7,61 : 39,US,54.6,University of Alabama at Birmingham,168,15703,67.6,95.1,32.8,6,0101-200,34.6
+50,14.2,169,Asia,China,Eastern Asia,49.6,50 : 50,CN,54.5,Nanjing University,=169,33456,77.8,64.9,47.0,10,0101-200,54.4
+54,9.3,169,Americas,United States,Northern America,44.1,54 : 46,US,54.5,Tufts University,=169,10463,36.7,88.1,33.4,16,0101-200,52.7
+53,11.7,171,Africa,South Africa,Southern Africa,30.5,53 : 47,ZA,54.4,University of Cape Town,171,20775,88.5,87.0,36.2,18,0101-200,81.1
+52,11.1,172,Americas,United States,Northern America,43.0,52 : 48,US,54.3,"Rutgers, the State University of New Jersey",172,43439,36.9,79.7,45.3,10,0101-200,39.2
+33,16.0,173,Europe,Sweden,Northern Europe,42.3,33 : 67,SE,54.2,KTH Royal Institute of Technology,=173,12951,50.9,67.0,46.3,17,0101-200,83.7
+53,42.6,173,Europe,Germany,Western Europe,40.3,53 : 47,DE,54.2,University of Münster,=173,42287,60.8,81.2,42.1,7,0101-200,47.7
+55,43.4,175,Europe,Belgium,Western Europe,32.4,55 : 45,BE,54.0,Université Libre de Bruxelles,=175,25343,48.4,80.4,42.2,35,0101-200,83.2
+49,15.6,175,Europe,United Kingdom,Northern Europe,33.4,49 : 51,GB,54.0,Newcastle University,=175,20952,41.6,80.6,40.8,30,0101-200,86.7
+54,11.7,177,Europe,United Kingdom,Northern Europe,32.7,54 : 46,GB,53.9,University of Liverpool,=177,19815,37.1,86.8,34.7,35,0101-200,89.9
+22,14.1,177,Asia,China,Eastern Asia,57.0,22 : 78,CN,53.9,Zhejiang University,=177,50051,89.4,45.1,63.7,6,0101-200,25.2
+50,14.6,179,Europe,Luxembourg,Western Europe,26.8,50 : 50,LU,53.8,University of Luxembourg,=179,4969,39.6,91.9,32.4,57,0101-200,99.8
+37,12.8,179,Europe,Netherlands,Western Europe,35.5,37 : 63,NL,53.8,University of Twente,=179,6697,83.6,68.5,47.0,27,0101-200,85.3
+55,14.5,181,Europe,France,Western Europe,40.4,55 : 45,FR,53.7,Paris-Sud University,181,27221,32.3,86.8,33.1,16,0101-200,63.5
+47,8.5,182,Europe,France,Western Europe,40.1,47 : 53,FR,53.6,École Normale Supérieure de Lyon,=182,2221,37.9,80.9,37.8,13,0101-200,67.3
+51,26.9,182,Asia,Hong Kong,Eastern Asia,39.1,51 : 49,HK,53.6,Hong Kong Polytechnic University,=182,21773,45.8,67.7,48.1,25,0101-200,79.9
+30,5.2,184,Europe,Italy,Southern Europe,53.7,30 : 70,IT,53.4,Scuola Normale Superiore di Pisa,184,515,37.7,75.4,33.3,7,0101-200,49.4
+55,13.9,185,Europe,United Kingdom,Northern Europe,30.3,55 : 45,GB,53.3,University of Aberdeen,185,12055,41.9,87.1,33.6,36,0101-200,93.3
+51,5.9,186,Americas,United States,Northern America,42.5,51 : 49,US,53.1,University of Miami,186,15860,37.2,90.3,24.4,16,0101-200,67.1
+62,14.9,187,Europe,United Kingdom,Northern Europe,26.3,62 : 38,GB,52.9,University of Dundee,187,10893,43.4,94.5,32.0,24,0101-200,79.8
+60,13.6,188,Europe,United Kingdom,Northern Europe,29.9,60 : 40,GB,52.8,University of East Anglia,=188,13521,32.2,90.5,31.6,30,0101-200,85.6
+41,12.4,188,Asia,China,Eastern Asia,53.5,41 : 59,CN,52.8,Shanghai Jiao Tong University,=188,37288,88.9,44.1,62.5,6,0101-200,33.4
+34,20.2,190,Europe,Finland,Northern Europe,37.8,34 : 66,FI,52.7,Aalto University,190,12744,52.5,79.5,35.8,20,0101-200,72.5
+49,13.3,191,Americas,United States,Northern America,36.3,49 : 51,US,52.6,University of Massachusetts,191,59230,51.0,88.8,32.2,14,0101-200,54.8
+54,18.8,192,Oceania,New Zealand,Australia and New Zealand,32.5,54 : 46,NZ,52.5,University of Auckland,192,30348,67.3,73.8,40.7,29,0101-200,90.6
+49,14.0,193,Americas,United States,Northern America,35.6,49 : 51,US,52.4,Northeastern University,193,18780,35.4,91.7,26.8,32,0101-200,70.1
+48,7.3,194,Europe,Russian Federation,Eastern Europe,74.2,48 : 52,RU,52.3,Lomonosov Moscow State University,194,29236,89.0,15.8,61.6,22,0101-200,61.1
+48,22.5,195,Europe,Netherlands,Western Europe,38.4,48 : 52,NL,52.1,Tilburg University,195,7738,59.0,61.3,50.1,13,0101-200,75.8
+68,30.2,196,Europe,France,Western Europe,44.6,68 : 32,FR,52.0,Paris-Sorbonne University – Paris 4,196,22042,32.1,77.1,34.3,15,0101-200,57.9
+59,15.4,197,Europe,United Kingdom,Northern Europe,33.9,59 : 41,GB,51.9,"Royal Holloway, University of London",197,8931,35.0,85.0,27.9,40,0101-200,93.0
+51,20.7,198,Americas,United States,Northern America,30.0,51 : 49,US,51.7,"University of California, Riverside",=198,20740,37.4,92.3,30.9,14,0101-200,63.9
+,10.0,198,Europe,Sweden,Northern Europe,26.7,n/a,SE,51.7,University of Gothenburg,=198,18378,38.9,87.5,39.2,13,0101-200,62.5
+40,11.5,198,Asia,Taiwan,Eastern Asia,50.4,40 : 60,TW,51.7,National Taiwan University,=198,31758,65.0,53.4,54.7,8,0101-200,33.4
+49,13.6,250,Europe,Denmark,Northern Europe,28.2,49 : 51,DK,48.3–51.6,Aalborg University,201–250,15512,46.5,84.2,36.2,13,0201-500,70.7
+53,35.2,250,Europe,Belgium,Western Europe,34.6,53 : 47,BE,48.3–51.6,University of Antwerp,201–250,16056,75.9,73.3,40.1,16,0201-500,66.3
+61,12.4,250,Europe,Spain,Southern Europe,32.4,61 : 39,ES,48.3–51.6,University of Barcelona,201–250,47458,34.0,83.2,32.5,10,0201-500,50.6
+60,12.0,250,Europe,Norway,Northern Europe,29.2,60 : 40,NO,48.3–51.6,University of Bergen,201–250,12554,35.2,90.0,30.6,13,0201-500,75.3
+,22.2,250,Europe,Italy,Southern Europe,43.6,n/a,IT,48.3–51.6,University of Bologna,201–250,62296,39.1,80.0,30.1,10,0201-500,47.4
+55,12.9,250,Americas,United States,Northern America,28.9,55 : 45,US,48.3–51.6,Brandeis University,201–250,5620,33.7,99.7,24.3,25,0201-500,49.8
+,15.7,250,Americas,Canada,Northern America,34.6,n/a,CA,48.3–51.6,University of Calgary,201–250,27084,53.5,77.2,35.8,19,0201-500,73.6
+31,11.4,250,Europe,Sweden,Northern Europe,35.1,31 : 69,SE,48.3–51.6,Chalmers University of Technology,201–250,9112,70.2,62.3,39.6,16,0201-500,78.3
+52,20.7,250,Americas,United States,Northern America,36.9,52 : 48,US,48.3–51.6,University of Cincinnati,201–250,28035,41.0,82.0,30.3,9,0201-500,35.6
+49,44.3,250,Europe,Denmark,Northern Europe,24.2,49 : 51,DK,48.3–51.6,Copenhagen Business School,201–250,19079,40.4,80.8,36.6,23,0201-500,91.2
+57,16.8,250,Americas,United States,Northern America,27.8,57 : 43,US,48.3–51.6,University of Delaware,201–250,20125,91.0,79.5,37.5,10,0201-500,45.4
+48,53.8,250,Europe,Germany,Western Europe,32.8,48 : 52,DE,48.3–51.6,University of Duisburg-Essen,201–250,41916,73.8,88.8,29.9,13,0201-500,52.7
+55,26.3,250,Americas,United States,Northern America,41.3,55 : 45,US,48.3–51.6,Florida State University,201–250,38386,37.2,73.3,42.0,7,0201-500,47.3
+58,45.4,250,Europe,Switzerland,Western Europe,34.2,58 : 42,CH,48.3–51.6,University of Fribourg,201–250,10769,58.5,65.5,35.0,18,0201-500,86.9
+58,12.9,250,Americas,United States,Northern America,44.8,58 : 42,US,48.3–51.6,George Washington University,201–250,22015,32.6,77.2,30.4,16,0201-500,50.3
+56,48.4,250,Europe,Germany,Western Europe,43.5,56 : 44,DE,48.3–51.6,University of Hamburg,201–250,38182,67.7,65.0,42.0,12,0201-500,58.0
+56,11.0,250,Americas,United States,Northern America,37.3,56 : 44,US,48.3–51.6,University of Hawai’i at Mānoa,201–250,16256,49.9,76.2,37.1,13,0201-500,65.9
+55,11.2,250,Asia,Israel,Western Asia,39.9,55 : 45,IL,48.3–51.6,Hebrew University of Jerusalem,201–250,17454,36.3,71.8,41.7,5,0201-500,58.2
+66,15.3,250,Europe,Iceland,Northern Europe,19.5,66 : 34,IS,48.3–51.6,University of Iceland,201–250,8693,57.3,93.4,29.0,10,0201-500,63.0
+52,12.4,250,Americas,United States,Northern America,42.0,52 : 48,US,48.3–51.6,University of Iowa,201–250,27310,60.6,78.2,34.0,13,0201-500,35.4
+62,22.5,250,Oceania,Australia,Australia and New Zealand,23.4,62 : 38,AU,48.3–51.6,James Cook University,201–250,11867,42.9,89.1,27.7,12,0201-500,73.9
+53,23.4,250,Europe,Germany,Western Europe,31.5,53 : 47,DE,48.3–51.6,University of Kiel,201–250,25392,9.1,94.4,28.1,8,0201-500,52.4
+54,8.1,250,Asia,Saudi Arabia,Western Asia,25.6,54 : 46,SA,48.3–51.6,King Abdulaziz University,201–250,31554,77.8,97.3,15.3,21,0201-500,92.0
+54,48.2,250,Europe,Germany,Western Europe,39.1,54 : 46,DE,48.3–51.6,University of Konstanz,201–250,11381,69.9,65.2,44.5,12,0201-500,61.8
+46,15.6,250,Asia,South Korea,Eastern Asia,44.7,46 : 54,KR,48.3–51.6,Korea University,201–250,23037,97.7,49.0,47.7,19,0201-500,49.0
+57,26.6,250,Europe,Ireland,Northern Europe,26.8,57 : 43,IE,48.3–51.6,"National University of Ireland, Galway",201–250,13898,42.5,80.5,30.1,18,0201-500,80.3
+31,9.5,250,Asia,Japan,Eastern Asia,53.7,31 : 69,JP,48.3–51.6,Osaka University,201–250,23256,81.3,38.7,57.6,10,0201-500,33.5
+57,19.9,250,Oceania,New Zealand,Australia and New Zealand,31.2,57 : 43,NZ,48.3–51.6,University of Otago,201–250,18157,45.1,82.2,30.7,20,0201-500,88.6
+59,25.6,250,Americas,Canada,Northern America,37.6,59 : 41,CA,48.3–51.6,University of Ottawa,201–250,35177,40.2,69.1,37.5,17,0201-500,73.6
+63,14.9,250,Europe,France,Western Europe,30.2,63 : 37,FR,48.3–51.6,Paris Diderot University – Paris 7,201–250,27992,32.6,89.7,25.8,17,0201-500,67.7
+61,74.8,250,Europe,Germany,Western Europe,30.2,61 : 39,DE,48.3–51.6,University of Passau,201–250,11804,40.8,92.7,23.6,9,0201-500,49.0
+58,59.1,250,Europe,Germany,Western Europe,35.6,58 : 42,DE,48.3–51.6,University of Potsdam,201–250,20066,42.2,74.3,41.4,10,0201-500,55.0
+55,16.6,250,Europe,United Kingdom,Northern Europe,28.3,55 : 45,GB,48.3–51.6,Queen’s University Belfast,201–250,17947,35.7,83.1,32.3,32,0201-500,94.6
+54,37.0,250,Oceania,Australia,Australia and New Zealand,30.7,54 : 46,AU,48.3–51.6,Queensland University of Technology,201–250,35211,63.2,73.0,40.3,17,0201-500,79.1
+56,14.7,250,Europe,United Kingdom,Northern Europe,34.6,56 : 44,GB,48.3–51.6,University of Reading,201–250,12874,36.9,73.9,34.9,33,0201-500,88.8
+,17.6,250,Europe,Ireland,Northern Europe,31.9,n/a,IE,48.3–51.6,Royal College of Surgeons in Ireland,201–250,2136,40.7,92.8,21.8,64,0201-500,88.6
+49,61.1,250,Europe,Germany,Western Europe,36.6,49 : 51,DE,48.3–51.6,Ruhr University Bochum,201–250,43004,73.2,62.3,42.9,13,0201-500,52.3
+62,25.8,250,Oceania,Australia,Australia and New Zealand,31.5,62 : 38,AU,48.3–51.6,University of South Australia,201–250,17575,81.6,63.3,36.3,41,0201-500,91.8
+62,14.9,250,Europe,United Kingdom,Northern Europe,21.4,62 : 38,GB,48.3–51.6,"St George’s, University of London",201–250,3174,35.3,100.0,23.4,17,0201-500,69.9
+31,53.2,250,Europe,Germany,Western Europe,41.1,31 : 69,DE,48.3–51.6,University of Stuttgart,201–250,26059,68.8,60.0,48.8,18,0201-500,52.6
+66,22.2,250,Europe,Finland,Northern Europe,25.8,66 : 34,FI,48.3–51.6,University of Tampere,201–250,9360,51.5,88.2,32.4,3,0201-500,41.6
+30,44.5,250,Europe,Germany,Western Europe,39.2,30 : 70,DE,48.3–51.6,Technical University of Darmstadt,201–250,17776,95.9,57.2,43.7,16,0201-500,54.3
+53,43.6,250,Oceania,Australia,Australia and New Zealand,29.7,53 : 47,AU,48.3–51.6,"University of Technology, Sydney",201–250,25256,51.0,71.7,40.5,37,0201-500,94.2
+54,23.1,250,Asia,Israel,Western Asia,41.5,54 : 46,IL,48.3–51.6,Tel Aviv University,201–250,22973,42.7,59.4,52.1,4,0201-500,49.5
+43,25.4,250,Americas,United States,Northern America,25.7,43 : 57,US,48.3–51.6,University of Texas at Dallas,201–250,22967,41.5,89.8,29.4,25,0201-500,57.7
+26,5.5,250,Asia,Japan,Eastern Asia,49.6,26 : 74,JP,48.3–51.6,Tohoku University,201–250,17494,68.3,46.5,50.6,10,0201-500,34.7
+28,14.3,250,Asia,South Korea,Eastern Asia,22.9,28 : 72,KR,48.3–51.6,Ulsan National Institute of Science and Technology,201–250,4046,66.0,95.9,30.7,7,0201-500,47.9
+,23.0,250,Europe,Ireland,Northern Europe,29.2,n/a,IE,48.3–51.6,University College Dublin,201–250,21605,38.1,74.0,37.5,26,0201-500,89.3
+45,14.5,250,Americas,United States,Northern America,37.2,45 : 55,US,48.3–51.6,University of Utah,201–250,30040,46.1,88.5,34.1,10,0201-500,33.0
+58,7.1,250,Europe,Italy,Southern Europe,34.0,58 : 42,IT,48.3–51.6,Vita-Salute San Raffaele University,201–250,2598,32.8,96.3,23.1,5,0201-500,45.7
+46,26.1,250,Americas,Canada,Northern America,35.7,46 : 54,CA,48.3–51.6,University of Waterloo,201–250,32000,42.6,69.8,41.7,17,0201-500,80.0
+55,22.0,250,Americas,Canada,Northern America,41.8,55 : 45,CA,48.3–51.6,Western University,201–250,28996,55.7,68.8,36.1,17,0201-500,75.2
+45,14.7,250,Asia,South Korea,Eastern Asia,48.6,45 : 55,KR,48.3–51.6,Yonsei University (Seoul campus),201–250,18038,99.2,46.1,50.2,21,0201-500,54.6
+58,16.8,300,Europe,France,Western Europe,40.2,58 : 42,FR,45.2–48.2,Aix-Marseille University,251–300,66623,34.4,70.0,22.4,12,0201-500,60.7
+45,16.3,300,Europe,United Kingdom,Northern Europe,33.9,45 : 55,GB,45.2–48.2,University of Bath,251–300,12513,36.0,67.3,31.7,32,0201-500,88.3
+45,37.9,300,Europe,Germany,Western Europe,34.4,45 : 55,DE,45.2–48.2,University of Bayreuth,251–300,12917,62.7,67.8,34.1,8,0201-500,54.7
+57,66.8,300,Europe,Germany,Western Europe,36.9,57 : 43,DE,45.2–48.2,Bielefeld University,251–300,23683,54.5,58.6,42.0,8,0201-500,46.3
+50,34.2,300,Europe,Germany,Western Europe,36.4,50 : 50,DE,45.2–48.2,University of Bremen,251–300,19040,45.7,63.2,36.5,11,0201-500,52.1
+45,17.7,300,Americas,United States,Northern America,38.8,45 : 55,US,45.2–48.2,University at Buffalo,251–300,25247,44.7,69.8,28.5,18,0201-500,62.5
+60,11.7,300,Americas,United States,Northern America,23.7,60 : 40,US,45.2–48.2,Clark University,251–300,3316,32.6,93.4,23.7,26,0201-500,60.0
+55,5.0,300,Americas,United States,Northern America,30.2,55 : 45,US,45.2–48.2,University of Colorado Denver,251–300,15491,42.0,95.1,18.0,8,0201-500,29.0
+28,17.6,300,Americas,United States,Northern America,33.6,28 : 72,US,45.2–48.2,Colorado School of Mines,251–300,5557,55.5,81.7,26.8,11,0201-500,41.3
+55,14.9,300,Americas,Canada,Northern America,26.6,55 : 45,CA,45.2–48.2,Dalhousie University,251–300,15201,41.5,74.3,28.3,20,0201-500,82.4
+30,12.3,300,Europe,France,Western Europe,38.1,30 : 70,FR,45.2–48.2,École des Ponts ParisTech,251–300,1749,63.3,74.9,16.9,41,0201-500,79.4
+55,16.5,300,Europe,United Kingdom,Northern Europe,33.4,55 : 45,GB,45.2–48.2,University of Essex,251–300,10986,32.5,62.8,32.0,43,0201-500,95.8
+58,13.3,300,Europe,Germany,Western Europe,32.5,58 : 42,DE,45.2–48.2,Goethe University Frankfurt,251–300,45387,38.6,73.4,27.8,15,0201-500,60.7
+56,22.3,300,Oceania,Australia,Australia and New Zealand,23.4,56 : 44,AU,45.2–48.2,Griffith University,251–300,31772,40.7,77.7,29.8,19,0201-500,82.0
+56,42.9,300,Europe,Germany,Western Europe,34.9,56 : 44,DE,45.2–48.2,University of Hohenheim,251–300,9557,50.3,70.0,28.8,13,0201-500,51.7
+52,11.4,300,Americas,United States,Northern America,42.1,52 : 48,US,45.2–48.2,University of Illinois at Chicago,251–300,25450,42.1,68.2,31.6,19,0201-500,56.2
+21,8.4,300,Asia,India,Southern Asia,53.8,21 : 79,IN,45.2–48.2,Indian Institute of Science,251–300,3550,49.5,44.4,48.6,1,0201-500,19.5
+54,13.1,300,Europe,Austria,Western Europe,27.5,54 : 46,AT,45.2–48.2,University of Innsbruck,251–300,14530,37.5,77.8,18.5,39,0201-500,96.7
+59,32.1,300,Europe,Germany,Western Europe,36.4,59 : 41,DE,45.2–48.2,Johannes Gutenberg University of Mainz,251–300,34219,57.5,79.8,23.6,10,0201-500,55.2
+57,16.9,300,Americas,Canada,Northern America,37.7,57 : 43,CA,45.2–48.2,Laval University,251–300,29322,54.7,70.3,28.7,13,0201-500,66.8
+54,31.0,300,Oceania,Australia,Australia and New Zealand,31.3,54 : 46,AU,45.2–48.2,Macquarie University,251–300,27955,41.0,70.0,34.4,22,0201-500,77.0
+56,37.4,300,Europe,Germany,Western Europe,35.7,56 : 44,DE,45.2–48.2,University of Marburg,251–300,26062,36.6,75.0,27.7,9,0201-500,49.9
+50,2.7,300,Europe,Austria,Western Europe,31.2,50 : 50,AT,45.2–48.2,Medical University of Vienna,251–300,7209,36.6,90.2,13.5,28,0201-500,84.1
+20,8.7,300,Europe,Russian Federation,Eastern Europe,47.7,20 : 80,RU,45.2–48.2,Moscow Institute of Physics and Technology,251–300,5761,99.9,50.0,41.4,12,0201-500,51.7
+55,22.0,300,Oceania,Australia,Australia and New Zealand,28.0,55 : 45,AU,45.2–48.2,University of Newcastle,251–300,22921,62.9,73.0,26.9,17,0201-500,79.9
+45,13.1,300,Americas,United States,Northern America,35.6,45 : 55,US,45.2–48.2,North Carolina State University,251–300,30254,42.5,68.4,34.5,13,0201-500,52.8
+46,16.9,300,Europe,Norway,Northern Europe,30.7,46 : 54,NO,45.2–48.2,Norwegian University of Science and Technology,251–300,21571,42.0,68.3,34.6,11,0201-500,64.9
+52,18.6,300,Americas,United States,Northern America,31.1,52 : 48,US,45.2–48.2,University of Oregon,251–300,23728,32.0,84.7,30.1,14,0201-500,37.0
+64,1.0,300,Americas,United States,Northern America,32.2,64 : 36,US,45.2–48.2,Oregon Health and Science University,251–300,2895,44.5,99.0,15.1,2,0201-500,24.4
+50,23.7,300,Europe,Finland,Northern Europe,30.2,50 : 50,FI,45.2–48.2,University of Oulu,251–300,10287,43.2,79.1,30.0,6,0201-500,53.1
+57,22.7,300,Americas,Canada,Northern America,40.0,57 : 43,CA,45.2–48.2,Queen’s University,251–300,21227,51.0,61.7,35.9,12,0201-500,66.3
+48,14.8,300,Americas,Brazil,South America,52.9,48 : 52,BR,45.2–48.2,University of São Paulo,251–300,82258,38.1,31.5,55.5,4,0201-500,30.9
+54,27.6,300,Americas,Canada,Northern America,25.6,54 : 46,CA,45.2–48.2,Simon Fraser University,251–300,26309,43.5,75.6,33.4,29,0201-500,90.4
+53,13.5,300,Europe,Denmark,Northern Europe,21.4,53 : 47,DK,45.2–48.2,University of Southern Denmark,251–300,25328,68.8,83.4,25.3,16,0201-500,78.1
+,19.6,300,Americas,United States,Northern America,29.6,n/a,US,45.2–48.2,University of South Florida,251–300,33053,93.0,74.4,35.8,12,0201-500,46.9
+49,10.4,300,Americas,United States,Northern America,33.0,49 : 51,US,45.2–48.2,Stony Brook University,251–300,23136,33.4,84.4,23.8,24,0201-500,58.7
+53,14.3,300,Europe,United Kingdom,Northern Europe,30.3,53 : 47,GB,45.2–48.2,University of Surrey,251–300,11027,46.3,64.5,33.1,38,0201-500,92.7
+47,16.1,300,Europe,United Kingdom,Northern Europe,22.1,47 : 53,GB,45.2–48.2,Swansea University,251–300,13896,34.9,80.4,25.6,24,0201-500,79.9
+69,4.4,300,Europe,Sweden,Northern Europe,30.0,69 : 31,SE,45.2–48.2,Swedish University of Agricultural Sciences,251–300,3812,98.1,79.3,27.1,4,0201-500,42.5
+54,16.3,300,Americas,United States,Northern America,32.8,54 : 46,US,45.2–48.2,Syracuse University,251–300,20180,37.0,79.5,28.7,19,0201-500,45.6
+14,7.3,300,Asia,Japan,Eastern Asia,49.5,14 : 86,JP,45.2–48.2,Tokyo Institute of Technology,251–300,9570,67.8,39.8,52.9,13,0201-500,35.8
+51,29.4,300,Europe,Italy,Southern Europe,26.2,51 : 49,IT,45.2–48.2,University of Trento,251–300,17759,39.9,85.1,29.6,8,0201-500,58.2
+60,11.7,300,Europe,Sweden,Northern Europe,24.9,60 : 40,SE,45.2–48.2,Umeå University,251–300,16553,34.9,81.8,29.8,10,0201-500,60.6
+51,4.1,300,Americas,United States,Northern America,34.8,51 : 49,US,45.2–48.2,Wake Forest University,251–300,7579,38.4,91.4,18.4,6,0201-500,28.2
+55,11.8,300,Americas,United States,Northern America,44.9,55 : 45,US,45.2–48.2,William & Mary,251–300,8044,32.6,84.6,18.2,9,0201-500,32.2
+56,24.6,300,Africa,South Africa,Southern Africa,26.6,56 : 44,ZA,45.2–48.2,University of the Witwatersrand,251–300,25342,99.9,76.5,23.2,8,0201-500,69.8
+50,27.0,300,Oceania,Australia,Australia and New Zealand,29.4,50 : 50,AU,45.2–48.2,University of Wollongong,251–300,16947,47.7,67.1,33.2,24,0201-500,88.1
+47,18.4,350,Europe,United Kingdom,Northern Europe,24.2,47 : 53,GB,42.4–45.1,Aberystwyth University,301–350,7920,36.6,76.7,25.5,18,0201-500,74.9
+51,8.3,350,Americas,United States,Northern America,25.3,51 : 49,US,42.4–45.1,University of Alaska Fairbanks,301–350,3769,44.9,78.3,23.2,6,0201-500,52.8
+62,21.7,350,Europe,United Kingdom,Northern Europe,16.7,62 : 38,GB,42.4–45.1,Anglia Ruskin University,301–350,15197,32.6,99.4,11.2,25,0201-500,71.1
+32,28.6,350,Asia,Iran,Southern Asia,24.8,32 : 68,IR,42.4–45.1,Babol Noshirvani University of Technology,301–350,4749,56.1,99.1,12.2,n/a,0201-500,15.5
+55,18.4,350,Europe,United Kingdom,Northern Europe,25.7,55 : 45,GB,42.4–45.1,Bangor University,301–350,9327,33.4,72.7,21.4,25,0201-500,83.8
+54,16.8,350,Europe,United Kingdom,Northern Europe,30.5,54 : 46,GB,42.4–45.1,"Birkbeck, University of London",301–350,9014,32.4,62.2,32.0,39,0201-500,87.5
+58,21.0,350,Europe,France,Western Europe,31.0,58 : 42,FR,42.4–45.1,University of Bordeaux,301–350,52526,34.8,75.2,22.0,12,0201-500,54.3
+55,16.1,350,Americas,United States,Northern America,37.0,55 : 45,US,42.4–45.1,Boston College,301–350,12943,43.8,74.1,20.0,12,0201-500,53.8
+59,12.1,350,Europe,United Kingdom,Northern Europe,18.8,59 : 41,GB,42.4–45.1,Brighton and Sussex Medical School,301–350,761,31.7,97.0,12.9,16,0201-500,72.0
+63,22.4,350,Oceania,Australia,Australia and New Zealand,17.9,63 : 37,AU,42.4–45.1,Charles Darwin University,301–350,6551,38.8,88.0,18.6,32,0201-500,82.2
+51,12.7,350,Americas,United States,Northern America,35.7,51 : 49,US,42.4–45.1,University of Connecticut,301–350,26669,34.6,66.8,28.5,12,0201-500,48.5
+58,32.9,350,Oceania,Australia,Australia and New Zealand,23.3,58 : 42,AU,42.4–45.1,Deakin University,301–350,36768,36.2,72.0,26.6,17,0201-500,77.7
+56,13.2,350,Americas,United States,Northern America,35.9,56 : 44,US,42.4–45.1,University of Denver,301–350,9671,35.7,74.4,29.8,11,0201-500,28.8
+63,18.3,350,Europe,Finland,Northern Europe,25.2,63 : 37,FI,42.4–45.1,University of Eastern Finland,301–350,11459,36.2,79.1,26.1,6,0201-500,49.3
+63,23.9,350,Oceania,Australia,Australia and New Zealand,22.9,63 : 37,AU,42.4–45.1,Flinders University,301–350,16757,39.4,77.9,27.6,18,0201-500,68.4
+33,11.6,350,Europe,Italy,Southern Europe,22.0,33 : 67,IT,42.4–45.1,Free University of Bozen-Bolzano,301–350,3304,32.1,88.6,14.3,12,0201-500,68.9
+54,17.5,350,Americas,United States,Northern America,28.5,54 : 46,US,42.4–45.1,George Mason University,301–350,27749,33.2,76.0,26.4,8,0201-500,40.8
+66,13.9,350,Europe,United Kingdom,Northern Europe,33.9,66 : 34,GB,42.4–45.1,"Goldsmiths, University of London",301–350,7416,31.8,62.0,26.0,37,0201-500,77.0
+57,17.0,350,Europe,France,Western Europe,30.9,57 : 43,FR,42.4–45.1,Grenoble Alpes University,301–350,39298,33.8,74.9,22.9,15,0201-500,60.7
+50,42.9,350,Americas,United States,Northern America,36.8,50 : 50,US,42.4–45.1,University of Houston,301–350,41128,37.8,60.5,34.1,10,0201-500,39.8
+45,18.8,350,Americas,United States,Northern America,29.1,45 : 55,US,42.4–45.1,Iowa State University,301–350,31307,48.6,65.3,31.4,12,0201-500,53.8
+53,12.7,350,Europe,United Kingdom,Northern Europe,25.1,53 : 47,GB,42.4–45.1,University of Kent,301–350,16949,32.1,67.8,23.6,31,0201-500,90.2
+46,8.3,350,Asia,United Arab Emirates,Western Asia,23.4,46 : 54,AE,42.4–45.1,Khalifa University of Science and Technology,301–350,3134,84.5,71.4,18.7,32,0201-500,97.9
+52,14.9,350,Asia,Turkey,Western Asia,25.7,52 : 48,TR,42.4–45.1,Koç University,301–350,5172,84.3,65.2,32.1,10,0201-500,53.8
+56,27.1,350,Europe,Belgium,Western Europe,25.8,56 : 44,BE,42.4–45.1,University of Liège,301–350,21910,96.8,57.9,33.6,23,0201-500,71.0
+39,14.9,350,Europe,United Kingdom,Northern Europe,34.0,39 : 61,GB,42.4–45.1,Loughborough University,301–350,13457,38.5,52.7,32.9,22,0201-500,74.8
+53,6.9,350,Europe,Austria,Western Europe,24.3,53 : 47,AT,42.4–45.1,Medical University of Graz,301–350,3323,46.9,85.8,15.7,23,0201-500,74.8
+59,28.1,350,Europe,Italy,Southern Europe,34.1,59 : 41,IT,42.4–45.1,University of Milan,301–350,56805,42.9,73.7,25.9,5,0201-500,41.4
+29,7.9,350,Asia,Japan,Eastern Asia,44.9,29 : 71,JP,42.4–45.1,Nagoya University,301–350,15594,87.2,43.2,47.2,10,0201-500,29.9
+33,13.8,350,Asia,Taiwan,Eastern Asia,38.0,33 : 67,TW,42.4–45.1,National Tsing Hua University,301–350,10194,54.8,59.4,37.1,5,0201-500,29.0
+53,14.9,350,Europe,Spain,Southern Europe,27.9,53 : 47,ES,42.4–45.1,University of Navarra,301–350,10827,63.9,74.6,24.5,19,0201-500,59.7
+47,16.3,350,Americas,United States,Northern America,32.4,47 : 53,US,42.4–45.1,University of Nebraska-Lincoln,301–350,22578,37.9,65.9,29.6,12,0201-500,50.4
+47,16.2,350,Americas,United States,Northern America,30.1,47 : 53,US,42.4–45.1,Oregon State University,301–350,23668,36.5,72.4,29.3,10,0201-500,48.5
+34,23.8,350,Europe,Italy,Southern Europe,32.2,34 : 66,IT,42.4–45.1,Polytechnic University of Milan,301–350,33189,58.1,65.0,31.7,14,0201-500,53.1
+32,15.7,350,Americas,United States,Northern America,28.9,32 : 68,US,42.4–45.1,Rensselaer Polytechnic Institute,301–350,7240,67.3,71.7,31.8,17,0201-500,46.2
+73,2.1,350,Americas,United States,Northern America,35.3,73 : 27,US,42.4–45.1,Rush University,301–350,2437,41.3,88.2,12.4,3,0201-500,14.8
+58,32.1,350,Europe,Italy,Southern Europe,38.4,58 : 42,IT,42.4–45.1,Sapienza University of Rome,301–350,111453,41.2,64.1,34.7,7,0201-500,38.9
+62,15.1,350,Europe,United Kingdom,Northern Europe,24.4,62 : 38,GB,42.4–45.1,University of Stirling,301–350,8507,33.6,76.2,25.7,21,0201-500,76.7
+66,11.6,350,Europe,Estonia,Northern Europe,24.5,66 : 34,EE,42.4–45.1,University of Tartu,301–350,8835,33.5,83.6,25.3,5,0201-500,50.4
+60,14.5,350,Oceania,Australia,Australia and New Zealand,24.1,60 : 40,AU,42.4–45.1,University of Tasmania,301–350,11346,51.5,65.4,30.8,22,0201-500,82.2
+45,99.6,350,Europe,Germany,Western Europe,34.9,45 : 55,DE,42.4–45.1,TU Dortmund University,301–350,32870,45.5,64.0,31.1,10,0201-500,42.0
+34,21.7,350,Asia,Israel,Western Asia,32.7,34 : 66,IL,42.4–45.1,Technion Israel Institute of Technology,301–350,14693,39.0,58.6,34.8,5,0201-500,64.4
+,16.4,350,Americas,United States,Northern America,32.4,n/a,US,42.4–45.1,"University of Tennessee, Knoxville",301–350,25264,41.3,79.2,21.7,5,0201-500,42.7
+36,8.2,350,Europe,Russian Federation,Eastern Europe,29.0,36 : 64,RU,42.4–45.1,Tomsk Polytechnic University,301–350,9858,69.7,81.5,17.7,24,0201-500,50.9
+57,22.8,350,Americas,Canada,Northern America,24.8,57 : 43,CA,42.4–45.1,University of Victoria,301–350,18388,41.4,72.2,21.9,15,0201-500,76.7
+54,31.4,350,Oceania,Australia,Australia and New Zealand,24.1,54 : 46,AU,42.4–45.1,Victoria University,301–350,14795,39.5,73.4,23.2,20,0201-500,71.1
+29,36.5,350,Europe,Austria,Western Europe,37.2,29 : 71,AT,42.4–45.1,Vienna University of Technology,301–350,17931,67.6,53.2,29.2,28,0201-500,81.1
+43,18.2,350,Americas,United States,Northern America,33.5,43 : 57,US,42.4–45.1,Virginia Polytechnic Institute and State University,301–350,30975,43.8,65.1,39.6,11,0201-500,33.5
+53,22.2,350,Europe,Belgium,Western Europe,30.6,53 : 47,BE,42.4–45.1,Vrije Universiteit Brussel,301–350,12785,51.7,68.7,25.6,21,0201-500,71.6
+52,19.7,350,Americas,United States,Northern America,29.3,52 : 48,US,42.4–45.1,Washington State University,301–350,27135,50.9,70.3,27.7,7,0201-500,45.6
+54,22.2,400,Americas,United States,Northern America,30.0,54 : 46,US,40.0–42.3,University of Alabama,351–400,33679,33.3,76.7,20.6,5,0201-500,27.7
+64,11.7,400,Americas,United States,Northern America,39.4,64 : 36,US,40.0–42.3,American University,351–400,11534,38.2,66.8,23.6,13,0201-500,32.2
+49,20.0,400,Europe,United Kingdom,Northern Europe,23.7,49 : 51,GB,40.0–42.3,Aston University,351–400,8989,33.7,63.3,26.4,31,0201-500,92.1
+60,13.4,400,Europe,Spain,Southern Europe,33.0,60 : 40,ES,40.0–42.3,Autonomous University of Madrid,351–400,29305,34.9,58.4,28.1,13,0201-500,49.0
+46,16.0,400,Europe,United Kingdom,Northern Europe,28.1,46 : 54,GB,40.0–42.3,Brunel University London,351–400,11359,36.3,53.9,25.4,41,0201-500,93.1
+52,30.3,400,Oceania,Australia,Australia and New Zealand,22.9,52 : 48,AU,40.0–42.3,University of Canberra,351–400,11438,33.6,68.0,25.2,28,0201-500,65.9
+50,16.8,400,Oceania,New Zealand,Australia and New Zealand,23.7,50 : 50,NZ,40.0–42.3,University of Canterbury,351–400,11931,37.9,60.9,26.9,21,0201-500,90.4
+56,17.2,400,Europe,United Kingdom,Northern Europe,26.6,56 : 44,GB,40.0–42.3,"City, University of London",351–400,13460,33.4,57.8,26.7,53,0201-500,93.0
+53,15.9,400,Americas,United States,Northern America,28.7,53 : 47,US,40.0–42.3,Colorado State University,351–400,23921,36.7,67.9,30.9,6,0201-500,37.7
+55,21.8,400,Europe,France,Western Europe,26.4,55 : 45,FR,40.0–42.3,University of Côte d’Azur,351–400,33839,36.7,70.4,14.6,23,0201-500,81.1
+62,26.2,400,Europe,Greece,Southern Europe,20.0,62 : 38,GR,40.0–42.3,University of Crete,351–400,14522,37.4,85.9,17.6,4,0201-500,47.1
+52,18.5,400,Oceania,Australia,Australia and New Zealand,22.6,52 : 48,AU,40.0–42.3,Curtin University,351–400,31483,39.5,60.6,23.7,37,0201-500,94.4
+57,18.7,400,Europe,Cyprus,Eastern Europe,17.8,57 : 43,CY,40.0–42.3,Cyprus University of Technology,351–400,3072,33.0,88.6,13.8,8,0201-500,69.9
+49,10.9,400,Americas,United States,Northern America,33.6,49 : 51,US,40.0–42.3,Drexel University,351–400,20714,37.4,68.5,16.9,18,0201-500,49.4
+53,24.6,400,Europe,France,Western Europe,30.9,53 : 47,FR,40.0–42.3,Federal University of Toulouse Midi-Pyrénées,351–400,98538,35.6,65.4,25.8,17,0201-500,61.4
+58,16.3,400,Americas,United States,Northern America,30.1,58 : 42,US,40.0–42.3,University of Georgia,351–400,33842,34.3,60.7,32.3,7,0201-500,42.6
+69,18.9,400,Americas,United States,Northern America,30.9,69 : 31,US,40.0–42.3,Georgia State University,351–400,28593,32.1,65.4,24.7,6,0201-500,39.7
+25,11.5,400,Asia,South Korea,Eastern Asia,38.6,25 : 75,KR,40.0–42.3,Gwangju Institute of Science and Technology,351–400,1731,66.8,40.9,40.5,6,0201-500,34.4
+,14.6,400,Asia,South Korea,Eastern Asia,35.6,n/a,KR,40.0–42.3,Hanyang University,351–400,20879,84.7,41.9,38.1,17,0201-500,56.4
+42,16.4,400,Europe,United Kingdom,Northern Europe,26.2,42 : 58,GB,40.0–42.3,Heriot-Watt University,351–400,9259,37.8,65.2,21.5,41,0201-500,92.4
+,9.5,400,Europe,Russian Federation,Eastern Europe,32.8,n/a,RU,40.0–42.3,Higher School of Economics,351–400,17241,39.4,61.6,28.7,7,0201-500,40.5
+17,17.9,400,Asia,India,Southern Asia,43.1,17 : 83,IN,40.0–42.3,Indian Institute of Technology Bombay,351–400,9870,53.4,47.8,37.6,1,0201-500,19.9
+61,47.3,400,Europe,Germany,Western Europe,32.8,61 : 39,DE,40.0–42.3,Justus Liebig University Giessen,351–400,28201,40.2,61.7,29.4,9,0201-500,48.0
+51,7.2,400,Americas,United States,Northern America,36.2,51 : 49,US,40.0–42.3,University of Kansas,351–400,24515,39.1,63.3,22.7,9,0201-500,36.7
+29,7.6,400,Asia,Japan,Eastern Asia,42.5,29 : 71,JP,40.0–42.3,Kyushu University,351–400,18696,71.6,35.7,40.7,12,0201-500,33.9
+63,34.5,400,Oceania,Australia,Australia and New Zealand,27.1,63 : 37,AU,40.0–42.3,La Trobe University,351–400,20343,58.1,49.8,33.0,26,0201-500,79.5
+41,65.3,400,Europe,Germany,Western Europe,37.3,41 : 59,DE,40.0–42.3,Leibniz University of Hanover,351–400,25162,56.3,47.1,36.9,12,0201-500,43.7
+53,8.1,400,Europe,Sweden,Northern Europe,23.4,53 : 47,SE,40.0–42.3,Linköping University,351–400,18740,41.9,78.4,14.9,11,0201-500,63.1
+58,14.5,400,Asia,Macao,Eastern Asia,22.0,58 : 42,MO,40.0–42.3,University of Macau,351–400,9230,42.0,56.7,26.5,33,0201-500,98.7
+66,10.9,400,Asia,Malaysia,South-Eastern Asia,31.2,66 : 34,MY,40.0–42.3,University of Malaya,351–400,21990,49.5,54.4,26.6,18,0201-500,77.0
+53,19.9,400,Europe,France,Western Europe,34.8,53 : 47,FR,40.0–42.3,Montpellier University,351–400,39828,35.2,68.7,16.7,14,0201-500,58.7
+61,16.4,400,Europe,Sweden,Northern Europe,18.6,61 : 39,SE,40.0–42.3,Örebro University,351–400,8800,33.1,83.3,19.7,2,0201-500,44.4
+55,30.8,400,Europe,Italy,Southern Europe,27.4,55 : 45,IT,40.0–42.3,University of Padua,351–400,62218,35.8,81.9,17.1,4,0201-500,41.0
+56,37.2,400,Europe,Italy,Southern Europe,24.3,56 : 44,IT,40.0–42.3,University of Pavia,351–400,23632,54.7,74.7,21.9,7,0201-500,44.8
+52,28.9,400,Europe,Italy,Southern Europe,22.4,52 : 48,IT,40.0–42.3,University of Pisa,351–400,50810,37.3,80.1,20.1,4,0201-500,38.0
+75,10.1,400,Europe,United Kingdom,Northern Europe,24.0,75 : 25,GB,40.0–42.3,Royal Veterinary College,351–400,1856,40.3,70.8,18.3,18,0201-500,84.5
+41,20.0,400,Asia,Turkey,Western Asia,23.2,41 : 59,TR,40.0–42.3,Sabancı University,351–400,3247,87.8,62.1,35.2,9,0201-500,46.6
+60,51.4,400,Europe,Italy,Southern Europe,19.1,60 : 40,IT,40.0–42.3,University of Salerno,351–400,37230,39.4,87.8,15.5,1,0201-500,33.5
+55,18.2,400,Americas,United States,Northern America,33.6,55 : 45,US,40.0–42.3,University of South Carolina,351–400,30869,33.2,63.2,27.8,5,0201-500,39.8
+54,26.1,400,Africa,South Africa,Southern Africa,28.3,54 : 46,ZA,40.0–42.3,Stellenbosch University,351–400,23207,7.3,60.0,36.1,8,0201-500,52.6
+58,16.5,400,Europe,France,Western Europe,29.9,58 : 42,FR,40.0–42.3,University of Strasbourg,351–400,41399,35.4,67.2,20.9,19,0201-500,69.4
+51,16.3,400,Asia,China,Eastern Asia,39.9,51 : 49,CN,40.0–42.3,Sun Yat-sen University,351–400,51089,52.0,55.9,32.3,9,0201-500,32.8
+52,11.5,400,Americas,United States,Northern America,34.2,52 : 48,US,40.0–42.3,Temple University,351–400,33958,36.1,74.6,19.1,8,0201-500,34.3
+56,24.8,400,Europe,Italy,Southern Europe,29.6,56 : 44,IT,40.0–42.3,University of Trieste,351–400,17054,32.5,75.0,17.8,8,0201-500,45.6
+56,11.0,400,Americas,United States,Northern America,39.7,56 : 44,US,40.0–42.3,Tulane University,351–400,11193,35.1,66.1,14.7,11,0201-500,39.5
+62,15.7,400,Europe,Finland,Northern Europe,25.7,62 : 38,FI,40.0–42.3,University of Turku,351–400,12263,33.9,70.0,27.6,5,0201-500,50.3
+56,21.8,400,Europe,Ireland,Northern Europe,28.0,56 : 44,IE,40.0–42.3,University College Cork,351–400,15890,45.9,61.0,26.9,17,0201-500,78.5
+56,8.9,400,Americas,United States,Northern America,27.4,56 : 44,US,40.0–42.3,University of Vermont,351–400,10992,45.2,82.8,20.0,3,0201-500,26.5
+59,22.4,400,Europe,France,Western Europe,18.4,59 : 41,FR,40.0–42.3,Université de Versailles Saint-Quentin-en-Yvelines,351–400,17323,33.9,85.5,15.1,14,0201-500,58.1
+56,17.0,400,Oceania,New Zealand,Australia and New Zealand,21.0,56 : 44,NZ,40.0–42.3,University of Waikato,351–400,10019,39.1,63.5,24.1,27,0201-500,89.2
+56,10.8,400,Americas,United States,Northern America,32.5,56 : 44,US,40.0–42.3,Wayne State University,351–400,22215,42.5,75.1,16.6,9,0201-500,36.7
+58,40.8,400,Americas,Canada,Northern America,30.5,58 : 42,CA,40.0–42.3,York University,351–400,46146,37.2,47.9,40.9,23,0201-500,73.9
+59,15.8,500,Oceania,New Zealand,Australia and New Zealand,19.7,59 : 41,NZ,35.0–39.9,Auckland University of Technology,401–500,17861,33.5,60.5,14.2,42,0201-500,96.1
+63,60.5,500,Europe,Italy,Southern Europe,25.0,63 : 37,IT,35.0–39.9,University of Bari Aldo Moro,401–500,47856,38.9,70.1,17.9,2,0201-500,34.7
+61,17.5,500,Asia,Israel,Western Asia,27.6,61 : 39,IL,35.0–39.9,Bar-Ilan University,401–500,16412,59.0,44.9,32.7,5,0201-500,53.3
+63,55.5,500,Europe,Italy,Southern Europe,20.2,63 : 37,IT,35.0–39.9,University of Bergamo,401–500,16769,41.5,69.6,20.0,6,0201-500,34.3
+45,14.4,500,Asia,Turkey,Western Asia,23.3,45 : 55,TR,35.0–39.9,Bilkent University,401–500,10007,42.8,67.1,20.3,5,0201-500,55.6
+48,23.7,500,Americas,United States,Northern America,23.0,48 : 52,US,35.0–39.9,"Binghamton University, State University of New York",401–500,17238,34.9,70.3,19.5,15,0201-500,42.9
+49,26.8,500,Asia,Turkey,Western Asia,21.5,49 : 51,TR,35.0–39.9,Boğaziçi University,401–500,11967,55.1,57.3,21.4,8,0201-500,47.7
+46,26.4,500,Europe,Italy,Southern Europe,17.5,46 : 54,IT,35.0–39.9,University of Brescia,401–500,14542,35.2,73.9,15.6,7,0201-500,40.2
+58,35.1,500,Europe,Italy,Southern Europe,16.9,58 : 42,IT,35.0–39.9,University of Calabria,401–500,28313,32.6,69.2,25.2,3,0201-500,34.3
+22,11.6,500,Europe,France,Western Europe,26.3,22 : 78,FR,35.0–39.9,CentraleSupélec,401–500,4226,45.0,56.7,16.2,33,0201-500,82.5
+61,13.1,500,Europe,Czech Republic,Eastern Europe,29.0,61 : 39,CZ,35.0–39.9,Charles University in Prague,401–500,50495,32.1,56.3,22.0,16,0201-500,55.6
+48,16.1,500,Asia,South Korea,Eastern Asia,37.4,48 : 52,KR,35.0–39.9,Chung-Ang University,401–500,11381,77.5,25.9,35.6,28,0201-500,58.2
+54,13.0,500,Europe,France,Western Europe,23.1,54 : 46,FR,35.0–39.9,Claude Bernard University Lyon 1,401–500,27067,37.1,68.9,18.2,12,0201-500,53.3
+68,23.1,500,Europe,Cyprus,Eastern Europe,20.8,68 : 32,CY,35.0–39.9,University of Cyprus,401–500,6989,48.1,63.1,25.0,9,0201-500,76.8
+52,25.5,500,Europe,Ireland,Northern Europe,27.8,52 : 48,IE,35.0–39.9,Dublin City University,401–500,9180,48.5,44.2,29.0,17,0201-500,78.5
+60,15.7,500,Europe,Italy,Southern Europe,20.5,60 : 40,IT,35.0–39.9,University of Florence,401–500,53112,36.3,73.1,11.4,7,0201-500,41.5
+56,24.4,500,Americas,United States,Northern America,28.2,56 : 44,US,35.0–39.9,Florida International University,401–500,32838,35.6,59.2,19.5,8,0201-500,37.4
+56,27.1,500,Europe,Italy,Southern Europe,28.0,56 : 44,IT,35.0–39.9,University of Genoa,401–500,35711,41.0,66.6,16.7,9,0201-500,42.7
+64,22.9,500,Europe,Austria,Western Europe,23.7,64 : 36,AT,35.0–39.9,University of Graz,401–500,21053,32.8,58.1,18.3,13,0201-500,74.0
+23,10.2,500,Europe,Austria,Western Europe,26.2,23 : 77,AT,35.0–39.9,Graz University of Technology,401–500,6395,69.3,58.5,16.3,17,0201-500,74.7
+56,20.8,500,Europe,Germany,Western Europe,29.1,56 : 44,DE,35.0–39.9,University of Greifswald,401–500,10857,36.7,63.6,20.2,6,0201-500,46.0
+26,55.1,500,Europe,Germany,Western Europe,34.4,26 : 74,DE,35.0–39.9,Hamburg University of Technology,401–500,7391,87.9,51.6,23.1,19,0201-500,48.9
+47,19.0,500,Europe,Belgium,Western Europe,23.8,47 : 53,BE,35.0–39.9,Hasselt University,401–500,5045,48.3,53.9,27.1,12,0201-500,57.2
+56,13.9,500,Americas,United States,Northern America,32.9,56 : 44,US,35.0–39.9,Hofstra University,401–500,10001,31.7,74.9,4.8,10,0201-500,28.5
+30,8.0,500,Asia,Japan,Eastern Asia,42.1,30 : 70,JP,35.0–39.9,Hokkaido University,401–500,18038,52.0,33.1,40.2,9,0201-500,32.6
+61,11.4,500,Asia,Hong Kong,Eastern Asia,22.0,61 : 39,HK,35.0–39.9,Hong Kong Baptist University,401–500,11467,32.4,66.9,13.8,30,0201-500,84.8
+35,16.7,500,Asia,China,Eastern Asia,31.2,35 : 65,CN,35.0–39.9,Huazhong University of Science and Technology,401–500,56140,63.9,50.3,27.5,5,0201-500,22.5
+53,16.6,500,Europe,United Kingdom,Northern Europe,24.0,53 : 47,GB,35.0–39.9,University of Hull,401–500,13482,34.2,53.1,21.5,19,0201-500,73.1
+57,12.6,500,Asia,Jordan,Western Asia,14.8,57 : 43,JO,35.0–39.9,Jordan University of Science and Technology,401–500,23103,34.3,79.4,7.0,20,0201-500,64.1
+61,15.8,500,Europe,Finland,Northern Europe,28.6,61 : 39,FI,35.0–39.9,University of Jyväskylä,401–500,10020,33.7,58.4,28.2,5,0201-500,50.0
+37,52.5,500,Europe,Germany,Western Europe,34.1,37 : 63,DE,35.0–39.9,University of Kaiserslautern,401–500,14493,73.2,48.7,22.8,16,0201-500,48.5
+67,10.8,500,Europe,Russian Federation,Eastern Europe,25.5,67 : 33,RU,35.0–39.9,Kazan Federal University,401–500,25916,38.8,70.9,16.5,9,0201-500,30.1
+59,25.3,500,Africa,South Africa,Southern Africa,25.0,59 : 41,ZA,35.0–39.9,University of KwaZulu-Natal,401–500,32023,41.2,49.8,30.8,5,0201-500,59.3
+44,17.2,500,Asia,South Korea,Eastern Asia,29.0,44 : 56,KR,35.0–39.9,Kyung Hee University,401–500,23512,82.2,46.0,37.0,18,0201-500,54.3
+56,28.1,500,Europe,France,Western Europe,21.1,56 : 44,FR,35.0–39.9,University of Lille,401–500,67978,37.4,62.3,20.9,12,0201-500,56.5
+52,20.5,500,Americas,United States,Northern America,35.1,52 : 48,US,35.0–39.9,Louisiana State University,401–500,29533,7.7,52.4,35.4,6,0201-500,33.0
+52,28.8,500,Africa,Uganda,Eastern Africa,17.5,52 : 48,UG,35.0–39.9,Makerere University,401–500,36688,38.1,75.8,11.6,8,0201-500,58.5
+54,28.0,500,Americas,Canada,Northern America,27.0,54 : 46,CA,35.0–39.9,University of Manitoba,401–500,29017,40.2,56.9,27.2,15,0201-500,45.4
+45,24.0,500,Europe,Italy,Southern Europe,25.3,45 : 55,IT,35.0–39.9,Marche Polytechnic University,401–500,16931,39.0,79.8,14.7,4,0201-500,29.1
+46,18.8,500,Americas,United States,Northern America,23.6,46 : 54,US,35.0–39.9,"University of Maryland, Baltimore County",401–500,11781,33.4,70.7,17.0,8,0201-500,32.8
+62,15.7,500,Oceania,New Zealand,Australia and New Zealand,22.5,62 : 38,NZ,35.0–39.9,Massey University,401–500,18688,37.6,48.9,18.9,29,0201-500,92.5
+55,30.6,500,Europe,Ireland,Northern Europe,23.2,55 : 45,IE,35.0–39.9,Maynooth University,401–500,8361,36.3,51.0,27.6,12,0201-500,78.1
+60,18.0,500,Europe,United Kingdom,Northern Europe,19.7,60 : 40,GB,35.0–39.9,Middlesex University,401–500,14756,32.1,61.2,15.1,46,0201-500,87.0
+61,48.4,500,Europe,Italy,Southern Europe,28.4,61 : 39,IT,35.0–39.9,University of Milan-Bicocca,401–500,34245,43.1,73.3,16.5,7,0201-500,43.6
+53,11.5,500,Americas,United States,Northern America,32.0,53 : 47,US,35.0–39.9,University of Missouri,401–500,30535,33.1,59.8,19.5,6,0201-500,36.0
+53,27.8,500,Europe,Italy,Southern Europe,18.5,53 : 47,IT,35.0–39.9,University of Modena and Reggio Emilia,401–500,20737,40.6,74.1,16.8,6,0201-500,38.0
+56,16.6,500,Americas,United States,Northern America,34.6,56 : 44,US,35.0–39.9,University of Montana,401–500,9573,33.6,69.9,17.7,3,0201-500,25.6
+58,30.7,500,Oceania,Australia,Australia and New Zealand,20.4,58 : 42,AU,35.0–39.9,Murdoch University,401–500,15526,41.5,58.9,23.9,48,0201-500,91.5
+56,55.9,500,Europe,Italy,Southern Europe,18.4,56 : 44,IT,35.0–39.9 ,University of Naples Federico II,401–500,81056,43.0,77.5,24.8,n/a,0201-500,28.3
+28,17.7,500,Asia,Taiwan,Eastern Asia,34.6,28 : 72,TW,35.0–39.9,National Chiao Tung University,401–500,12639,89.0,31.5,41.1,7,0201-500,35.8
+31,7.6,500,Europe,Russian Federation,Eastern Europe,32.6,31 : 69,RU,35.0–39.9,National Research Nuclear University MEPhI,401–500,7064,99.7,53.1,25.5,15,0201-500,49.5
+32,18.7,500,Asia,Taiwan,Eastern Asia,30.4,32 : 68,TW,35.0–39.9,National Taiwan University of Science and Technology (Taiwan Tech),401–500,7981,85.1,39.9,43.1,13,0201-500,36.0
+67,2.4,500,Americas,United States,Northern America,34.7,67 : 33,US,35.0–39.9,University of Nebraska Medical Center,401–500,2856,36.2,58.6,10.6,9,0201-500,41.2
+60,8.8,500,Europe,Switzerland,Western Europe,23.6,60 : 40,CH,35.0–39.9,University of Neuchâtel,401–500,4216,33.7,47.4,20.9,23,0201-500,90.9
+58,26.8,500,Americas,United States,Northern America,19.7,58 : 42,US,35.0–39.9,Northern Arizona University,401–500,27227,32.1,91.6,11.3,5,0201-500,29.8
+58,7.1,500,Europe,Norway,Northern Europe,24.0,58 : 42,NO,35.0–39.9,Norwegian University of Life Sciences,401–500,5723,37.3,68.0,7.9,22,0201-500,77.9
+51,6.5,500,Europe,Russian Federation,Eastern Europe,42.9,51 : 49,RU,35.0–39.9,Novosibirsk State University,401–500,7242,37.9,34.7,29.5,18,0201-500,41.3
+51,10.6,500,Americas,United States,Northern America,32.6,51 : 49,US,35.0–39.9,University of Oklahoma,401–500,27333,38.5,68.2,18.6,7,0201-500,37.2
+61,33.0,500,Europe,United Kingdom,Northern Europe,20.9,61 : 39,GB,35.0–39.9,The Open University,401–500,67357,32.4,67.6,16.2,8,0201-500,53.6
+58,17.9,500,Europe,United Kingdom,Northern Europe,31.7,58 : 42,GB,35.0–39.9,Oxford Brookes University,401–500,13256,32.2,40.3,27.2,28,0201-500,75.3
+56,27.6,500,Europe,Italy,Southern Europe,18.6,56 : 44,IT,35.0–39.9,University of Parma,401–500,24307,37.3,69.0,19.0,6,0201-500,37.3
+52,18.0,500,Europe,United Kingdom,Northern Europe,21.5,52 : 48,GB,35.0–39.9,Plymouth University,401–500,18336,32.3,68.6,19.7,15,0201-500,68.3
+27,9.8,500,Europe,Spain,Southern Europe,27.1,27 : 73,ES,35.0–39.9,Polytechnic University of Catalonia,401–500,21581,41.6,55.3,17.6,12,0201-500,53.2
+28,29.7,500,Europe,Italy,Southern Europe,26.9,28 : 72,IT,35.0–39.9,Polytechnic University of Turin,401–500,30903,48.1,68.6,20.9,14,0201-500,48.1
+73,17.6,500,Asia,Qatar,Western Asia,19.8,73 : 27,QA,35.0–39.9,Qatar University,401–500,13342,46.1,60.7,18.3,42,0201-500,99.8
+57,26.6,500,Asia,Pakistan,Southern Asia,21.6,57 : 43,PK,35.0–39.9,Quaid-i-azam University,401–500,13559,31.7,81.2,1.3,n/a,0201-500,42.1
+59,29.4,500,Europe,Iceland,Northern Europe,14.9,59 : 41,IS,35.0–39.9,Reykjavík University,401–500,3206,33.7,79.1,16.0,6,0201-500,60.1
+47,17.2,500,Oceania,Australia,Australia and New Zealand,24.2,47 : 53,AU,35.0–39.9,RMIT University,401–500,31465,38.4,53.3,20.5,25,0201-500,87.1
+51,17.9,500,Europe,Italy,Southern Europe,25.2,51 : 49,IT,35.0–39.9,University of Rome II – Tor Vergata,401–500,32325,38.5,71.9,15.4,6,0201-500,43.3
+59,56.2,500,Europe,Italy,Southern Europe,26.3,59 : 41,IT,35.0–39.9,University of Rome III,401–500,34492,37.4,67.3,10.6,4,0201-500,38.4
+62,14.5,500,Europe,Denmark,Northern Europe,20.0,62 : 38,DK,35.0–39.9,Roskilde University,401–500,6034,35.0,52.1,29.3,9,0201-500,49.6
+59,12.6,500,Europe,Spain,Southern Europe,22.2,59 : 41,ES,35.0–39.9,University of Rovira i Virgili,401–500,12604,34.5,76.4,17.2,10,0201-500,47.7
+33,13.1,500,Europe,Switzerland,Western Europe,30.1,33 : 67,CH,35.0–39.9,University of St Gallen,401–500,7456,43.7,52.0,19.5,35,0201-500,96.0
+59,6.8,500,Americas,United States,Northern America,35.7,59 : 41,US,35.0–39.9,Saint Louis University,401–500,10976,34.7,65.0,14.7,7,0201-500,28.0
+65,5.8,500,Europe,Russian Federation,Eastern Europe,47.3,65 : 35,RU,35.0–39.9,Saint Petersburg State University,401–500,21433,33.1,31.5,29.8,10,0201-500,37.4
+56,30.7,500,Americas,United States,Northern America,23.6,56 : 44,US,35.0–39.9,San Diego State University,401–500,29136,32.8,69.1,23.4,7,0201-500,30.2
+56,16.3,500,Americas,Canada,Northern America,34.7,56 : 44,CA,35.0–39.9,University of Saskatchewan,401–500,16712,60.2,40.9,24.5,17,0201-500,66.8
+59,38.1,500,Europe,France,Western Europe,32.6,59 : 41,FR,35.0–39.9,Sciences Po,401–500,9679,36.2,52.1,27.1,45,0201-500,70.5
+68,10.7,500,Europe,Hungary,Eastern Europe,22.6,68 : 32,HU,35.0–39.9,Semmelweis University,401–500,10880,34.4,61.5,11.9,31,0201-500,73.8
+49,49.2,500,Europe,Germany,Western Europe,24.8,49 : 51,DE,35.0–39.9,University of Siegen,401–500,19339,39.6,61.2,25.2,11,0201-500,52.4
+59,14.0,500,Europe,Italy,Southern Europe,20.7,59 : 41,IT,35.0–39.9,University of Siena,401–500,17928,34.4,68.8,13.8,6,0201-500,41.3
+64,11.5,500,Europe,United Kingdom,Northern Europe,37.1,64 : 36,GB,35.0–39.9,"Soas, University of London",401–500,4854,31.8,31.0,35.0,56,0201-500,77.0
+65,32.4,500,Oceania,Australia,Australia and New Zealand,23.3,65 : 35,AU,35.0–39.9,Southern Cross University,401–500,8298,41.0,52.6,23.5,18,0201-500,57.7
+47,14.3,500,Americas,Brazil,South America,43.5,47 : 53,BR,35.0–39.9,State University of Campinas,401–500,26811,45.5,31.7,40.0,4,0201-500,27.1
+49,21.5,500,Europe,United Kingdom,Northern Europe,26.1,49 : 51,GB,35.0–39.9,University of Strathclyde,401–500,17496,45.1,44.1,32.2,27,0201-500,80.9
+39,24.7,500,Oceania,Australia,Australia and New Zealand,25.6,39 : 61,AU,35.0–39.9,Swinburne University of Technology,401–500,13269,36.1,59.0,24.3,25,0201-500,74.2
+49,25.8,500,Americas,United States,Northern America,18.8,49 : 51,US,35.0–39.9,University of Texas at San Antonio,401–500,25945,32.4,84.2,18.4,6,0201-500,34.2
+50,3.2,500,Asia,Japan,Eastern Asia,35.9,50 : 50,JP,35.0–39.9,Tokyo Medical and Dental University (TMDU),401–500,2906,57.1,53.2,20.5,7,0201-500,24.5
+39,12.9,500,Asia,China,Eastern Asia,36.5,39 : 61,CN,35.0–39.9,Tongji University,401–500,35810,99.4,25.4,38.2,11,0201-500,47.5
+39,13.0,500,Asia,Japan,Eastern Asia,38.6,39 : 61,JP,35.0–39.9,University of Tsukuba,401–500,16514,47.0,34.1,35.0,19,0201-500,39.9
+43,12.4,500,Americas,United States,Northern America,35.5,43 : 57,US,35.0–39.9,University of Tulsa,401–500,4671,56.5,62.1,14.1,25,0201-500,44.9
+,31.4,500,Europe,Italy,Southern Europe,20.6,n/a,IT,35.0–39.9,University of Turin,401–500,59116,45.3,72.3,20.3,7,0201-500,43.7
+61,12.1,500,Europe,Norway,Northern Europe,20.9,61 : 39,NO,35.0–39.9,UiT The Arctic University of Norway,401–500,12601,40.5,63.5,17.1,12,0201-500,68.0
+59,28.6,500,Europe,Italy,Southern Europe,17.9,59 : 41,IT,35.0–39.9,University of Urbino Carlo Bo,401–500,11658,34.1,81.3,10.0,9,0201-500,43.4
+64,20.6,500,Europe,Italy,Southern Europe,22.8,64 : 36,IT,35.0–39.9,Verona University,401–500,24582,36.8,79.8,11.9,6,0201-500,42.0
+56,19.8,500,Oceania,New Zealand,Australia and New Zealand,27.6,56 : 44,NZ,35.0–39.9,Victoria University of Wellington,401–500,17086,57.2,48.0,30.4,20,0201-500,87.6
+55,34.0,500,Oceania,Australia,Australia and New Zealand,19.1,55 : 45,AU,35.0–39.9,Western Sydney University,401–500,32744,37.1,62.3,26.0,13,0201-500,77.8
+52,18.7,500,Americas,United States,Northern America,23.2,52 : 48,US,35.0–39.9,University of Wisconsin-Milwaukee,401–500,21928,33.4,65.7,20.4,6,0201-500,30.7
+,14.3,500,Asia,China,Eastern Asia,44.9,n/a,CN,35.0–39.9,Wuhan University,401–500,50178,89.9,37.5,33.7,7,0201-500,37.7
+49,15.0,500,Asia,China,Eastern Asia,28.8,49 : 51,CN,35.0–39.9,Xiamen University,401–500,41430,9.7,56.4,24.9,4,0201-500,28.9
+56,14.5,600,Asia,Saudi Arabia,Western Asia,16.1,56 : 44,SA,30.7–34.9,Alfaisal University,501–600,1891,54.3,39.3,27.3,34,0501-1000,97.4
+51,8.6,600,Asia,Lebanon,Western Asia,25.7,51 : 49,LB,30.7–34.9,American University of Beirut,501–600,8045,38.3,52.9,12.2,22,0501-1000,87.5
+57,24.7,600,Europe,Greece,Southern Europe,20.6,57 : 43,GR,30.7–34.9,Aristotle University of Thessaloniki,501–600,45709,38.5,53.8,15.9,4,0501-1000,38.2
+52,20.4,600,Americas,United States,Northern America,26.4,52 : 48,US,30.7–34.9,University of Arkansas,501–600,24140,44.5,47.6,19.5,6,0501-1000,30.0
+46,42.2,600,Europe,Greece,Southern Europe,17.7,46 : 54,GR,30.7–34.9,Athens University of Economics and Business,501–600,9674,48.6,51.8,22.8,7,0501-1000,45.8
+73,30.7,600,Oceania,Australia,Australia and New Zealand,16.8,73 : 27,AU,30.7–34.9,Australian Catholic University,501–600,21846,35.3,59.5,19.7,9,0501-1000,45.0
+52,17.1,600,Europe,Portugal,Southern Europe,23.5,52 : 48,PT,30.7–34.9,University of Aveiro,501–600,10105,39.8,45.5,26.3,10,0501-1000,49.0
+55,15.2,600,Europe,France,Western Europe,21.5,55 : 45,FR,30.7–34.9,Blaise Pascal University,501–600,15538,33.5,61.1,6.5,13,0501-1000,62.9
+52,13.9,600,Oceania,Australia,Australia and New Zealand,19.3,52 : 48,AU,30.7–34.9,Bond University,501–600,3215,34.6,37.6,23.4,39,0501-1000,88.9
+53,28.9,600,Europe,France,Western Europe,23.9,53 : 47,FR,30.7–34.9,Université Bourgogne Franche-Comté (UBFC),501–600,56702,35.7,55.6,13.0,11,0501-1000,50.6
+64,40.7,600,Europe,Italy,Southern Europe,25.6,64 : 36,IT,30.7–34.9,Ca’ Foscari University of Venice,501–600,19353,34.7,37.3,28.4,8,0501-1000,43.3
+47,30.1,600,Americas,Canada,Northern America,20.5,47 : 53,CA,30.7–34.9,Carleton University,501–600,25973,33.6,43.0,28.0,20,0501-1000,65.6
+59,22.8,600,Europe,Italy,Southern Europe,17.2,59 : 41,IT,30.7–34.9,University of Catania,501–600,35168,34.3,70.1,11.7,1,0501-1000,28.4
+,11.4,600,Europe,Italy,Southern Europe,19.7,n/a,IT,30.7–34.9,Catholic University of the Sacred Heart,501–600,32844,35.3,62.5,11.6,8,0501-1000,35.8
+65,23.1,600,Asia,China,Eastern Asia,23.5,65 : 35,CN,30.7–34.9,Central China Normal University,501–600,36706,39.0,72.5,9.2,7,0501-1000,28.7
+56,27.8,600,Oceania,Australia,Australia and New Zealand,27.8,56 : 44,AU,30.7–34.9,Central Queensland University,501–600,13048,34.3,58.9,10.1,29,0501-1000,61.2
+53,17.1,600,Asia,Taiwan,Eastern Asia,24.4,53 : 47,TW,30.7–34.9,"China Medical University, Taiwan",501–600,7752,79.1,42.3,27.1,10,0501-1000,29.3
+57,17.0,600,Europe,Portugal,Southern Europe,25.3,57 : 43,PT,30.7–34.9,University of Coimbra,501–600,21928,37.8,48.2,23.4,16,0501-1000,55.1
+62,20.1,600,Europe,Spain,Southern Europe,35.2,62 : 38,ES,30.7–34.9,Complutense University of Madrid,501–600,62392,33.5,38.5,27.4,13,0501-1000,41.7
+50,31.1,600,Americas,Canada,Northern America,21.4,50 : 50,CA,30.7–34.9,Concordia University,501–600,32331,34.8,40.3,24.0,28,0501-1000,80.7
+58,11.3,600,Americas,United States,Northern America,37.1,58 : 42,US,30.7–34.9,Creighton University,501–600,8213,35.0,56.2,10.3,9,0501-1000,31.1
+48,14.4,600,Americas,Chile,South America,15.7,48 : 52,CL,30.7–34.9,Diego Portales University,501–600,16348,31.8,74.7,8.7,2,0501-1000,47.7
+62,12.6,600,Asia,China,Eastern Asia,25.4,62 : 38,CN,30.7–34.9,East China Normal University,501–600,27189,46.0,46.9,20.1,13,0501-1000,47.2
+61,35.5,600,Oceania,Australia,Australia and New Zealand,20.4,61 : 39,AU,30.7–34.9,Edith Cowan University,501–600,16315,36.4,52.2,20.3,23,0501-1000,77.4
+100,14.4,600,Asia,South Korea,Eastern Asia,27.1,100 : 0,KR,30.7–34.9,Ewha Womans University,501–600,15044,68.9,43.0,26.4,11,0501-1000,42.6
+55,9.3,600,Americas,Brazil,South America,35.8,55 : 45,BR,30.7–34.9,Federal University of São Paulo (UNIFESP),501–600,14475,34.0,41.2,16.9,1,0501-1000,24.6
+23,30.3,600,Americas,Chile,South America,14.6,23 : 77,CL,30.7–34.9,Federico Santa María Technical University,501–600,19265,40.0,64.8,10.7,2,0501-1000,51.7
+56,8.3,600,Europe,Italy,Southern Europe,21.2,56 : 44,IT,30.7–34.9,University of Ferrara,501–600,13902,34.2,69.6,10.2,7,0501-1000,44.8
+55,3.1,600,Asia,Japan,Eastern Asia,24.2,55 : 45,JP,30.7–34.9,Fujita Health University,501–600,2810,35.2,74.5,7.7,n/a,0501-1000,17.3
+58,17.6,600,Europe,Spain,Southern Europe,22.5,58 : 42,ES,30.7–34.9,University of Granada,501–600,59539,32.8,46.8,19.2,14,0501-1000,50.1
+31,10.0,600,Asia,China,Eastern Asia,34.4,31 : 69,CN,30.7–34.9,Harbin Institute of Technology,501–600,29395,99.0,31.4,31.9,9,0501-1000,31.6
+54,17.3,600,Europe,United Kingdom,Northern Europe,18.2,54 : 46,GB,30.7–34.9,University of Hertfordshire,501–600,17330,32.6,54.0,11.9,28,0501-1000,79.0
+20,13.3,600,Asia,India,Southern Asia,36.6,20 : 80,IN,30.7–34.9,Indian Institute of Technology Delhi,501–600,7284,51.8,48.7,19.2,1,0501-1000,16.8
+14,15.2,600,Asia,India,Southern Asia,32.6,14 : 86,IN,30.7–34.9,Indian Institute of Technology Kanpur,501–600,6472,92.7,38.5,21.7,1,0501-1000,19.5
+16,18.0,600,Asia,India,Southern Asia,32.6,16 : 84,IN,30.7–34.9,Indian Institute of Technology Kharagpur,501–600,11016,73.7,43.3,29.5,n/a,0501-1000,16.8
+16,14.1,600,Asia,India,Southern Asia,30.2,16 : 84,IN,30.7–34.9,Indian Institute of Technology Roorkee,501–600,8240,69.9,56.1,18.1,1,0501-1000,16.0
+57,41.6,600,Europe,Greece,Southern Europe,19.2,57 : 43,GR,30.7–34.9,University of Ioannina,501–600,21672,36.5,68.1,14.9,4,0501-1000,42.7
+37,9.5,600,Europe,Russian Federation,Eastern Europe,26.5,37 : 63,RU,30.7–34.9,ITMO University,501–600,10582,67.7,44.3,17.8,13,0501-1000,50.3
+52,11.0,600,Europe,Austria,Western Europe,26.3,52 : 48,AT,30.7–34.9,Johannes Kepler University of Linz,501–600,6449,53.7,49.8,15.3,10,0501-1000,59.9
+57,13.9,600,Europe,United Kingdom,Northern Europe,19.8,57 : 43,GB,30.7–34.9,Keele University,501–600,7986,33.8,54.5,19.5,23,0501-1000,73.4
+59,18.6,600,Americas,United States,Northern America,23.8,59 : 41,US,30.7–34.9,Kent State University,501–600,23647,32.1,60.2,16.9,9,0501-1000,37.3
+0,6.1,600,Asia,Saudi Arabia,Western Asia,26.8,0 : 100,SA,30.7–34.9,King Fahd University of Petroleum and Minerals,501–600,6471,61.7,37.4,12.8,20,0501-1000,85.5
+,9.3,600,Asia,Saudi Arabia,Western Asia,24.5,n/a,SA,30.7–34.9,King Saud University,501–600,34489,95.1,30.7,27.6,10,0501-1000,78.8
+55,28.0,600,Asia,South Korea,Eastern Asia,33.1,55 : 45,KR,30.7–34.9,Konkuk University,501–600,15229,39.4,23.3,32.5,12,0501-1000,40.5
+30,23.4,600,Europe,Finland,Northern Europe,26.7,30 : 70,FI,30.7–34.9,Lappeenranta University of Technology,501–600,3622,55.8,32.6,26.5,19,0501-1000,58.7
+45,11.4,600,Americas,United States,Northern America,24.7,45 : 55,US,30.7–34.9,Lehigh University,501–600,6476,36.6,54.5,19.9,16,0501-1000,40.5
+48,20.3,600,Europe,Ireland,Northern Europe,22.1,48 : 52,IE,30.7–34.9,University of Limerick,501–600,13302,36.0,46.5,19.9,18,0501-1000,85.0
+48,4.3,600,Oceania,New Zealand,Australia and New Zealand,29.1,48 : 52,NZ,30.7–34.9,Lincoln University,501–600,2455,36.6,41.8,16.1,34,0501-1000,83.7
+50,18.6,600,Europe,Portugal,Southern Europe,24.0,50 : 50,PT,30.7–34.9,University of Lisbon,501–600,49682,36.8,53.2,22.6,10,0501-1000,49.4
+54,18.2,600,Europe,United Kingdom,Northern Europe,18.0,54 : 46,GB,30.7–34.9,Liverpool John Moores University,501–600,18268,32.7,62.7,14.7,13,0501-1000,66.8
+52,18.4,600,Europe,France,Western Europe,21.9,52 : 48,FR,30.7–34.9,University of Lorraine,501–600,55606,37.8,60.7,11.3,15,0501-1000,58.0
+63,10.5,600,Asia,Thailand,South-Eastern Asia,27.1,63 : 37,TH,30.7–34.9,Mahidol University,501–600,28996,60.0,43.4,16.0,3,0501-1000,45.0
+62,22.4,600,Europe,Czech Republic,Eastern Europe,22.2,62 : 38,CZ,30.7–34.9,Masaryk University,501–600,34756,33.7,42.8,22.7,20,0501-1000,56.3
+57,12.9,600,Americas,Canada,Northern America,19.1,57 : 43,CA,30.7–34.9,Memorial University of Newfoundland,501–600,15116,49.5,55.9,16.1,15,0501-1000,58.3
+23,23.7,600,Americas,United States,Northern America,26.2,23 : 77,US,30.7–34.9,Missouri University of Science and Technology,501–600,8146,47.5,40.6,23.9,17,0501-1000,65.9
+46,18.8,600,Americas,United States,Northern America,18.1,46 : 54,US,30.7–34.9,Montana State University,501–600,14023,48.2,66.1,18.2,4,0501-1000,27.2
+56,24.7,600,Europe,France,Western Europe,20.2,56 : 44,FR,30.7–34.9,University of Nantes,501–600,37231,36.2,55.7,19.3,10,0501-1000,46.8
+60,32.9,600,Europe,Greece,Southern Europe,26.3,60 : 40,GR,30.7–34.9,National and Kapodistrian University of Athens,501–600,60850,49.3,54.4,13.6,9,0501-1000,46.2
+36,14.4,600,Asia,Taiwan,Eastern Asia,28.3,36 : 64,TW,30.7–34.9,National Cheng Kung University (NCKU),501–600,21337,99.8,28.3,38.2,11,0501-1000,31.9
+56,12.9,600,Asia,Taiwan,Eastern Asia,28.8,56 : 44,TW,30.7–34.9,National Taiwan Normal University,501–600,10718,82.9,25.3,33.5,26,0501-1000,47.9
+24,21.1,600,Americas,United States,Northern America,19.7,24 : 76,US,30.7–34.9,New Jersey Institute of Technology,501–600,11423,34.2,59.7,14.7,18,0501-1000,55.4
+54,17.8,600,Europe,United Kingdom,Northern Europe,19.1,54 : 46,GB,30.7–34.9,Northumbria University,501–600,22176,32.4,50.3,15.2,16,0501-1000,65.1
+49,19.1,600,Europe,Portugal,Southern Europe,24.8,49 : 51,PT,30.7–34.9,NOVA University of Lisbon,501–600,19495,43.9,46.5,24.8,14,0501-1000,55.9
+49,22.1,600,Americas,United States,Northern America,27.5,49 : 51,US,30.7–34.9,Oklahoma State University,501–600,21677,36.1,42.5,22.4,6,0501-1000,29.8
+59,27.8,600,Europe,Italy,Southern Europe,19.1,59 : 41,IT,30.7–34.9,University of Palermo,501–600,43249,33.0,67.8,13.5,1,0501-1000,25.7
+60,33.4,600,Europe,France,Western Europe,49.3,60 : 40,FR,30.7–34.9,Panthéon-Sorbonne University – Paris 1,501–600,40270,32.0,10.4,40.1,21,0501-1000,50.8
+37,10.0,600,Europe,Spain,Southern Europe,24.0,37 : 63,ES,30.7–34.9,Polytechnic University of Valencia,501–600,23471,43.5,44.4,25.4,11,0501-1000,43.6
+,15.4,600,Americas,Chile,South America,25.9,n/a,CL,30.7–34.9,Pontifical Catholic University of Chile,501–600,27065,35.8,42.5,25.1,7,0501-1000,53.9
+56,17.0,600,Americas,Colombia,South America,17.0,56 : 44,CO,30.7–34.9,Pontifical Javeriana University,501–600,28108,32.6,66.6,8.7,1,0501-1000,44.7
+54,18.8,600,Europe,Portugal,Southern Europe,27.1,54 : 46,PT,30.7–34.9,University of Porto,501–600,31743,39.8,47.0,26.9,11,0501-1000,48.3
+45,15.6,600,Europe,United Kingdom,Northern Europe,19.1,45 : 55,GB,30.7–34.9,University of Portsmouth,501–600,19096,32.1,57.1,14.3,27,0501-1000,83.1
+57,20.1,600,Americas,Canada,Northern America,26.2,57 : 43,CA,30.7–34.9,Université du Québec,501–600,54033,40.9,43.4,22.4,10,0501-1000,62.9
+,12.0,600,Asia,China,Eastern Asia,42.3,n/a,CN,30.7–34.9,Renmin University of China,501–600,25183,38.2,37.6,21.4,6,0501-1000,42.6
+63,37.8,600,Europe,Italy,Southern Europe,20.1,63 : 37,IT,30.7–34.9,University of Salento,501–600,19025,36.6,62.4,11.8,1,0501-1000,26.6
+64,19.6,600,Europe,Italy,Southern Europe,20.9,64 : 36,IT,30.7–34.9,University of Sassari,501–600,12194,34.1,61.0,13.1,1,0501-1000,35.8
+46,16.3,600,Asia,South Korea,Eastern Asia,25.5,46 : 54,KR,30.7–34.9,Sejong University,501–600,11884,35.0,50.2,18.5,6,0501-1000,33.2
+,14.8,600,Asia,China,Eastern Asia,35.4,n/a,CN,30.7–34.9,Shandong University,501–600,45900,69.7,29.5,30.9,5,0501-1000,22.7
+57,12.3,600,Americas,Canada,Northern America,29.0,57 : 43,CA,30.7–34.9,Université de Sherbrooke,501–600,14373,33.4,51.3,13.2,8,0501-1000,57.2
+54,16.0,600,Asia,China,Eastern Asia,21.1,54 : 46,CN,30.7–34.9,Soochow University,501–600,45109,68.4,61.6,17.7,5,0501-1000,22.5
+35,16.3,600,Asia,China,Eastern Asia,22.5,35 : 65,CN,30.7–34.9,South China University of Technology,501–600,42076,65.9,48.3,24.1,2,0501-1000,22.5
+61,31.8,600,Americas,United States,Northern America,30.9,61 : 39,US,30.7–34.9,University of South Dakota,501–600,15624,33.6,56.4,14.0,3,0501-1000,24.1
+,11.7,600,Asia,China,Eastern Asia,29.7,n/a,CN,30.7–34.9,Southeast University,501–600,32464,92.7,33.2,32.9,5,0501-1000,21.7
+,30.7,600,Europe,Croatia,Southern Europe,16.8,n/a,HR,30.7–34.9,University of Split,501–600,20817,33.5,60.3,12.5,1,0501-1000,41.7
+29,16.2,600,Americas,United States,Northern America,20.6,29 : 71,US,30.7–34.9,Stevens Institute of Technology,501–600,5636,33.2,59.5,16.2,35,0501-1000,64.2
+64,28.3,600,Oceania,Australia,Australia and New Zealand,17.1,64 : 36,AU,30.7–34.9,University of the Sunshine Coast,501–600,8202,34.4,46.5,20.9,16,0501-1000,63.3
+23,19.6,600,Europe,Finland,Northern Europe,25.4,23 : 77,FI,30.7–34.9,Tampere University of Technology,501–600,5490,80.2,54.2,15.9,8,0501-1000,51.0
+56,25.3,600,Americas,United States,Northern America,20.8,56 : 44,US,30.7–34.9,University of Texas at Arlington,501–600,26325,37.7,51.5,16.4,14,0501-1000,41.3
+46,22.2,600,Americas,United States,Northern America,31.0,46 : 54,US,30.7–34.9,Texas Tech University,501–600,32486,33.1,39.5,18.4,9,0501-1000,42.5
+,12.0,600,Asia,China,Eastern Asia,36.9,n/a,CN,30.7–34.9,Tianjin University,501–600,30513,97.1,28.5,32.8,1,0501-1000,18.8
+36,10.0,600,Asia,Japan,Eastern Asia,22.7,36 : 64,JP,30.7–34.9,Tokyo Metropolitan University,501–600,9263,34.0,57.8,13.3,4,0501-1000,24.8
+50,15.9,600,Americas,United States,Northern America,32.7,50 : 50,US,30.7–34.9,University of Toledo,501–600,18525,42.9,42.9,13.9,10,0501-1000,41.9
+,8.3,600,Europe,Russian Federation,Eastern Europe,36.7,n/a,RU,30.7–34.9,Tomsk State University,501–600,8022,63.6,32.8,26.5,22,0501-1000,57.1
+52,16.9,600,Asia,Malaysia,South-Eastern Asia,15.4,52 : 48,MY,30.7–34.9,Universiti Tunku Abdul Rahman (UTAR),501–600,18642,32.5,71.3,7.8,1,0501-1000,30.8
+45,12.6,600,Asia,South Korea,Eastern Asia,20.1,45 : 55,KR,30.7–34.9,University of Ulsan,501–600,13689,56.2,59.4,20.3,3,0501-1000,20.7
+55,14.9,600,Europe,United Kingdom,Northern Europe,21.0,55 : 45,GB,30.7–34.9,Ulster University,501–600,18550,33.0,50.6,15.6,8,0501-1000,72.0
+79,9.2,600,Asia,United Arab Emirates,Western Asia,22.9,79 : 21,AE,30.7–34.9,United Arab Emirates University,501–600,7492,38.4,49.1,16.9,26,0501-1000,95.1
+60,14.9,600,Europe,Spain,Southern Europe,21.9,60 : 40,ES,30.7–34.9,University of Valencia,501–600,48725,34.4,56.2,18.4,9,0501-1000,42.2
+66,14.1,600,Europe,Poland,Eastern Europe,25.9,66 : 34,PL,30.7–34.9,University of Warsaw,501–600,50026,32.4,47.1,18.3,9,0501-1000,44.6
+61,20.0,600,Europe,United Kingdom,Northern Europe,14.9,61 : 39,GB,30.7–34.9,University of the West of Scotland,501–600,11160,32.4,68.2,10.9,13,0501-1000,61.4
+35,10.7,600,Asia,China,Eastern Asia,32.7,35 : 65,CN,30.7–34.9,Xi’an Jiaotong University,501–600,32199,56.0,35.0,26.2,4,0501-1000,35.8
+59,37.9,800,Europe,Greece,Southern Europe,17.7,59 : 41,GR,21.5–30.6,University of the Aegean,601–800,12264,32.4,41.3,16.4,1,0501-1000,35.4
+34,14.9,800,Europe,Poland,Eastern Europe,18.6,34 : 66,PL,21.5–30.6,AGH University of Science and Technology,601–800,32930,35.7,35.6,12.3,2,0501-1000,20.3
+13,11.5,800,Asia,Japan,Eastern Asia,19.4,13 : 87,JP,21.5–30.6,The University of Aizu,601–800,1228,34.8,42.7,10.0,3,0501-1000,67.5
+55,13.1,800,Europe,Spain,Southern Europe,20.4,55 : 45,ES,21.5–30.6,University of Alcalá,601–800,18023,40.5,45.9,12.2,21,0501-1000,59.8
+57,12.2,800,Europe,Portugal,Southern Europe,19.5,57 : 43,PT,21.5–30.6,University of Algarve,601–800,7643,33.2,42.3,11.2,11,0501-1000,56.9
+36,14.6,800,Asia,India,Southern Asia,29.9,36 : 64,IN,21.5–30.6,Aligarh Muslim University,601–800,17732,31.7,33.1,10.1,2,0501-1000,23.9
+54,12.4,800,Africa,Egypt,Northern Africa,23.3,54 : 46,EG,21.5–30.6,American University in Cairo,601–800,6093,32.5,24.7,18.0,5,0501-1000,68.3
+49,15.0,800,Asia,United Arab Emirates,Western Asia,15.5,49 : 51,AE,21.5–30.6,American University of Sharjah,601–800,5778,35.4,22.7,12.5,84,0501-1000,96.2
+34,23.3,800,Asia,Iran,Southern Asia,27.4,34 : 66,IR,21.5–30.6,Amirkabir University of Technology,601–800,12815,74.4,35.3,27.2,1,0501-1000,16.8
+44,15.3,800,Americas,Colombia,South America,21.1,44 : 56,CO,21.5–30.6,"University of the Andes, Colombia",601–800,16664,39.9,49.4,15.0,2,0501-1000,53.2
+43,16.1,800,Asia,Turkey,Western Asia,16.1,43 : 57,TR,21.5–30.6,Atılım University,601–800,7100,33.3,60.0,7.5,5,0501-1000,34.6
+50,18.2,800,Americas,United States,Northern America,31.8,50 : 50,US,21.5–30.6,Auburn University,601–800,23186,38.9,30.9,20.2,5,0501-1000,33.2
+60,24.3,800,Europe,Romania,Eastern Europe,24.8,60 : 40,RO,21.5–30.6,Babeş-Bolyai University,601–800,37961,32.2,32.9,11.3,2,0501-1000,40.8
+36,18.8,800,Asia,India,Southern Asia,24.8,36 : 64,IN,21.5–30.6,Banaras Hindu University,601–800,24399,31.7,26.4,15.5,2,0501-1000,16.0
+52,14.8,800,Europe,Spain,Southern Europe,21.0,52 : 48,ES,21.5–30.6,University of the Basque Country,601–800,44028,34.8,51.4,14.8,6,0501-1000,40.8
+57,17.0,800,Americas,United States,Northern America,30.7,57 : 43,US,21.5–30.6,Baylor University,601–800,16736,33.1,39.2,16.7,5,0501-1000,27.1
+59,18.9,800,Europe,United Kingdom,Northern Europe,17.6,59 : 41,GB,21.5–30.6,University of Bedfordshire,601–800,11366,32.0,24.5,12.0,32,0501-1000,71.8
+,14.4,800,Asia,China,Eastern Asia,27.1,n/a,CN,21.5–30.6,Beihang University,601–800,28884,99.1,21.0,30.6,6,0501-1000,24.2
+34,12.6,800,Asia,China,Eastern Asia,29.2,34 : 66,CN,21.5–30.6,Beijing Institute of Technology,601–800,28174,93.9,16.5,28.5,7,0501-1000,22.1
+52,16.0,800,Europe,Portugal,Southern Europe,20.0,52 : 48,PT,21.5–30.6,University of Beira Interior,601–800,6925,32.0,48.7,15.0,8,0501-1000,41.8
+51,20.4,800,Asia,Israel,Western Asia,24.6,51 : 49,IL,21.5–30.6,Ben-Gurion University of the Negev,601–800,16568,42.7,34.7,26.4,3,0501-1000,35.5
+43,32.5,800,Africa,Egypt,Northern Africa,18.4,43 : 57,EG,21.5–30.6,Beni-Suef University,601–800,69962,31.8,63.2,6.4,1,0501-1000,43.3
+56,17.4,800,Europe,United Kingdom,Northern Europe,18.1,56 : 44,GB,21.5–30.6,Bournemouth University,601–800,12299,32.1,40.9,15.7,19,0501-1000,77.0
+55,17.0,800,Europe,United Kingdom,Northern Europe,19.2,55 : 45,GB,21.5–30.6,University of Bradford,601–800,9636,34.6,26.7,14.5,30,0501-1000,81.4
+57,17.5,800,Europe,United Kingdom,Northern Europe,18.2,57 : 43,GB,21.5–30.6,University of Brighton,601–800,16666,32.7,39.3,12.5,22,0501-1000,69.6
+60,32.6,800,Europe,Italy,Southern Europe,20.5,60 : 40,IT,21.5–30.6,University of Cagliari,601–800,29645,34.4,62.6,6.1,2,0501-1000,36.0
+69,6.9,800,Asia,China,Eastern Asia,26.4,69 : 31,CN,21.5–30.6,Capital Medical University,601–800,12488,32.4,19.0,18.9,4,0501-1000,20.5
+43,11.1,800,Europe,Spain,Southern Europe,24.6,43 : 57,ES,21.5–30.6,Carlos III University of Madrid,601–800,16429,36.3,33.6,15.3,14,0501-1000,56.8
+57,15.5,800,Europe,United Kingdom,Northern Europe,17.2,57 : 43,GB,21.5–30.6,University of Central Lancashire,601–800,16500,32.2,35.3,12.5,18,0501-1000,59.3
+40,17.1,800,Asia,China,Eastern Asia,23.6,40 : 60,CN,21.5–30.6,Central South University,601–800,55707,68.4,26.8,23.7,1,0501-1000,16.6
+43,12.5,800,Asia,Taiwan,Eastern Asia,22.1,43 : 57,TW,21.5–30.6,Chang Gung University,601–800,7540,41.7,29.9,25.5,2,0501-1000,19.1
+62,10.0,800,Europe,Czech Republic,Eastern Europe,24.8,62 : 38,CZ,21.5–30.6,"University of Chemistry and Technology, Prague",601–800,4210,39.2,20.9,13.8,20,0501-1000,49.4
+37,10.1,800,Asia,Japan,Eastern Asia,27.6,37 : 63,JP,21.5–30.6,Chiba University,601–800,14002,52.5,32.1,17.7,5,0501-1000,24.2
+47,17.2,800,Americas,Chile,South America,24.4,47 : 53,CL,21.5–30.6,University of Chile,601–800,38848,31.8,34.3,19.0,5,0501-1000,49.1
+58,11.3,800,Asia,China,Eastern Asia,33.3,58 : 42,CN,21.5–30.6,China Agricultural University,601–800,18725,45.2,34.7,23.1,2,0501-1000,20.6
+33,17.5,800,Asia,China,Eastern Asia,27.7,33 : 67,CN,21.5–30.6,"China University of Geosciences, Beijing",601–800,17840,50.7,41.8,14.5,1,0501-1000,20.6
+,20.3,800,Asia,China,Eastern Asia,21.6,n/a,CN,21.5–30.6,"China University of Geosciences, Wuhan",601–800,30585,48.0,33.5,15.2,3,0501-1000,21.8
+44,20.7,800,Asia,South Korea,Eastern Asia,21.6,44 : 56,KR,21.5–30.6,Chonbuk National University,601–800,23728,37.2,26.0,18.7,3,0501-1000,28.3
+48,13.8,800,Asia,South Korea,Eastern Asia,20.8,48 : 52,KR,21.5–30.6,Chonnam National University,601–800,23984,36.9,31.1,14.5,3,0501-1000,24.1
+59,14.8,800,Asia,Thailand,South-Eastern Asia,27.0,59 : 41,TH,21.5–30.6,Chulalongkorn University,601–800,38734,73.3,18.4,14.9,3,0501-1000,34.8
+66,11.1,800,Europe,Slovakia,Central Europe,22.6,66 : 34,SK,21.5–30.6,Comenius University in Bratislava,601–800,22857,31.8,25.3,11.9,11,0501-1000,49.1
+24,10.4,800,Asia,Pakistan,Southern Asia,17.5,24 : 76,PK,21.5–30.6,COMSATS Institute of Information Technology,601–800,30126,31.8,56.8,7.4,n/a,0501-1000,44.3
+48,14.3,800,Europe,United Kingdom,Northern Europe,18.6,48 : 52,GB,21.5–30.6,Coventry University,601–800,22737,32.3,28.7,10.1,45,0501-1000,82.0
+30,13.2,800,Europe,Czech Republic,Eastern Europe,20.2,30 : 70,CZ,21.5–30.6,Czech Technical University in Prague,601–800,21266,39.3,28.5,17.3,16,0501-1000,45.3
+35,16.6,800,Asia,China,Eastern Asia,23.3,35 : 65,CN,21.5–30.6,Dalian University of Technology,601–800,38678,82.9,32.6,21.3,2,0501-1000,23.1
+48,15.2,800,Americas,United States,Northern America,30.2,48 : 52,US,21.5–30.6,University of Dayton,601–800,10502,37.8,22.3,15.1,15,0501-1000,33.0
+49,23.1,800,Asia,India,Southern Asia,40.2,49 : 51,IN,21.5–30.6,University of Delhi,601–800,22107,31.9,23.1,17.6,1,0501-1000,18.4
+58,18.8,800,Europe,United Kingdom,Northern Europe,18.9,58 : 42,GB,21.5–30.6,De Montfort University,601–800,15880,31.9,31.9,13.6,25,0501-1000,65.5
+41,19.5,800,Europe,Ireland,Northern Europe,17.0,41 : 59,IE,21.5–30.6,Dublin Institute of Technology,601–800,14544,33.5,34.6,10.7,26,0501-1000,77.5
+41,17.4,800,Asia,China,Eastern Asia,20.9,41 : 59,CN,21.5–30.6,East China University of Science and Technology,601–800,24207,83.8,45.9,17.2,6,0501-1000,30.6
+37,32.5,800,Europe,Northern Cyprus,Eastern Europe,18.0,37 : 63,CY,21.5–30.6,Eastern Mediterranean University,601–800,19069,79.5,36.1,16.3,84,0501-1000,80.9
+61,20.2,800,Europe,United Kingdom,Northern Europe,22.4,61 : 39,GB,21.5–30.6,University of East London,601–800,11857,31.8,18.2,13.1,33,0501-1000,77.3
+25,15.2,800,Europe,France,Western Europe,29.2,25 : 75,FR,21.5–30.6,École Centrale de Lyon,601–800,1871,71.4,33.9,15.0,22,0501-1000,61.9
+30,10.5,800,Europe,France,Western Europe,31.3,30 : 70,FR,21.5–30.6,École Normale Supérieure de Cachan,601–800,1631,45.0,42.2,10.6,15,0501-1000,55.3
+56,20.3,800,Europe,United Kingdom,Northern Europe,17.0,56 : 44,GB,21.5–30.6,Edinburgh Napier University,601–800,10953,34.2,30.4,10.9,32,0501-1000,77.1
+17,15.3,800,Americas,United States,Northern America,16.6,17 : 83,US,21.5–30.6,Embry-Riddle Aeronautical University,601–800,15514,31.9,63.6,7.4,11,0501-1000,27.6
+63,14.8,800,Europe,Hungary,Eastern Europe,21.1,63 : 37,HU,21.5–30.6,Eötvös Loránd University,601–800,23558,32.4,42.2,12.6,7,0501-1000,47.0
+31,20.3,800,Americas,Brazil,South America,29.2,31 : 69,BR,21.5–30.6,Federal University of ABC (UFABC),601–800,12467,34.5,29.3,12.1,1,0501-1000,32.8
+29,15.3,800,Americas,Brazil,South America,29.5,29 : 71,BR,21.5–30.6,Federal University of Itajubá,601–800,7559,100.0,11.8,20.4,1,0501-1000,19.6
+53,14.5,800,Americas,Brazil,South America,29.3,53 : 47,BR,21.5–30.6,Federal University of Minas Gerais,601–800,45138,34.3,30.8,14.5,2,0501-1000,24.8
+54,14.0,800,Americas,Brazil,South America,30.2,54 : 46,BR,21.5–30.6,Federal University of Rio de Janeiro,601–800,54989,40.5,23.2,19.8,2,0501-1000,28.3
+47,14.4,800,Americas,Brazil,South America,30.0,47 : 53,BR,21.5–30.6,Federal University of Rio Grande do Sul,601–800,39588,6.1,30.7,9.0,1,0501-1000,23.5
+59,15.8,800,Americas,United States,Northern America,19.0,59 : 41,US,21.5–30.6,Florida Atlantic University,601–800,17330,1.7,40.6,12.9,10,0501-1000,45.5
+33,14.6,800,Americas,United States,Northern America,22.4,33 : 67,US,21.5–30.6,Florida Institute of Technology,601–800,5343,34.7,26.1,12.7,35,0501-1000,59.7
+42,17.7,800,Asia,China,Eastern Asia,17.5,42 : 58,CN,21.5–30.6,Fuzhou University,601–800,35901,42.1,54.0,10.2,1,0501-1000,20.0
+34,23.1,800,Asia,Turkey,Western Asia,19.8,34 : 66,TR,21.5–30.6,Gebze Technical University,601–800,5781,33.4,34.7,10.4,2,0501-1000,26.6
+59,21.9,800,Europe,United Kingdom,Northern Europe,17.1,59 : 41,GB,21.5–30.6,Glasgow Caledonian University,601–800,13826,32.7,42.9,10.9,19,0501-1000,59.9
+55,18.7,800,Europe,United Kingdom,Northern Europe,17.1,55 : 45,GB,21.5–30.6,University of Greenwich,601–800,14678,33.2,40.1,12.3,35,0501-1000,84.7
+57,18.3,800,Asia,Turkey,Western Asia,28.2,57 : 43,TR,21.5–30.6,Hacettepe University,601–800,39181,33.8,42.9,10.7,5,0501-1000,23.6
+66,30.7,800,Asia,Israel,Western Asia,24.9,66 : 34,IL,21.5–30.6,University of Haifa,601–800,17917,33.8,34.3,30.0,2,0501-1000,35.9
+36,8.3,800,Asia,Japan,Eastern Asia,29.7,36 : 64,JP,21.5–30.6,Hiroshima University,601–800,14769,48.9,39.0,19.6,6,0501-1000,26.8
+53,17.6,800,Asia,China,Eastern Asia,26.8,53 : 47,CN,21.5–30.6,Huazhong Agricultural University,601–800,25619,39.8,48.0,12.9,1,0501-1000,18.5
+56,22.5,800,Europe,United Kingdom,Northern Europe,20.5,56 : 44,GB,21.5–30.6,University of Huddersfield,601–800,15154,33.5,26.5,16.3,26,0501-1000,66.0
+45,22.2,800,Asia,China,Eastern Asia,20.5,45 : 55,CN,21.5–30.6,Hunan University,601–800,42004,51.3,42.2,19.6,2,0501-1000,18.3
+15,13.4,800,Asia,India,Southern Asia,24.8,15 : 85,IN,21.5–30.6,Indian Institute of Technology Guwahati,601–800,5419,36.1,46.4,19.2,1,0501-1000,15.1
+19,14.9,800,Asia,India,Southern Asia,36.9,19 : 81,IN,21.5–30.6,Indian Institute of Technology Madras,601–800,9033,71.5,29.2,22.1,n/a,0501-1000,18.2
+15,24.6,800,Asia,India,Southern Asia,22.8,15 : 85,IN,21.5–30.6,Indian Institute of Technology (Indian School of Mines) Dhanbad,601–800,6692,49.7,43.1,11.9,1,0501-1000,13.2
+38,23.8,800,Asia,South Korea,Eastern Asia,23.0,38 : 62,KR,21.5–30.6,Inha University,601–800,19921,66.3,23.1,19.5,3,0501-1000,27.1
+30,31.7,800,Asia,Iran,Southern Asia,25.5,30 : 70,IR,21.5–30.6,Iran University of Science and Technology,601–800,13206,51.2,36.3,24.7,n/a,0501-1000,15.1
+50,22.8,800,Europe,Portugal,Southern Europe,24.6,50 : 50,PT,21.5–30.6,ISCTE-University Institute of Lisbon,601–800,8699,33.5,17.5,24.7,12,0501-1000,46.6
+42,19.8,800,Asia,Iran,Southern Asia,21.4,42 : 58,IR,21.5–30.6,Isfahan University of Technology,601–800,9323,84.1,41.8,20.5,1,0501-1000,20.1
+34,16.9,800,Asia,Turkey,Western Asia,22.5,34 : 66,TR,21.5–30.6,Istanbul Technical University,601–800,36061,100.0,33.5,24.2,4,0501-1000,25.6
+31,17.6,800,Asia,India,Southern Asia,33.3,31 : 69,IN,21.5–30.6,Jadavpur University,601–800,11011,38.6,33.3,18.5,n/a,0501-1000,14.9
+55,20.5,800,Europe,Spain,Southern Europe,16.7,55 : 45,ES,21.5–30.6,University of Jaén,601–800,16894,34.2,39.8,11.7,8,0501-1000,32.2
+67,11.8,800,Europe,Poland,Eastern Europe,23.1,67 : 33,PL,21.5–30.6,Jagiellonian University,601–800,42594,32.7,37.9,14.2,6,0501-1000,34.3
+55,27.4,800,Africa,South Africa,Southern Africa,19.3,55 : 45,ZA,21.5–30.6,University of Johannesburg,601–800,28122,42.7,36.3,23.5,7,0501-1000,55.6
+52,3.7,800,Asia,Japan,Eastern Asia,32.2,52 : 48,JP,21.5–30.6,Juntendo University,601–800,4246,48.5,27.9,12.4,1,0501-1000,20.1
+41,9.6,800,Asia,Japan,Eastern Asia,21.6,41 : 59,JP,21.5–30.6,Kagawa University,601–800,6453,36.9,33.1,11.1,2,0501-1000,27.9
+36,10.4,800,Asia,Japan,Eastern Asia,27.4,36 : 64,JP,21.5–30.6,Kanazawa University,601–800,10464,33.8,31.7,16.7,5,0501-1000,21.5
+50,14.7,800,Americas,United States,Northern America,24.3,50 : 50,US,21.5–30.6,Kansas State University,601–800,22017,41.5,44.1,17.8,11,0501-1000,45.1
+56,12.2,800,Asia,Taiwan,Eastern Asia,20.2,56 : 44,TW,21.5–30.6,Kaohsiung Medical University,601–800,6894,50.2,28.1,19.1,6,0501-1000,24.4
+70,11.8,800,Asia,Malaysia,South-Eastern Asia,30.5,70 : 30,MY,21.5–30.6,Universiti Kebangsaan Malaysia,601–800,19353,34.1,11.0,21.4,12,0501-1000,39.1
+34,11.1,800,Asia,Japan,Eastern Asia,31.6,34 : 66,JP,21.5–30.6,Keio University,601–800,34689,40.1,33.1,23.2,7,0501-1000,27.5
+57,26.5,800,Europe,Spain,Southern Europe,18.8,57 : 43,ES,21.5–30.6,King Juan Carlos University,601–800,33849,34.6,37.3,10.3,11,0501-1000,42.8
+46,22.0,800,Asia,Thailand,South-Eastern Asia,18.0,46 : 54,TH,21.5–30.6,King Mongkut’s University of Technology Thonburi,601–800,16413,98.0,42.3,10.6,1,0501-1000,30.1
+55,21.5,800,Europe,United Kingdom,Northern Europe,18.8,55 : 45,GB,21.5–30.6,Kingston University,601–800,17342,32.2,26.4,15.6,36,0501-1000,80.2
+33,23.0,800,Asia,Iran,Southern Asia,19.4,33 : 67,IR,21.5–30.6,K.N. Toosi University of Technology,601–800,7079,47.4,27.0,18.5,n/a,0501-1000,16.7
+34,7.8,800,Asia,Japan,Eastern Asia,30.3,34 : 66,JP,21.5–30.6,Kobe University,601–800,15751,38.9,26.5,19.3,7,0501-1000,24.8
+46,8.4,800,Asia,Japan,Eastern Asia,20.1,46 : 54,JP,21.5–30.6,Kochi University,601–800,5584,37.6,36.0,9.4,1,0501-1000,25.8
+37,7.8,800,Asia,Japan,Eastern Asia,24.8,37 : 63,JP,21.5–30.6,Kumamoto University,601–800,10214,43.8,24.9,13.6,6,0501-1000,26.4
+72,24.0,800,Asia,Kuwait,Western Asia,19.1,72 : 28,KW,21.5–30.6,Kuwait University,601–800,37752,35.3,27.1,8.8,13,0501-1000,70.8
+42,18.2,800,Asia,South Korea,Eastern Asia,22.1,42 : 58,KR,21.5–30.6,Kyungpook National University,601–800,27162,39.0,22.9,19.6,4,0501-1000,24.5
+57,14.0,800,Europe,Spain,Southern Europe,18.1,57 : 43,ES,21.5–30.6,University of La Laguna,601–800,20248,32.4,57.5,9.7,4,0501-1000,46.6
+50,20.8,800,Europe,United Kingdom,Northern Europe,16.8,50 : 50,GB,21.5–30.6,Leeds Beckett University,601–800,20122,32.2,39.5,11.1,14,0501-1000,46.8
+56,16.0,800,Europe,United Kingdom,Northern Europe,17.0,56 : 44,GB,21.5–30.6,University of Lincoln,601–800,10874,32.8,30.1,12.1,16,0501-1000,65.5
+60,15.8,800,Europe,Slovenia,Southern Europe,25.7,60 : 40,SI,21.5–30.6,University of Ljubljana,601–800,42922,35.6,35.8,16.1,4,0501-1000,38.5
+58,15.3,800,Europe,United Kingdom,Northern Europe,19.1,58 : 42,GB,21.5–30.6,Manchester Metropolitan University,601–800,26686,32.0,29.9,11.8,15,0501-1000,59.4
+54,15.4,800,Europe,Slovenia,Southern Europe,18.9,54 : 46,SI,21.5–30.6,University of Maribor,601–800,13197,39.2,49.0,15.3,4,0501-1000,36.7
+52,12.4,800,Americas,United States,Northern America,35.1,52 : 48,US,21.5–30.6,Marquette University,601–800,10664,34.6,30.0,12.7,5,0501-1000,22.0
+44,26.3,800,Asia,Turkey,Western Asia,28.6,44 : 56,TR,21.5–30.6,Middle East Technical University,601–800,26739,61.2,31.9,20.6,7,0501-1000,29.4
+54,18.4,800,Europe,Portugal,Southern Europe,23.2,54 : 46,PT,21.5–30.6,University of Minho,601–800,18257,67.6,35.8,22.8,10,0501-1000,47.3
+50,28.6,800,Americas,United States,Northern America,19.0,50 : 50,US,21.5–30.6,Mississippi State University,601–800,38420,34.9,42.9,15.8,4,0501-1000,23.1
+40,17.2,800,Americas,Mexico,Northern America,24.3,40 : 60,MX,21.5–30.6,Monterrey Institute of Technology and Higher Education,601–800,14003,80.1,31.9,14.8,13,0501-1000,65.4
+61,15.3,800,Europe,Spain,Southern Europe,20.1,61 : 39,ES,21.5–30.6,University of Murcia,601–800,30623,33.0,32.1,12.4,6,0501-1000,34.7
+52,8.0,800,Asia,Japan,Eastern Asia,23.1,52 : 48,JP,21.5–30.6,Nagoya City University,601–800,4317,42.8,32.2,12.5,3,0501-1000,19.5
+56,16.1,800,Asia,China,Eastern Asia,23.0,56 : 44,CN,21.5–30.6,Nanjing Agricultural University,601–800,26301,42.9,43.1,16.2,1,0501-1000,18.0
+,9.1,800,Asia,China,Eastern Asia,24.9,n/a,CN,21.5–30.6,Nanjing Medical University,601–800,12783,32.8,37.6,22.6,5,0501-1000,19.5
+68,14.6,800,Asia,China,Eastern Asia,19.9,68 : 32,CN,21.5–30.6,Nanjing Normal University,601–800,26714,47.3,40.2,10.2,3,0501-1000,18.4
+,17.9,800,Asia,China,Eastern Asia,17.7,n/a,CN,21.5–30.6,Nanjing Tech University,601–800,30098,62.0,39.4,12.0,1,0501-1000,18.0
+51,12.1,800,Americas,Mexico,Northern America,34.4,51 : 49,MX,21.5–30.6,National Autonomous University of Mexico,601–800,145024,57.3,19.4,29.4,6,0501-1000,39.3
+34,9.5,800,Asia,Taiwan,Eastern Asia,25.0,34 : 66,TW,21.5–30.6,National Central University,601–800,10859,67.2,20.9,23.3,10,0501-1000,35.1
+59,16.9,800,Asia,Taiwan,Eastern Asia,23.0,59 : 41,TW,21.5–30.6,National Chengchi University,601–800,15555,34.0,11.5,24.5,13,0501-1000,42.8
+32,8.5,800,Europe,France,Western Europe,25.7,32 : 68,FR,21.5–30.6,National Institute of Applied Sciences of Lyon (INSA Lyon),601–800,6029,62.8,39.0,12.6,30,0501-1000,75.3
+25,19.1,800,Asia,India,Southern Asia,25.3,25 : 75,IN,21.5–30.6,National Institute of Technology Rourkela,601–800,5746,33.3,47.4,13.9,4,0501-1000,15.5
+41,9.2,800,Europe,Russian Federation,Eastern Europe,22.0,41 : 59,RU,21.5–30.6,National University of Science and Technology (MISiS),601–800,7236,60.1,24.2,20.1,24,0501-1000,56.3
+33,8.0,800,Asia,Pakistan,Southern Asia,20.3,33 : 67,PK,21.5–30.6,National University of Sciences and Technology,601–800,10373,32.6,39.9,8.7,3,0501-1000,37.0
+37,15.7,800,Asia,Taiwan,Eastern Asia,24.4,37 : 63,TW,21.5–30.6,National Sun Yat-Sen University,601–800,9013,46.8,26.4,28.1,5,0501-1000,27.9
+48,5.0,800,Asia,Taiwan,Eastern Asia,37.8,48 : 52,TW,21.5–30.6,National Yang-Ming University,601–800,4255,34.8,37.7,18.0,2,0501-1000,18.6
+53,16.7,800,Americas,United States,Northern America,22.8,53 : 47,US,21.5–30.6,New Mexico State University,601–800,13670,36.4,57.7,9.0,8,0501-1000,35.2
+66,23.9,800,Americas,United States,Northern America,22.9,66 : 34,US,21.5–30.6,University of North Carolina at Greensboro,601–800,17774,33.0,41.0,20.2,3,0501-1000,19.1
+64,15.6,800,Asia,China,Eastern Asia,22.7,64 : 36,CN,21.5–30.6,Northeast Normal University,601–800,24802,33.5,51.2,5.8,1,0501-1000,16.4
+60,11.4,800,Americas,Canada,Northern America,20.2,60 : 40,CA,21.5–30.6,University of Northern British Columbia (UNBC),601–800,2752,36.6,34.6,13.1,10,0501-1000,38.9
+26,14.2,800,Asia,China,Eastern Asia,23.9,26 : 74,CN,21.5–30.6,Northwestern Polytechnical University,601–800,26904,76.4,17.2,29.7,3,0501-1000,18.4
+56,16.9,800,Europe,United Kingdom,Northern Europe,18.3,56 : 44,GB,21.5–30.6,Nottingham Trent University,601–800,23045,32.0,35.1,11.4,18,0501-1000,60.0
+38,7.9,800,Asia,Japan,Eastern Asia,25.4,38 : 62,JP,21.5–30.6,Okayama University,601–800,13115,45.9,26.4,15.4,4,0501-1000,22.5
+54,19.7,800,Americas,United States,Northern America,24.2,54 : 46,US,21.5–30.6,Old Dominion University,601–800,19148,1.7,51.0,18.2,3,0501-1000,28.8
+36,9.1,800,Asia,Japan,Eastern Asia,25.2,36 : 64,JP,21.5–30.6,Osaka City University,601–800,8386,38.7,26.0,13.9,4,0501-1000,22.4
+42,12.2,800,Europe,Germany,Western Europe,23.4,42 : 58,DE,21.5–30.6,Otto von Guericke University of Magdeburg,601–800,14248,41.6,47.3,12.8,14,0501-1000,52.9
+47,13.4,800,Europe,Spain,Southern Europe,27.0,47 : 53,ES,21.5–30.6,University of Oviedo,601–800,23806,34.1,49.1,13.5,2,0501-1000,31.9
+69,11.4,800,Europe,Czech Republic,Eastern Europe,19.3,69 : 31,CZ,21.5–30.6,Palacký University Olomouc,601–800,18332,32.5,45.0,12.2,10,0501-1000,54.6
+46,22.6,800,Asia,India,Southern Asia,27.1,46 : 54,IN,21.5–30.6,Panjab University,601–800,17046,31.8,55.5,8.6,1,0501-1000,16.0
+49,33.9,800,Europe,Greece,Southern Europe,19.1,49 : 51,GR,21.5–30.6,University of Patras,601–800,24989,45.1,37.2,12.4,5,0501-1000,35.7
+57,12.6,800,Europe,Hungary,Eastern Europe,19.4,57 : 43,HU,21.5–30.6,University of Pécs,601–800,16396,46.9,39.3,10.1,17,0501-1000,55.3
+43,6.8,800,Europe,Russian Federation,Eastern Europe,28.5,43 : 57,RU,21.5–30.6,Peter the Great St Petersburg Polytechnic University,601–800,16775,53.0,27.3,14.8,20,0501-1000,48.8
+61,11.2,800,Asia,Philippines,South-Eastern Asia,20.5,61 : 39,PH,21.5–30.6,University of the Philippines,601–800,51086,32.6,40.0,10.0,1,0501-1000,39.8
+48,17.0,800,Americas,Peru,South America,15.4,48 : 52,PE,21.5–30.6,Pontifical Catholic University of Peru,601–800,27013,31.7,40.6,5.2,3,0501-1000,51.3
+51,22.0,800,Americas,Brazil,South America,27.5,51 : 49,BR,21.5–30.6,Pontifical Catholic University of Rio de Janeiro (PUC-Rio),601–800,15638,99.8,21.5,23.1,3,0501-1000,40.3
+54,15.9,800,Americas,United States,Northern America,20.4,54 : 46,US,21.5–30.6,Portland State University,601–800,21207,39.6,49.4,15.4,9,0501-1000,32.0
+56,24.1,800,Africa,South Africa,Southern Africa,25.7,56 : 44,ZA,21.5–30.6,University of Pretoria,601–800,36005,63.5,29.3,26.5,8,0501-1000,49.9
+46,19.7,800,Asia,South Korea,Eastern Asia,27.1,46 : 54,KR,21.5–30.6,Pusan National University,601–800,25464,63.1,28.8,27.9,11,0501-1000,34.9
+44,12.9,800,Asia,Malaysia,South-Eastern Asia,26.6,44 : 56,MY,21.5–30.6,Universiti Putra Malaysia,601–800,25929,36.0,17.2,23.7,18,0501-1000,61.1
+60,22.2,800,Americas,Canada,Northern America,16.9,60 : 40,CA,21.5–30.6,University of Regina,601–800,12178,32.5,42.5,6.2,15,0501-1000,51.2
+35,16.2,800,Americas,United States,Northern America,20.1,35 : 65,US,21.5–30.6,Rochester Institute of Technology,601–800,13784,33.6,41.2,17.7,17,0501-1000,37.9
+73,17.6,800,Europe,United Kingdom,Northern Europe,18.8,73 : 27,GB,21.5–30.6,University of Roehampton,601–800,7169,32.1,16.2,19.2,28,0501-1000,72.0
+63,12.9,800,Asia,Malaysia,South-Eastern Asia,32.2,63 : 37,MY,21.5–30.6,Universiti Sains Malaysia,601–800,25975,38.4,15.0,17.7,8,0501-1000,45.8
+58,18.5,800,Europe,Spain,Southern Europe,24.8,58 : 42,ES,21.5–30.6,University of Salamanca,601–800,30943,33.5,35.5,13.7,14,0501-1000,47.7
+52,16.6,800,Europe,United Kingdom,Northern Europe,21.2,52 : 48,GB,21.5–30.6,University of Salford,601–800,15790,32.6,22.0,14.3,26,0501-1000,69.9
+,9.0,800,Europe,Russian Federation,Eastern Europe,33.6,n/a,RU,21.5–30.6,Samara State Aerospace University,601–800,6314,51.3,34.9,10.4,6,0501-1000,19.4
+62,15.9,800,Europe,Spain,Southern Europe,20.9,62 : 38,ES,21.5–30.6,University of Santiago de Compostela,601–800,27573,35.2,48.2,15.0,8,0501-1000,44.2
+49,13.3,800,Americas,Brazil,South America,33.7,49 : 51,BR,21.5–30.6,São Paulo State University (UNESP),601–800,44059,33.1,12.7,21.6,3,0501-1000,22.2
+41,15.9,800,Asia,India,Southern Asia,38.9,41 : 59,IN,21.5–30.6,Savitribai Phule Pune University,601–800,6155,34.4,21.6,7.2,3,0501-1000,18.3
+36,15.8,800,Asia,China,Eastern Asia,25.6,36 : 64,CN,21.5–30.6,University of Science and Technology Beijing,601–800,24384,60.1,16.0,22.2,3,0501-1000,17.4
+35,17.0,800,Asia,South Korea,Eastern Asia,24.9,35 : 65,KR,21.5–30.6,University of Seoul,601–800,8902,33.9,22.2,15.5,5,0501-1000,25.0
+49,18.5,800,Europe,Spain,Southern Europe,20.9,49 : 51,ES,21.5–30.6,University of Seville,601–800,54413,42.8,35.7,15.4,2,0501-1000,34.7
+46,13.5,800,Asia,China,Eastern Asia,20.6,46 : 54,CN,21.5–30.6,Shanghai University,601–800,36461,45.7,25.5,15.9,5,0501-1000,23.5
+50,12.0,800,Asia,China,Eastern Asia,18.6,50 : 50,CN,21.5–30.6,Shantou University,601–800,9857,34.2,38.3,10.5,n/a,0501-1000,33.6
+26,17.9,800,Asia,Iran,Southern Asia,25.5,26 : 74,IR,21.5–30.6,Sharif University of Technology,601–800,11228,96.4,36.7,26.5,n/a,0501-1000,19.6
+50,13.9,800,Asia,China,Eastern Asia,30.6,50 : 50,CN,21.5–30.6,Sichuan University,601–800,60848,71.2,25.2,24.5,4,0501-1000,20.7
+43,21.5,800,Asia,South Korea,Eastern Asia,27.2,43 : 57,KR,21.5–30.6,Sogang University,601–800,9440,48.7,25.4,28.3,7,0501-1000,28.6
+57,25.9,800,Oceania,Australia,Australia and New Zealand,21.9,57 : 43,AU,21.5–30.6,University of Southern Queensland,601–800,11921,33.1,26.0,16.5,19,0501-1000,69.1
+51,17.0,800,Europe,United Kingdom,Northern Europe,16.5,51 : 49,GB,21.5–30.6,University of South Wales,601–800,17332,32.3,38.5,9.0,19,0501-1000,61.1
+54,32.6,800,Asia,Thailand,South-Eastern Asia,21.9,54 : 46,TH,21.5–30.6,Suranaree University of Technology,601–800,14107,40.6,33.6,10.1,1,0501-1000,32.2
+57,13.1,800,Europe,Hungary,Eastern Europe,20.4,57 : 43,HU,21.5–30.6,University of Szeged,601–800,20864,35.4,34.0,10.8,12,0501-1000,51.7
+51,30.2,800,Asia,Iran,Southern Asia,25.0,51 : 49,IR,21.5–30.6,University of Tabriz,601–800,22421,41.2,35.2,14.6,n/a,0501-1000,16.0
+57,12.1,800,Asia,Taiwan,Eastern Asia,25.2,57 : 43,TW,21.5–30.6,Taipei Medical University,601–800,5929,99.6,32.1,26.4,7,0501-1000,31.4
+52,21.2,800,Europe,Estonia,Northern Europe,17.9,52 : 48,EE,21.5–30.6,Tallinn University of Technology,601–800,10921,45.5,34.9,11.8,10,0501-1000,50.7
+32,13.6,800,Europe,Spain,Southern Europe,23.8,32 : 68,ES,21.5–30.6,Technical University of Madrid,601–800,40371,43.0,34.8,13.6,12,0501-1000,45.0
+36,15.4,800,Europe,France,Western Europe,23.0,36 : 64,FR,21.5–30.6,University of Technology of Compiègne,601–800,4321,38.1,41.6,9.5,24,0501-1000,79.1
+56,18.1,800,Europe,United Kingdom,Northern Europe,16.5,56 : 44,GB,21.5–30.6,Teesside University,601–800,11095,32.0,38.6,9.3,12,0501-1000,48.0
+43,29.4,800,Asia,Iran,Southern Asia,31.1,43 : 57,IR,21.5–30.6,University of Tehran,601–800,59457,31.7,28.2,21.7,2,0501-1000,21.4
+60,7.6,800,Asia,Iran,Southern Asia,44.2,60 : 40,IR,21.5–30.6,Tehran University of Medical Sciences,601–800,12668,35.6,21.4,14.0,3,0501-1000,17.7
+52,10.5,800,Asia,Malaysia,South-Eastern Asia,31.1,52 : 48,MY,21.5–30.6,Universiti Teknologi Malaysia,601–800,18214,38.6,22.7,20.4,14,0501-1000,51.1
+34,15.3,800,Asia,Malaysia,South-Eastern Asia,22.4,34 : 66,MY,21.5–30.6,Universiti Teknologi Petronas,601–800,5875,87.5,16.1,23.4,22,0501-1000,63.6
+53,23.8,800,Americas,United States,Northern America,20.9,53 : 47,US,21.5–30.6,University of Texas at El Paso,601–800,16595,31.7,33.9,20.6,7,0501-1000,35.7
+40,13.8,800,Asia,India,Southern Asia,31.4,40 : 60,IN,21.5–30.6,Tezpur University,601–800,3611,31.9,36.6,26.1,n/a,0501-1000,13.2
+28,14.8,800,Asia,Japan,Eastern Asia,26.1,28 : 72,JP,21.5–30.6,Tokyo University of Agriculture and Technology,601–800,5797,44.1,21.3,22.6,6,0501-1000,23.4
+20,25.1,800,Asia,Japan,Eastern Asia,23.2,20 : 80,JP,21.5–30.6,Tokyo University of Science,601–800,19791,37.4,21.7,24.9,1,0501-1000,18.0
+50,16.6,800,Europe,Spain,Southern Europe,19.4,50 : 50,ES,21.5–30.6,University of Vigo,601–800,19472,35.7,32.2,12.2,6,0501-1000,40.3
+61,12.3,800,Europe,Lithuania,Northern Europe,20.1,61 : 39,LT,21.5–30.6,Vilnius University,601–800,17364,40.0,35.6,13.5,6,0501-1000,47.9
+37,13.0,800,Europe,Poland,Eastern Europe,19.9,37 : 63,PL,21.5–30.6,Warsaw University of Technology,601–800,31101,36.2,44.1,9.8,5,0501-1000,23.4
+36,15.8,800,Asia,Japan,Eastern Asia,31.0,36 : 64,JP,21.5–30.6,Waseda University,601–800,49840,35.6,31.3,22.1,8,0501-1000,34.2
+53,18.3,800,Europe,United Kingdom,Northern Europe,17.0,53 : 47,GB,21.5–30.6,University of the West of England,601–800,20468,32.4,32.6,14.0,19,0501-1000,57.5
+60,31.6,800,Africa,South Africa,Southern Africa,18.8,60 : 40,ZA,21.5–30.6,University of the Western Cape,601–800,20382,33.3,35.9,17.6,9,0501-1000,60.8
+59,20.1,800,Europe,United Kingdom,Northern Europe,19.8,59 : 41,GB,21.5–30.6,University of Westminster,601–800,17040,32.1,32.2,15.0,46,0501-1000,82.2
+52,19.1,800,Americas,Canada,Northern America,19.3,52 : 48,CA,21.5–30.6,University of Windsor,601–800,15227,34.9,26.6,15.0,17,0501-1000,50.8
+49,14.7,800,Asia,South Korea,Eastern Asia,19.1,49 : 51,KR,21.5–30.6,Yeungnam University,601–800,20532,39.4,37.3,11.7,4,0501-1000,32.2
+55,3.5,800,Asia,Japan,Eastern Asia,26.2,55 : 45,JP,21.5–30.6,Yokohama City University,601–800,4889,37.5,37.8,6.5,2,0501-1000,19.1
+55,11.2,800,Europe,Spain,Southern Europe,20.5,55 : 45,ES,21.5–30.6,University of Zaragoza,601–800,29924,37.1,50.8,12.3,6,0501-1000,37.6
+51,11.9,1000,Europe,Spain,Southern Europe,19.1,51 : 49,ES,15.6–21.4,University of A Coruña,801–1000,15735,34.3,23.7,11.2,2,0501-1000,30.6
+69,14.9,1000,Europe,Poland,Eastern Europe,18.7,69 : 31,PL,15.6–21.4,Adam Mickiewicz University,801–1000,40412,32.3,22.8,11.6,2,0501-1000,30.5
+41,32.9,1000,Asia,Pakistan,Southern Asia,17.7,41 : 59,PK,15.6–21.4,"University of Agriculture, Faisalabad",801–1000,19736,31.9,20.2,12.4,n/a,0501-1000,27.1
+61,13.5,1000,Africa,Egypt,Northern Africa,21.1,61 : 39,EG,15.6–21.4,Ain Shams University,801–1000,131200,33.0,13.5,8.2,2,0501-1000,34.9
+34,10.2,1000,Asia,South Korea,Eastern Asia,22.0,34 : 66,KR,15.6–21.4,Ajou University,801–1000,11629,45.9,27.7,8.2,4,0501-1000,23.7
+45,26.3,1000,Asia,Turkey,Western Asia,16.2,45 : 55,TR,15.6–21.4,Akdeniz University,801–1000,33904,99.7,12.3,15.6,2,0501-1000,18.4
+53,26.9,1000,Africa,Egypt,Northern Africa,16.8,53 : 47,EG,15.6–21.4,Alexandria University,801–1000,166350,33.4,23.9,7.9,4,0501-1000,44.5
+63,17.7,1000,Europe,Romania,Eastern Europe,22.0,63 : 37,RO,15.6–21.4,Alexandru Ioan Cuza University,801–1000,23476,31.8,17.2,9.3,6,0501-1000,36.7
+57,19.5,1000,Europe,Spain,Southern Europe,18.5,57 : 43,ES,15.6–21.4,University of Alicante,801–1000,28005,34.1,26.5,11.8,7,0501-1000,38.3
+57,18.4,1000,Europe,Spain,Southern Europe,18.0,57 : 43,ES,15.6–21.4,University of Almería,801–1000,12315,33.9,25.3,11.2,7,0501-1000,33.8
+,11.9,1000,Asia,India,Southern Asia,21.6,n/a,IN,15.6–21.4,Amrita Vishwa Vidyapeetham,801–1000,14233,52.5,17.0,9.5,13,0501-1000,47.0
+42,19.2,1000,Asia,India,Southern Asia,33.6,42 : 58,IN,15.6–21.4,Andhra University,801–1000,9632,35.4,4.3,8.8,3,0501-1000,16.3
+52,26.1,1000,Americas,Chile,South America,14.3,52 : 48,CL,15.6–21.4,Andrés Bello University (UNAB),801–1000,44906,31.9,26.0,6.7,1,0501-1000,45.0
+35,16.2,1000,Asia,India,Southern Asia,22.8,35 : 65,IN,15.6–21.4,Annamalai University,801–1000,33028,32.0,17.1,7.7,2,0501-1000,7.9
+50,23.1,1000,Americas,Colombia,South America,18.1,50 : 50,CO,15.6–21.4,University of Antioquia,801–1000,39524,38.7,17.5,21.7,n/a,0501-1000,38.8
+56,30.7,1000,Asia,Taiwan,Eastern Asia,16.6,56 : 44,TW,15.6–21.4,"Asia University, Taiwan",801–1000,12514,51.4,19.8,21.2,2,0501-1000,23.9
+41,33.0,1000,Africa,Egypt,Northern Africa,20.0,41 : 59,EG,15.6–21.4,Assiut University,801–1000,60170,1.1,15.2,6.8,1,0501-1000,43.9
+49,16.7,1000,Americas,Chile,South America,17.4,49 : 51,CL,15.6–21.4,Austral University of Chile,801–1000,14423,42.8,24.4,10.9,2,0501-1000,48.5
+40,11.5,1000,Asia,Indonesia,South-Eastern Asia,20.8,40 : 60,ID,15.6–21.4,Bandung Institute of Technology (ITB),801–1000,16786,83.0,8.1,11.8,2,0501-1000,31.0
+30,4.0,1000,Europe,Russian Federation,Eastern Europe,39.8,30 : 70,RU,15.6–21.4,Bauman Moscow State Technical University,801–1000,19394,52.5,4.6,16.3,7,0501-1000,20.0
+41,13.7,1000,Asia,China,Eastern Asia,22.2,41 : 59,CN,15.6–21.4,Beijing Jiaotong University,801–1000,24610,58.2,11.9,21.9,6,0501-1000,22.5
+69,9.1,1000,Europe,Belarus,Eastern Europe,21.0,69 : 31,BY,15.6–21.4,Belarusian State University,801–1000,27384,43.1,11.9,9.9,9,0501-1000,54.8
+21,17.5,1000,Asia,India,Southern Asia,18.7,21 : 79,IN,15.6–21.4,"Birla Institute of Technology and Science, Pilani",801–1000,12502,32.6,31.9,7.9,n/a,0501-1000,16.2
+51,19.3,1000,Americas,Brazil,South America,23.4,51 : 49,BR,15.6–21.4,University of Brasília,801–1000,51179,31.7,19.1,12.4,2,0501-1000,31.2
+28,21.4,1000,Europe,Czech Republic,Eastern Europe,19.1,28 : 72,CZ,15.6–21.4,Brno University of Technology,801–1000,22278,40.1,24.0,13.6,19,0501-1000,43.7
+69,23.4,1000,Europe,Romania,Eastern Europe,22.7,69 : 31,RO,15.6–21.4,University of Bucharest,801–1000,31234,31.8,17.1,6.5,2,0501-1000,39.5
+31,19.6,1000,Europe,Hungary,Eastern Europe,17.7,31 : 69,HU,15.6–21.4,Budapest University of Technology and Economics,801–1000,20258,45.3,29.0,12.8,3,0501-1000,29.7
+48,46.2,1000,Africa,Egypt,Northern Africa,21.5,48 : 52,EG,15.6–21.4,Cairo University,801–1000,252095,33.0,22.6,11.4,2,0501-1000,32.9
+50,36.0,1000,Asia,India,Southern Asia,33.3,50 : 50,IN,15.6–21.4,University of Calcutta,801–1000,18922,33.5,14.0,13.3,n/a,0501-1000,14.6
+47,20.5,1000,Americas,United States,Northern America,16.6,47 : 53,US,15.6–21.4,"California Polytechnic State University, San Luis Obispo",801–1000,18838,37.0,33.3,7.0,2,0501-1000,32.4
+56,14.3,1000,Europe,Spain,Southern Europe,18.1,56 : 44,ES,15.6–21.4,University of Castilla-La Mancha,801–1000,24174,33.7,28.7,10.4,5,0501-1000,33.3
+45,20.2,1000,Americas,Chile,South America,16.3,45 : 55,CL,15.6–21.4,Catholic University of the North,801–1000,11187,33.2,12.5,11.7,1,0501-1000,51.1
+57,14.7,1000,Americas,Venezuela,South America,16.4,57 : 43,VE,15.6–21.4,Central University of Venezuela,801–1000,48426,31.9,18.9,7.3,1,0501-1000,37.6
+64,9.4,1000,Europe,France,Western Europe,19.4,64 : 36,FR,15.6–21.4,University of Cergy-Pontoise,801–1000,18125,35.1,20.8,9.3,15,0501-1000,63.2
+62,16.9,1000,Asia,Thailand,South-Eastern Asia,21.0,62 : 38,TH,15.6–21.4,Chiang Mai University,801–1000,35809,49.7,19.8,12.8,1,0501-1000,34.7
+28,18.1,1000,Asia,China,Eastern Asia,20.0,28 : 72,CN,15.6–21.4,China University of Mining and Technology,801–1000,43095,57.9,15.9,15.0,1,0501-1000,14.8
+,18.8,1000,Asia,China,Eastern Asia,22.0,n/a,CN,15.6–21.4,"China University of Petroleum, Beijing",801–1000,15133,99.6,12.8,22.9,5,0501-1000,19.0
+,17.6,1000,Asia,China,Eastern Asia,19.2,n/a,CN,15.6–21.4,Chongqing University,801–1000,49391,58.8,20.8,17.8,3,0501-1000,19.0
+34,22.2,1000,Asia,South Korea,Eastern Asia,23.2,34 : 66,KR,15.6–21.4,Chungnam National University,801–1000,22674,43.9,13.1,18.3,3,0501-1000,21.9
+42,31.7,1000,Asia,Taiwan,Eastern Asia,16.8,42 : 58,TW,15.6–21.4,Chung Yuan Christian University,801–1000,15769,42.2,15.0,23.9,9,0501-1000,28.5
+34,37.6,1000,Asia,Japan,Eastern Asia,26.4,34 : 66,JP,15.6–21.4,Chuo University,801–1000,26870,34.4,18.4,8.8,3,0501-1000,21.2
+36,32.0,1000,Asia,India,Southern Asia,26.5,36 : 64,IN,15.6–21.4,Cochin University of Science and Technology,801–1000,8168,32.3,7.2,12.3,n/a,0501-1000,15.2
+59,32.1,1000,Asia,Sri Lanka,Southern Asia,25.0,59 : 41,LK,15.6–21.4,University of Colombo,801–1000,22826,0.6,12.9,7.9,n/a,0501-1000,38.2
+50,17.9,1000,Americas,Chile,South America,17.1,50 : 50,CL,15.6–21.4,University of Concepción,801–1000,26682,57.2,20.4,13.5,1,0501-1000,47.6
+55,25.0,1000,Europe,Hungary,Eastern Europe,16.9,55 : 45,HU,15.6–21.4,Corvinus University of Budapest,801–1000,13724,32.0,18.0,9.5,12,0501-1000,43.7
+53,10.3,1000,Americas,Costa Rica,Central America,18.2,53 : 47,CR,15.6–21.4,University of Costa Rica,801–1000,30436,0.6,19.1,6.9,2,0501-1000,48.2
+54,20.6,1000,Europe,Czech Republic,Eastern Europe,18.7,54 : 46,CZ,15.6–21.4,Czech University of Life Sciences Prague (CULS),801–1000,17077,47.7,12.1,12.1,18,0501-1000,66.9
+57,18.2,1000,Europe,Hungary,Eastern Europe,18.8,57 : 43,HU,15.6–21.4,University of Debrecen,801–1000,27519,40.4,27.5,3.4,14,0501-1000,50.1
+,11.3,1000,Americas,Colombia,South America,17.7,n/a,CO,15.6–21.4,Del Rosario University,801–1000,8458,31.9,25.6,8.1,3,0501-1000,45.7
+55,15.0,1000,Europe,United Kingdom,Northern Europe,16.4,55 : 45,GB,15.6–21.4,University of Derby,801–1000,12217,32.4,29.5,8.5,14,0501-1000,54.4
+37,12.8,1000,Asia,Japan,Eastern Asia,20.9,37 : 63,JP,15.6–21.4,Ehime University,801–1000,9526,38.6,17.9,13.0,3,0501-1000,24.9
+10,16.6,1000,Asia,Japan,Eastern Asia,20.4,10 : 90,JP,15.6–21.4,The University of Electro-Communications,801–1000,4982,36.3,17.1,19.8,5,0501-1000,27.0
+23,16.2,1000,Asia,China,Eastern Asia,19.6,23 : 77,CN,15.6–21.4,University of Electronic Science and Technology of China,801–1000,34052,86.9,21.4,14.3,1,0501-1000,20.0
+47,25.3,1000,Asia,Turkey,Western Asia,17.0,47 : 53,TR,15.6–21.4,Erciyes University,801–1000,35263,71.2,21.8,11.0,2,0501-1000,20.8
+47,16.3,1000,Americas,Brazil,South America,22.1,47 : 53,BR,15.6–21.4,Federal University of Ceará (UFC),801–1000,34084,33.0,18.8,9.1,n/a,0501-1000,22.1
+51,13.7,1000,Americas,Brazil,South America,18.3,51 : 49,BR,15.6–21.4,Federal University of Pelotas,801–1000,17882,1.1,35.0,8.1,1,0501-1000,19.7
+50,12.7,1000,Americas,Brazil,South America,23.2,50 : 50,BR,15.6–21.4,Federal University of Pernambuco,801–1000,32408,47.0,14.6,9.1,1,0501-1000,20.4
+54,19.3,1000,Americas,Brazil,South America,19.9,54 : 46,BR,15.6–21.4,Federal University of Rio Grande do Norte (UFRN),801–1000,42613,42.1,15.8,8.3,n/a,0501-1000,20.6
+48,14.2,1000,Americas,Brazil,South America,25.0,48 : 52,BR,15.6–21.4,Federal University of Santa Catarina,801–1000,34183,38.4,23.6,10.6,2,0501-1000,26.1
+49,14.5,1000,Americas,Brazil,South America,25.5,49 : 51,BR,15.6–21.4,Federal University of São Carlos,801–1000,18145,32.3,15.9,12.0,2,0501-1000,22.4
+37,24.8,1000,Asia,Taiwan,Eastern Asia,17.1,37 : 63,TW,15.6–21.4,Feng Chia University,801–1000,21014,37.6,25.0,15.9,12,0501-1000,32.2
+57,28.4,1000,Asia,Iran,Southern Asia,22.9,57 : 43,IR,15.6–21.4,Ferdowsi University of Mashhad,801–1000,23211,35.8,20.1,14.7,4,0501-1000,20.2
+44,24.7,1000,Americas,Chile,South America,16.5,44 : 56,CL,15.6–21.4,University of La Frontera,801–1000,10157,32.2,17.2,9.1,n/a,0501-1000,43.5
+58,19.3,1000,Asia,Taiwan,Eastern Asia,17.9,58 : 42,TW,15.6–21.4,Fu Jen Catholic University,801–1000,23154,45.3,24.6,13.3,7,0501-1000,24.7
+53,12.4,1000,Asia,Indonesia,South-Eastern Asia,18.9,53 : 47,ID,15.6–21.4,Universitas Gadjah Mada,801–1000,42398,60.6,18.1,10.4,1,0501-1000,38.9
+40,19.9,1000,Europe,Poland,Eastern Europe,16.6,40 : 60,PL,15.6–21.4,Gdańsk University of Technology,801–1000,24230,37.4,28.6,9.5,1,0501-1000,19.1
+43,35.1,1000,Africa,Ghana,Western Africa,17.7,43 : 57,GH,15.6–21.4,University of Ghana,801–1000,39436,34.2,20.4,18.3,2,0501-1000,48.4
+35,8.0,1000,Asia,Japan,Eastern Asia,22.7,35 : 65,JP,15.6–21.4,Gifu University,801–1000,7320,34.7,15.5,10.8,4,0501-1000,21.3
+65,11.7,1000,Europe,Romania,Eastern Europe,20.1,65 : 35,RO,15.6–21.4,Grigore T. Popa University of Medicine and Pharmacy,801–1000,9710,32.0,9.9,7.1,29,0501-1000,51.2
+55,15.1,1000,Asia,Iran,Southern Asia,18.0,55 : 45,IR,15.6–21.4,University of Guilan,801–1000,16946,32.0,24.4,10.9,n/a,0501-1000,14.0
+,10.1,1000,Asia,South Korea,Eastern Asia,18.8,n/a,KR,15.6–21.4,Hallym University,801–1000,8688,32.9,14.8,13.4,3,0501-1000,20.0
+49,3.8,1000,Asia,Japan,Eastern Asia,27.5,49 : 51,JP,15.6–21.4,Hamamatsu University School of Medicine,801–1000,1198,37.2,21.2,6.0,2,0501-1000,17.4
+35,38.5,1000,Asia,Japan,Eastern Asia,17.0,35 : 65,JP,15.6–21.4,Hosei University,801–1000,28937,32.5,30.4,8.0,2,0501-1000,23.2
+38,14.9,1000,Asia,China,Eastern Asia,16.0,38 : 62,CN,15.6–21.4,Huaqiao University,801–1000,23442,38.8,19.6,9.0,15,0501-1000,45.3
+47,16.5,1000,Africa,Nigeria,Western Africa,25.9,47 : 53,NG,15.6–21.4,University of Ibadan,801–1000,26783,40.3,7.4,11.4,1,0501-1000,32.0
+81,8.8,1000,Asia,Saudi Arabia,Western Asia,20.7,81 : 19,SA,15.6–21.4,Imam Abdulrahman Bin Faisal University,801–1000,22257,32.3,5.3,6.3,4,0501-1000,70.8
+59,13.7,1000,Asia,Indonesia,South-Eastern Asia,23.9,59 : 41,ID,15.6–21.4,University of Indonesia,801–1000,42854,40.8,18.9,10.4,5,0501-1000,49.6
+59,19.4,1000,Asia,Iran,Southern Asia,24.8,59 : 41,IR,15.6–21.4,University of Isfahan,801–1000,12473,41.4,9.1,20.2,1,0501-1000,16.1
+46,31.3,1000,Asia,Taiwan,Eastern Asia,16.1,46 : 54,TW,15.6–21.4,I-Shou University,801–1000,16705,49.0,15.5,14.4,11,0501-1000,28.7
+48,45.9,1000,Asia,Turkey,Western Asia,26.4,48 : 52,TR,15.6–21.4,Istanbul University,801–1000,96144,52.6,14.9,18.1,6,0501-1000,24.4
+37,14.6,1000,Asia,Japan,Eastern Asia,20.7,37 : 63,JP,15.6–21.4,Iwate University,801–1000,5713,41.7,16.4,10.4,2,0501-1000,21.3
+46,18.6,1000,Asia,Turkey,Western Asia,18.8,46 : 54,TR,15.6–21.4,Izmir Institute of Technology,801–1000,4211,42.4,32.3,9.2,4,0501-1000,29.8
+33,23.3,1000,Asia,India,Southern Asia,29.2,33 : 67,IN,15.6–21.4,Jamia Millia Islamia,801–1000,16710,33.8,25.4,7.5,1,0501-1000,20.8
+47,7.0,1000,Asia,China,Eastern Asia,21.5,47 : 53,CN,15.6–21.4,Jiangsu University,801–1000,32350,51.5,16.6,9.9,4,0501-1000,27.6
+45,0.6,1000,Asia,Japan,Eastern Asia,25.5,45 : 55,JP,15.6–21.4,Jikei University School of Medicine,801–1000,1020,35.1,28.3,8.6,4,0501-1000,18.6
+60,14.8,1000,Asia,China,Eastern Asia,21.4,60 : 40,CN,15.6–21.4,Jinan University,801–1000,34016,37.2,19.1,13.8,25,0501-1000,44.1
+65,16.0,1000,Asia,Jordan,Western Asia,19.3,65 : 35,JO,15.6–21.4,University of Jordan,801–1000,31278,34.8,11.5,9.1,14,0501-1000,62.8
+38,10.2,1000,Asia,Japan,Eastern Asia,21.2,38 : 62,JP,15.6–21.4,Kagoshima University,801–1000,10577,38.6,20.4,10.9,3,0501-1000,20.8
+38,1.1,1000,Asia,Japan,Eastern Asia,26.9,38 : 62,JP,15.6–21.4,Kansai Medical University,801–1000,829,32.2,28.4,7.0,2,0501-1000,16.8
+61,23.1,1000,Asia,Thailand,South-Eastern Asia,18.4,61 : 39,TH,15.6–21.4,Kasetsart University,801–1000,68505,40.4,10.5,10.7,1,0501-1000,36.3
+65,31.3,1000,Asia,India,Southern Asia,31.5,65 : 35,IN,15.6–21.4,University of Kerala,801–1000,9593,31.8,12.3,11.8,1,0501-1000,13.6
+63,18.8,1000,Asia,Thailand,South-Eastern Asia,19.8,63 : 37,TH,15.6–21.4,Khon Kaen University,801–1000,34661,53.5,16.9,9.3,2,0501-1000,30.9
+29,13.0,1000,Asia,Japan,Eastern Asia,15.6,29 : 71,JP,15.6–21.4,Kindai University,801–1000,30609,37.0,35.4,9.4,2,0501-1000,20.4
+52,25.0,1000,Asia,Thailand,South-Eastern Asia,16.8,52 : 48,TH,15.6–21.4,King Mongkut’s Institute of Technology Ladkrabang,801–1000,23946,88.6,10.2,18.0,n/a,0501-1000,19.3
+52,5.5,1000,Asia,Japan,Eastern Asia,23.5,52 : 48,JP,15.6–21.4,Kitasato University,801–1000,8555,43.3,19.6,8.8,n/a,0501-1000,15.7
+26,13.0,1000,Asia,Japan,Eastern Asia,23.1,26 : 74,JP,15.6–21.4,Kyoto Institute of Technology,801–1000,4057,40.4,8.0,13.9,5,0501-1000,20.6
+13,16.0,1000,Asia,Japan,Eastern Asia,20.2,13 : 87,JP,15.6–21.4,Kyushu Institute of Technology (Kyutech),801–1000,5793,46.4,18.2,11.9,4,0501-1000,24.8
+66,14.0,1000,Europe,Latvia,Northern Europe,18.8,66 : 34,LV,15.6–21.4,University of Latvia,801–1000,12034,32.3,20.0,9.3,7,0501-1000,40.1
+53,8.5,1000,Europe,Russian Federation,Eastern Europe,24.4,53 : 47,RU,15.6–21.4,Lobachevsky State University of Nizhni Novgorod,801–1000,18557,41.9,10.7,11.0,6,0501-1000,27.3
+55,17.3,1000,Europe,United Kingdom,Northern Europe,16.4,55 : 45,GB,15.6–21.4,London South Bank University,801–1000,12270,32.7,12.1,8.9,35,0501-1000,69.7
+54,26.5,1000,Africa,Egypt,Northern Africa,17.4,54 : 46,EG,15.6–21.4,Mansoura University,801–1000,109714,40.0,29.3,6.5,4,0501-1000,36.2
+49,39.5,1000,Asia,Turkey,Western Asia,19.4,49 : 51,TR,15.6–21.4,Marmara University,801–1000,78666,31.7,16.5,22.7,3,0501-1000,20.5
+42,51.7,1000,Africa,Morocco,Northern Africa,18.1,42 : 58,MA,15.6–21.4,University of Marrakech Cadi Ayyad,801–1000,76560,34.1,25.0,7.2,1,0501-1000,41.6
+32,29.1,1000,Asia,Japan,Eastern Asia,16.3,32 : 68,JP,15.6–21.4,Meiji University,801–1000,32270,53.3,18.1,10.0,4,0501-1000,22.0
+47,20.1,1000,Americas,Mexico,Northern America,17.0,47 : 53,MX,15.6–21.4,Metropolitan Autonomous University,801–1000,57092,38.9,16.4,15.9,n/a,0501-1000,25.3
+37,12.6,1000,Asia,Japan,Eastern Asia,21.6,37 : 63,JP,15.6–21.4,Mie University,801–1000,7298,47.5,16.4,13.1,2,0501-1000,19.3
+35,8.3,1000,Asia,Japan,Eastern Asia,21.1,35 : 65,JP,15.6–21.4,University of Miyazaki,801–1000,5507,33.8,19.4,8.8,2,0501-1000,21.1
+53,32.5,1000,Africa,Morocco,Northern Africa,24.4,53 : 47,MA,15.6–21.4,Mohammed V University of Rabat,801–1000,71147,37.8,20.0,7.9,4,0501-1000,30.0
+11,10.0,1000,Asia,Japan,Eastern Asia,23.0,11 : 89,JP,15.6–21.4,Nagaoka University of Technology,801–1000,2341,39.1,11.3,12.8,12,0501-1000,32.0
+37,6.6,1000,Asia,Japan,Eastern Asia,24.9,37 : 63,JP,15.6–21.4,Nagasaki University,801–1000,8881,35.3,19.2,12.3,3,0501-1000,25.7
+13,16.5,1000,Asia,Japan,Eastern Asia,19.2,13 : 87,JP,15.6–21.4,Nagoya Institute of Technology,801–1000,5695,47.7,17.1,18.7,4,0501-1000,20.8
+38,47.3,1000,Africa,Kenya,Eastern Africa,15.1,38 : 62,KE,15.6–21.4,University of Nairobi,801–1000,84614,32.2,21.1,9.4,n/a,0501-1000,46.6
+50,3.3,1000,Asia,Japan,Eastern Asia,25.4,50 : 50,JP,15.6–21.4,Nara Medical University,801–1000,1155,38.0,13.8,9.6,1,0501-1000,14.5
+39,16.9,1000,Asia,Taiwan,Eastern Asia,20.2,39 : 61,TW,15.6–21.4,National Chung Cheng University,801–1000,10925,38.3,13.4,19.5,4,0501-1000,19.4
+36,22.5,1000,Americas,Colombia,South America,21.0,36 : 64,CO,15.6–21.4,National University of Colombia,801–1000,51432,31.9,6.5,14.4,1,0501-1000,34.7
+62,22.3,1000,Americas,Argentina,South America,18.3,62 : 38,AR,15.6–21.4,National University of Córdoba,801–1000,87926,5.0,20.2,8.6,1,0501-1000,30.9
+49,17.5,1000,Asia,Taiwan,Eastern Asia,18.3,49 : 51,TW,15.6–21.4,National Dong Hwa University,801–1000,10174,60.8,21.2,13.7,7,0501-1000,32.0
+60,11.8,1000,Europe,Russian Federation,Eastern Europe,20.6,60 : 40,RU,15.6–21.4,National Research Saratov State University,801–1000,10544,36.3,13.3,13.2,4,0501-1000,29.8
+56,25.4,1000,Asia,Taiwan,Eastern Asia,20.6,56 : 44,TW,15.6–21.4,National University of Tainan,801–1000,5996,35.3,26.1,15.8,3,0501-1000,15.5
+55,17.1,1000,Asia,Taiwan,Eastern Asia,18.0,55 : 45,TW,15.6–21.4,National Taipei University,801–1000,8563,33.8,27.2,7.3,4,0501-1000,22.8
+27,16.7,1000,Asia,Taiwan,Eastern Asia,19.0,27 : 73,TW,15.6–21.4,National Taipei University of Technology,801–1000,10288,89.6,19.9,18.3,5,0501-1000,20.9
+,21.7,1000,Asia,Taiwan,Eastern Asia,19.1,n/a,TW,15.6–21.4,National Taiwan Ocean University,801–1000,8609,52.5,18.6,22.3,7,0501-1000,23.5
+70,9.9,1000,Europe,Poland,Eastern Europe,19.2,70 : 30,PL,15.6–21.4,Nicolaus Copernicus University in Toruń,801–1000,21497,32.9,20.9,8.9,2,0501-1000,24.2
+38,8.1,1000,Asia,Japan,Eastern Asia,22.7,38 : 62,JP,15.6–21.4,Niigata University,801–1000,12522,36.2,25.6,10.7,4,0501-1000,23.5
+,15.1,1000,Asia,China,Eastern Asia,21.7,n/a,CN,15.6–21.4,Northeastern University,801–1000,33348,98.9,9.2,22.7,4,0501-1000,24.3
+56,15.0,1000,Asia,China,Eastern Asia,19.4,56 : 44,CN,15.6–21.4,Northwest University,801–1000,22167,38.2,31.8,11.6,2,0501-1000,16.4
+,16.7,1000,Asia,China,Eastern Asia,20.6,n/a,CN,15.6–21.4,NorthWest A&F University,801–1000,30722,40.0,25.8,11.2,1,0501-1000,20.5
+45,10.7,1000,Europe,Russian Federation,Eastern Europe,22.5,45 : 55,RU,15.6–21.4,Novosibirsk State Technical University,801–1000,11126,35.8,20.6,10.6,16,0501-1000,30.4
+59,19.0,1000,Americas,United States,Northern America,19.6,59 : 41,US,15.6–21.4,Oakland University,801–1000,15401,32.8,26.0,12.3,3,0501-1000,25.2
+,19.4,1000,Asia,China,Eastern Asia,21.0,n/a,CN,15.6–21.4,Ocean University of China,801–1000,35410,50.9,26.1,13.6,1,0501-1000,18.8
+35,7.4,1000,Asia,Japan,Eastern Asia,23.8,35 : 65,JP,15.6–21.4,Osaka Prefecture University,801–1000,7931,39.2,17.9,12.3,3,0501-1000,20.5
+29,15.5,1000,Asia,India,Southern Asia,33.9,29 : 71,IN,15.6–21.4,Osmania University,801–1000,12017,32.0,14.5,8.4,3,0501-1000,15.1
+69,21.5,1000,Europe,Czech Republic,Eastern Europe,16.0,69 : 31,CZ,15.6–21.4,University of Ostrava,801–1000,10062,31.9,24.1,11.4,7,0501-1000,39.4
+55,15.7,1000,Europe,Czech Republic,Eastern Europe,18.4,55 : 45,CZ,15.6–21.4,University of Pardubice,801–1000,8487,32.4,14.2,13.4,3,0501-1000,23.9
+63,35.7,1000,Europe,France,Western Europe,21.3,63 : 37,FR,15.6–21.4,Paris Nanterre University,801–1000,33635,31.7,18.7,12.9,16,0501-1000,48.2
+42,17.3,1000,Asia,India,Southern Asia,35.3,42 : 58,IN,15.6–21.4,Pondicherry University,801–1000,6278,31.8,11.3,10.1,1,0501-1000,13.8
+53,23.3,1000,Americas,Brazil,South America,17.1,53 : 47,BR,15.6–21.4,Pontifical Catholic University of Paraná,801–1000,26022,34.5,27.7,8.6,1,0501-1000,23.0
+51,23.6,1000,Americas,Brazil,South America,22.7,51 : 49,BR,15.6–21.4,Pontifical Catholic University of Rio Grande do Sul (PUCRS),801–1000,20944,45.4,25.7,12.6,1,0501-1000,25.0
+43,23.1,1000,Americas,Chile,South America,17.4,43 : 57,CL,15.6–21.4,Pontifical Catholic University of Valparaíso,801–1000,14953,49.0,13.2,12.9,1,0501-1000,47.7
+70,18.3,1000,Asia,Thailand,South-Eastern Asia,16.4,70 : 30,TH,15.6–21.4,Prince of Songkla University,801–1000,42751,34.0,20.3,8.1,1,0501-1000,32.2
+33,27.3,1000,Europe,Latvia,Northern Europe,18.3,33 : 67,LV,15.6–21.4,Riga Technical University,801–1000,11119,39.0,14.8,11.3,9,0501-1000,32.7
+48,9.9,1000,Americas,Brazil,South America,21.4,48 : 52,BR,15.6–21.4,Rio de Janeiro State University (UERJ),801–1000,25811,40.4,12.8,9.9,n/a,0501-1000,19.7
+35,14.5,1000,Asia,Japan,Eastern Asia,18.6,35 : 65,JP,15.6–21.4,Ritsumeikan University,801–1000,35228,32.7,13.9,9.0,4,0501-1000,31.8
+60,18.3,1000,Europe,United Kingdom,Northern Europe,16.9,60 : 40,GB,15.6–21.4,Robert Gordon University,801–1000,9617,33.0,17.2,9.8,24,0501-1000,68.3
+38,10.3,1000,Asia,Japan,Eastern Asia,21.1,38 : 62,JP,15.6–21.4,Saga University,801–1000,7015,48.1,17.8,11.3,3,0501-1000,22.3
+32,13.9,1000,Asia,Japan,Eastern Asia,19.0,32 : 68,JP,15.6–21.4,Saitama University,801–1000,8808,33.0,24.9,11.7,5,0501-1000,27.7
+53,1.5,1000,Asia,Japan,Eastern Asia,23.7,53 : 47,JP,15.6–21.4,Saitama Medical University,801–1000,1874,36.3,18.3,7.8,n/a,0501-1000,14.3
+40,21.0,1000,Americas,Chile,South America,17.4,40 : 60,CL,15.6–21.4,"University of Santiago, Chile (USACH)",801–1000,23401,32.4,12.1,10.0,1,0501-1000,40.9
+33,16.6,1000,Asia,South Korea,Eastern Asia,25.3,33 : 67,KR,15.6–21.4,Seoul National University of Science and Technology (SeoulTech),801–1000,12471,36.2,13.7,18.9,2,0501-1000,18.2
+72,14.2,1000,Asia,China,Eastern Asia,18.3,72 : 28,CN,15.6–21.4,Shaanxi Normal University,801–1000,26388,36.2,29.5,9.6,3,0501-1000,18.2
+52,22.6,1000,Asia,Iran,Southern Asia,21.8,52 : 48,IR,15.6–21.4,Shahid Beheshti University,801–1000,17113,46.7,19.1,19.8,1,0501-1000,16.4
+65,23.6,1000,Asia,United Arab Emirates,Western Asia,18.1,65 : 35,AE,15.6–21.4,University of Sharjah,801–1000,13300,36.3,16.5,8.9,61,0501-1000,99.3
+54,16.3,1000,Europe,United Kingdom,Northern Europe,18.3,54 : 46,GB,15.6–21.4,Sheffield Hallam University,801–1000,24627,32.1,24.9,10.8,14,0501-1000,48.8
+51,3.0,1000,Asia,Japan,Eastern Asia,24.8,51 : 49,JP,15.6–21.4,Shiga University of Medical Science,801–1000,1134,40.9,27.7,9.4,2,0501-1000,21.0
+37,8.0,1000,Asia,Japan,Eastern Asia,21.8,37 : 63,JP,15.6–21.4,Shimane University,801–1000,6122,34.4,12.6,10.0,2,0501-1000,18.2
+32,10.3,1000,Asia,Japan,Eastern Asia,21.3,32 : 68,JP,15.6–21.4,Shinshu University,801–1000,10944,40.0,28.0,8.9,2,0501-1000,22.5
+49,19.3,1000,Asia,Iran,Southern Asia,22.9,49 : 51,IR,15.6–21.4,Shiraz University,801–1000,12879,45.3,18.4,20.5,1,0501-1000,16.6
+29,14.1,1000,Asia,Japan,Eastern Asia,19.1,29 : 71,JP,15.6–21.4,Shizuoka University,801–1000,10032,36.1,11.4,12.5,3,0501-1000,24.3
+58,2.4,1000,Asia,Japan,Eastern Asia,27.1,58 : 42,JP,15.6–21.4,Showa University,801–1000,3747,34.7,13.2,8.8,1,0501-1000,15.9
+68,14.1,1000,Europe,Poland,Eastern Europe,18.5,68 : 32,PL,15.6–21.4,University of Silesia in Katowice,801–1000,26470,31.8,20.4,7.8,2,0501-1000,22.9
+44,12.1,1000,Americas,Venezuela,South America,19.0,44 : 56,VE,15.6–21.4,Simón Bolívar University,801–1000,9731,46.7,14.9,6.3,n/a,0501-1000,41.6
+33,14.8,1000,Europe,Slovakia,Central Europe,21.6,33 : 67,SK,15.6–21.4,Slovak University of Technology in Bratislava,801–1000,15749,34.7,11.5,13.2,2,0501-1000,26.5
+54,23.6,1000,Asia,Japan,Eastern Asia,23.6,54 : 46,JP,15.6–21.4,Sophia University,801–1000,12907,32.6,11.2,10.7,8,0501-1000,37.1
+66,89.6,1000,Africa,South Africa,Southern Africa,18.3,66 : 34,ZA,15.6–21.4,University of South Africa,801–1000,184432,32.3,13.5,10.8,12,0501-1000,37.5
+53,7.4,1000,Europe,Russian Federation,Eastern Europe,22.4,53 : 47,RU,15.6–21.4,Southern Federal University,801–1000,20148,39.2,14.8,8.2,7,0501-1000,23.4
+64,18.2,1000,Americas,United States,Northern America,20.4,64 : 36,US,15.6–21.4,University of Southern Mississippi,801–1000,13576,48.8,25.1,9.2,3,0501-1000,22.4
+50,60.8,1000,Africa,Egypt,Northern Africa,14.7,50 : 50,EG,15.6–21.4,South Valley University,801–1000,52098,31.7,18.7,6.5,1,0501-1000,44.5
+33,14.1,1000,Asia,India,Southern Asia,34.0,33 : 67,IN,15.6–21.4,Sri Venkateswara University,801–1000,7663,32.5,20.2,9.4,n/a,0501-1000,18.5
+55,8.6,1000,Americas,Brazil,South America,20.1,55 : 45,BR,15.6–21.4,State University of Ponta Grossa,801–1000,8219,31.7,13.2,17.8,1,0501-1000,15.5
+58,12.7,1000,Africa,Egypt,Northern Africa,18.2,58 : 42,EG,15.6–21.4,Suez Canal University,801–1000,33846,0.5,31.9,7.0,1,0501-1000,45.4
+50,8.0,1000,Asia,Oman,Western Asia,22.2,50 : 50,OM,15.6–21.4,Sultan Qaboos University,801–1000,7623,47.9,15.7,10.0,3,0501-1000,71.4
+51,24.6,1000,Americas,Chile,South America,15.7,51 : 49,CL,15.6–21.4,University of Talca,801–1000,10532,1.0,20.7,10.4,1,0501-1000,49.2
+62,8.7,1000,Europe,Ukraine,Eastern Europe,27.3,62 : 38,UA,15.6–21.4,Taras Shevchenko National University of Kyiv,801–1000,22152,32.5,7.6,10.1,4,0501-1000,33.5
+30,12.3,1000,Europe,Slovakia,Central Europe,21.4,30 : 70,SK,15.6–21.4,Technical University of Košice,801–1000,9714,41.9,23.5,12.4,3,0501-1000,19.5
+41,22.1,1000,Asia,Malaysia,South-Eastern Asia,17.1,41 : 59,MY,15.6–21.4,Universiti Tenaga Nasional (UNITEN),801–1000,8231,73.4,28.6,11.7,7,0501-1000,30.7
+57,20.4,1000,Americas,United States,Northern America,21.2,57 : 43,US,15.6–21.4,Texas State University,801–1000,30054,32.6,25.2,12.0,1,0501-1000,17.5
+29,14.3,1000,Asia,India,Southern Asia,19.1,29 : 71,IN,15.6–21.4,Thapar University,801–1000,5576,32.1,28.5,7.7,1,0501-1000,13.4
+67,23.8,1000,Africa,Algeria,Northern Africa,27.9,67 : 33,DZ,15.6–21.4,University of Tlemcen,801–1000,42407,31.9,4.8,8.0,1,0501-1000,40.0
+45,16.0,1000,Asia,Turkey,Western Asia,15.6,45 : 55,TR,15.6–21.4,TOBB University of Economics and Technology,801–1000,5053,32.4,31.1,10.2,1,0501-1000,26.9
+27,12.8,1000,Asia,Japan,Eastern Asia,19.6,27 : 73,JP,15.6–21.4,Tokai University,801–1000,30061,34.3,17.5,8.3,2,0501-1000,22.9
+34,8.6,1000,Asia,Japan,Eastern Asia,23.7,34 : 66,JP,15.6–21.4,Tokushima University,801–1000,7543,55.8,16.0,18.1,3,0501-1000,20.4
+33,11.1,1000,Asia,Japan,Eastern Asia,23.8,33 : 67,JP,15.6–21.4,Tokyo University of Marine Science and Technology,801–1000,2660,50.9,11.6,12.8,7,0501-1000,28.6
+59,21.2,1000,Europe,Czech Republic,Eastern Europe,17.9,59 : 41,CZ,15.6–21.4,Tomas Bata University in Zlín,801–1000,9263,33.6,13.4,13.0,9,0501-1000,33.6
+39,11.4,1000,Asia,Japan,Eastern Asia,20.5,39 : 61,JP,15.6–21.4,University of Toyama,801–1000,9326,39.9,17.2,11.6,4,0501-1000,26.2
+9,9.9,1000,Asia,Japan,Eastern Asia,21.1,9 : 91,JP,15.6–21.4,Toyohashi University of Technology (TUT),801–1000,2350,46.1,16.1,16.7,7,0501-1000,24.2
+57,17.4,1000,Americas,Chile,South America,15.9,57 : 43,CL,15.6–21.4,University of Valparaíso,801–1000,15654,32.1,19.2,8.2,3,0501-1000,46.3
+25,18.1,1000,Asia,India,Southern Asia,17.8,25 : 75,IN,15.6–21.4,VIT University,801–1000,30473,33.0,24.5,8.9,3,0501-1000,22.6
+,23.4,1000,Europe,Czech Republic,Eastern Europe,18.6,n/a,CZ,15.6–21.4,VŠB - Technical University of Ostrava,801–1000,18270,39.5,12.8,13.1,8,0501-1000,30.4
+51,18.7,1000,Europe,Czech Republic,Eastern Europe,18.5,51 : 49,CZ,15.6–21.4,University of West Bohemia,801–1000,12991,35.7,13.6,11.8,3,0501-1000,26.4
+65,17.0,1000,Europe,Romania,Eastern Europe,20.1,65 : 35,RO,15.6–21.4,West University of Timişoara,801–1000,13524,31.8,26.3,7.8,4,0501-1000,30.7
+,12.9,1000,Europe,Poland,Eastern Europe,20.1,n/a,PL,15.6–21.4,University of Wrocław,801–1000,23852,33.8,25.8,10.9,3,0501-1000,32.5
+31,14.6,1000,Asia,China,Eastern Asia,19.0,31 : 69,CN,15.6–21.4,Wuhan University of Technology,801–1000,50876,54.8,22.9,11.2,3,0501-1000,19.0
+53,21.2,1000,Asia,China,Eastern Asia,15.3,53 : 47,CN,15.6–21.4,Xiangtan University,801–1000,30810,36.2,35.6,10.6,1,0501-1000,15.9
+29,16.6,1000,Asia,China,Eastern Asia,19.7,29 : 71,CN,15.6–21.4,Xidian University,801–1000,32722,75.8,16.4,13.9,2,0501-1000,16.5
+35,8.2,1000,Asia,Japan,Eastern Asia,21.0,35 : 65,JP,15.6–21.4,Yamagata University,801–1000,8961,49.9,23.2,10.3,1,0501-1000,20.3
+35,11.0,1000,Asia,Japan,Eastern Asia,21.8,35 : 65,JP,15.6–21.4,Yamaguchi University,801–1000,10639,38.9,12.6,9.3,4,0501-1000,22.3
+30,6.7,1000,Asia,Japan,Eastern Asia,24.2,30 : 70,JP,15.6–21.4,University of Yamanashi,801–1000,4777,34.4,21.7,10.5,4,0501-1000,21.2
+38,28.5,1000,Asia,Turkey,Western Asia,18.7,38 : 62,TR,15.6–21.4,Yıldız Technical University,801–1000,35670,42.6,26.6,7.7,4,0501-1000,20.5
+28,12.8,1000,Asia,Japan,Eastern Asia,22.8,28 : 72,JP,15.6–21.4,Yokohama National University,801–1000,9968,45.5,14.6,21.8,7,0501-1000,24.2
+42,20.9,1000,Asia,Taiwan,Eastern Asia,18.8,42 : 58,TW,15.6–21.4,Yuan Ze University,801–1000,8652,47.1,25.9,15.0,6,0501-1000,22.6
+55,17.4,1000,Europe,Croatia,Southern Europe,21.0,55 : 45,HR,15.6–21.4,University of Zagreb,801–1000,73465,41.6,20.3,11.1,1,0501-1000,28.5
+35,8.8,1103,Asia,Japan,Eastern Asia,21.9,35 : 65,JP,9.2–15.5,Akita University,1001+,5127,35.1,9.2,9.1,3,1000+,19.0
+100,31.2,1103,Asia,Iran,Southern Asia,18.0,100 : 0,IR,9.2–15.5,Alzahra University,1001+,10637,33.3,14.3,9.2,n/a,1000+,13.8
+43,15.0,1103,Asia,India,Southern Asia,16.7,43 : 57,IN,9.2–15.5,Amity University,1001+,25607,32.7,13.2,7.6,4,1000+,17.9
+41,864.6,1103,Asia,Turkey,Western Asia,13.8,41 : 59,TR,9.2–15.5,Anadolu University,1001+,1824383,32.3,15.5,9.7,1,1000+,15.9
+61,21.2,1103,Americas,Venezuela,South America,16.4,61 : 39,VE,9.2–15.5,"University of the Andes, Venezuela",1001+,52972,31.7,11.3,7.5,n/a,1000+,43.2
+53,17.0,1103,Asia,Turkey,Western Asia,18.9,53 : 47,TR,9.2–15.5,Ankara University,1001+,65703,32.4,11.4,8.9,4,1000+,20.8
+52,20.4,1103,Americas,Mexico,Northern America,14.7,52 : 48,MX,9.2–15.5,Autonomous University of Baja California,1001+,59539,32.6,5.5,7.8,2,1000+,29.4
+57,17.7,1103,Americas,Mexico,Northern America,17.0,57 : 43,MX,9.2–15.5,Autonomous University of Hidalgo State (UAEH),1001+,32210,33.8,3.0,7.0,n/a,1000+,21.2
+,26.0,1103,Americas,Mexico,Northern America,14.9,n/a,MX,9.2–15.5,Autonomous University of Nuevo León,1001+,96916,32.7,11.3,6.8,1,1000+,29.1
+53,34.9,1103,Americas,Mexico,Northern America,15.5,53 : 47,MX,9.2–15.5,Autonomous University of Puebla,1001+,70345,34.6,11.6,7.2,n/a,1000+,28.5
+55,22.2,1103,Americas,Mexico,Northern America,16.4,55 : 45,MX,9.2–15.5,Autonomous University of the State of Mexico,1001+,55667,32.0,8.8,7.7,n/a,1000+,25.0
+48,12.4,1103,Americas,Mexico,Northern America,15.6,48 : 52,MX,9.2–15.5,Autonomous University of Yucatán,1001+,12208,32.8,15.1,8.3,n/a,1000+,28.5
+47,32.9,1103,Asia,Pakistan,Southern Asia,14.9,47 : 53,PK,9.2–15.5,Bahauddin Zakariya University,1001+,24069,0.1,18.2,10.4,n/a,1000+,28.8
+53,33.5,1103,Asia,Iran,Southern Asia,15.5,53 : 47,IR,9.2–15.5,University of Birjand,1001+,11284,32.0,8.7,7.6,1,1000+,14.6
+57,15.8,1103,Asia,Indonesia,South-Eastern Asia,18.4,57 : 43,ID,9.2–15.5,Bogor Agricultural University,1001+,22718,68.2,8.9,8.7,1,1000+,36.6
+57,43.3,1103,Asia,Taiwan,Eastern Asia,13.5,57 : 43,TW,9.2–15.5,Chaoyang University of Technology,1001+,17235,39.7,6.1,11.2,7,1000+,20.6
+11,31.0,1103,Asia,Japan,Eastern Asia,15.0,11 : 89,JP,9.2–15.5,Chiba Institute of Technology,1001+,9668,34.0,7.4,8.2,1,1000+,15.6
+39,6.8,1103,Asia,Bangladesh,Southern Asia,20.4,39 : 61,BD,9.2–15.5,University of Dhaka,1001+,63010,31.7,9.0,6.8,5,1000+,41.9
+55,17.6,1103,Asia,Turkey,Western Asia,16.1,55 : 45,TR,9.2–15.5,Dokuz Eylül University,1001+,58134,32.8,14.5,7.6,2,1000+,16.9
+39,23.8,1103,Asia,Japan,Eastern Asia,16.4,39 : 61,JP,9.2–15.5,Doshisha University,1001+,29220,33.4,6.2,6.4,3,1000+,24.2
+,8.3,1103,Europe,Russian Federation,Eastern Europe,21.2,n/a,RU,9.2–15.5,Far Eastern Federal University,1001+,15764,36.2,7.9,9.6,14,1000+,33.8
+45,10.2,1103,Americas,Brazil,South America,18.7,45 : 55,BR,9.2–15.5,Federal University of Goiás,1001+,27514,31.7,13.6,7.3,n/a,1000+,17.6
+52,17.6,1103,Americas,Brazil,South America,25.1,52 : 48,BR,9.2–15.5,Federal University of Lavras,1001+,12168,33.7,7.0,11.3,1,1000+,17.1
+52,15.7,1103,Americas,Brazil,South America,16.6,52 : 48,BR,9.2–15.5,Federal University of Ouro Preto,1001+,15380,32.4,18.0,5.5,n/a,1000+,19.5
+47,13.6,1103,Americas,Brazil,South America,19.6,47 : 53,BR,9.2–15.5,Federal University of Paraná (UFPR),1001+,33820,31.7,9.2,5.3,1,1000+,20.4
+,13.5,1103,Americas,Brazil,South America,22.3,n/a,BR,9.2–15.5,Federal University of Santa Maria,1001+,25751,33.3,9.3,5.1,n/a,1000+,15.8
+52,13.8,1103,Americas,Brazil,South America,25.8,52 : 48,BR,9.2–15.5,Federal University of Viçosa,1001+,16752,50.3,8.7,7.4,3,1000+,19.1
+49,18.1,1103,Americas,Brazil,South America,17.8,49 : 51,BR,9.2–15.5,Fluminense Federal University,1001+,61662,32.0,12.2,8.6,n/a,1000+,24.1
+28,9.1,1103,Asia,Japan,Eastern Asia,20.5,28 : 72,JP,9.2–15.5,University of Fukui,1001+,4980,37.2,8.4,10.2,4,1000+,20.3
+49,28.2,1103,Asia,Turkey,Western Asia,18.8,49 : 51,TR,9.2–15.5,Gazi University,1001+,78021,36.2,11.2,9.1,3,1000+,15.7
+46,8.2,1103,Asia,India,Southern Asia,22.3,46 : 54,IN,9.2–15.5,"G.B. Pant University of Agriculture & Technology, Pantnagar",1001+,4567,32.3,2.2,7.3,n/a,1000+,12.5
+69,17.4,1103,Europe,Poland,Eastern Europe,17.5,69 : 31,PL,9.2–15.5,University of Gdańsk,1001+,28397,32.2,14.8,9.3,1,1000+,28.8
+27,16.3,1103,Asia,India,Southern Asia,16.0,27 : 73,IN,9.2–15.5,GITAM University,1001+,14822,31.9,9.6,6.7,1,1000+,13.7
+43,19.3,1103,Asia,Pakistan,Southern Asia,17.5,43 : 57,PK,9.2–15.5,Government College University Lahore,1001+,8526,0.0,4.0,7.9,1,1000+,35.3
+51,54.0,1103,Americas,Mexico,Northern America,16.8,51 : 49,MX,9.2–15.5,University of Guadalajara,1001+,118665,31.7,8.4,3.0,n/a,1000+,28.9
+46,15.8,1103,Asia,China,Eastern Asia,16.0,46 : 54,CN,9.2–15.5,Guangxi University,1001+,33970,35.6,9.1,8.8,5,1000+,19.3
+62,25.7,1103,Asia,Jordan,Western Asia,11.1,62 : 38,JO,9.2–15.5,Hashemite University,1001+,24958,31.7,9.7,7.9,4,1000+,46.1
+38,14.1,1103,Asia,Japan,Eastern Asia,17.1,38 : 62,JP,9.2–15.5,University of Hyogo,1001+,6682,38.1,10.2,11.6,2,1000+,16.9
+35,14.0,1103,Asia,Japan,Eastern Asia,17.4,35 : 65,JP,9.2–15.5,Ibaraki University,1001+,8113,36.1,11.2,5.4,3,1000+,22.6
+62,28.5,1103,Asia,Georgia,Western Asia,16.2,62 : 38,GE,9.2–15.5,Ivane Javakhishvili Tbilisi State University,1001+,21866,32.2,2.7,8.7,2,1000+,40.9
+68,11.3,1103,Europe,Ukraine,Eastern Europe,20.2,68 : 32,UA,9.2–15.5,Ivan Franko National University of Lviv,1001+,18632,1.4,3.7,3.1,1,1000+,36.4
+39,13.6,1103,Asia,India,Southern Asia,23.6,39 : 61,IN,9.2–15.5,Jawaharlal Nehru Technological University Anantapur (JNTUA),1001+,4621,32.5,5.3,9.7,n/a,1000+,12.7
+28,39.4,1103,Asia,Japan,Eastern Asia,15.0,28 : 72,JP,9.2–15.5,Kanagawa University,1001+,18467,31.7,14.3,8.6,3,1000+,24.0
+39,11.5,1103,Asia,Japan,Eastern Asia,23.8,39 : 61,JP,9.2–15.5,Kansai University,1001+,30211,32.9,5.9,7.3,2,1000+,21.2
+39,13.8,1103,Europe,Lithuania,Northern Europe,18.1,39 : 61,LT,9.2–15.5,Kaunas University of Technology,1001+,10439,35.7,3.3,11.7,6,1000+,23.7
+38,24.4,1103,Asia,Thailand,South-Eastern Asia,18.4,38 : 62,TH,9.2–15.5,King Mongkut's University of Technology North Bangkok,1001+,25640,33.0,13.8,7.6,n/a,1000+,21.2
+13,20.5,1103,Asia,Japan,Eastern Asia,17.0,13 : 87,JP,9.2–15.5,Kogakuin University,1001+,6506,37.7,9.5,8.2,1,1000+,18.3
+47,15.2,1103,Asia,Japan,Eastern Asia,16.2,47 : 53,JP,9.2–15.5,Kwansei Gakuin University,1001+,24410,32.4,7.0,7.1,4,1000+,25.0
+29,16.2,1103,Asia,Pakistan,Southern Asia,15.0,29 : 71,PK,9.2–15.5,University of Lahore,1001+,27872,31.7,14.1,7.0,2,1000+,34.2
+66,15.9,1103,Europe,Poland,Eastern Europe,17.4,66 : 34,PL,9.2–15.5,University of Łódź,1001+,35088,31.9,13.8,9.5,3,1000+,23.0
+,15.2,1103,Europe,Poland,Eastern Europe,17.0,n/a,PL,9.2–15.5,Łodz University of Technology,1001+,19984,36.4,12.8,10.4,2,1000+,19.4
+57,9.8,1103,Americas,Brazil,South America,23.8,57 : 43,BR,9.2–15.5,Londrina State University,1001+,16461,31.8,10.6,9.4,n/a,1000+,16.3
+,12.2,1103,Europe,Ukraine,Eastern Europe,18.2,n/a,UA,9.2–15.5,Lviv Polytechnic National University,1001+,28691,31.8,3.7,7.6,1,1000+,25.0
+56,29.1,1103,Asia,India,Southern Asia,14.5,56 : 44,IN,9.2–15.5,Maharaja Sayajirao University of Baroda,1001+,29624,32.2,13.6,7.5,n/a,1000+,13.3
+43,9.8,1103,Asia,India,Southern Asia,20.7,43 : 57,IN,9.2–15.5,Manipal University,1001+,24705,31.9,3.5,9.4,9,1000+,25.6
+27,31.9,1103,Asia,Japan,Eastern Asia,15.4,27 : 73,JP,9.2–15.5,Meijo University,1001+,15485,33.1,10.2,8.1,2,1000+,21.8
+60,22.2,1103,Asia,Taiwan,Eastern Asia,15.3,60 : 40,TW,9.2–15.5,Ming Chuan University,1001+,18843,32.4,7.7,10.2,11,1000+,27.0
+67,12.4,1103,Africa,Tunisia,Northern Africa,17.5,67 : 33,TN,9.2–15.5,University of Monastir,1001+,23637,31.7,9.6,7.3,1,1000+,40.9
+34,20.1,1103,Asia,India,Southern Asia,28.5,34 : 66,IN,9.2–15.5,University of Mysore,1001+,8535,31.9,2.9,7.7,9,1000+,28.4
+48,26.6,1103,Asia,Taiwan,Eastern Asia,14.6,48 : 52,TW,9.2–15.5,National Chiayi University,1001+,12750,65.0,7.8,11.0,4,1000+,16.6
+40,23.3,1103,Asia,Taiwan,Eastern Asia,15.1,40 : 60,TW,9.2–15.5,National University of Kaohsiung,1001+,5416,35.8,8.9,15.9,3,1000+,21.7
+39,10.3,1103,Americas,Mexico,Northern America,19.9,39 : 61,MX,9.2–15.5,National Polytechnic University (IPN),1001+,173868,32.9,9.7,8.8,n/a,1000+,21.2
+31,10.8,1103,Europe,Russian Federation,Eastern Europe,18.5,31 : 69,RU,9.2–15.5,National Research University of Electronic Technology (MIET),1001+,4318,33.8,4.1,14.9,2,1000+,23.3
+32,8.3,1103,Europe,Ukraine,Eastern Europe,22.0,32 : 68,UA,9.2–15.5,National Technical University of Ukraine – Kyiv Polytechnic Institute,1001+,21601,32.6,1.9,8.2,1,1000+,18.2
+37,7.2,1103,Asia,Japan,Eastern Asia,21.0,37 : 63,JP,9.2–15.5,Oita University,1001+,5793,33.5,11.8,7.6,2,1000+,17.8
+56,18.8,1103,Asia,Turkey,Western Asia,16.7,56 : 44,TR,9.2–15.5,Ondokuz Mayis University,1001+,42911,33.2,4.3,7.3,4,1000+,16.8
+63,13.1,1103,Europe,Russian Federation,Eastern Europe,18.0,63 : 37,RU,9.2–15.5,Perm State University,1001+,12371,36.7,3.9,9.5,1,1000+,17.9
+42,14.9,1103,Asia,Pakistan,Southern Asia,23.4,42 : 58,PK,9.2–15.5,University of Peshawar,1001+,7900,31.7,6.8,7.5,1,1000+,27.8
+39,40.5,1103,Asia,Pakistan,Southern Asia,17.9,39 : 61,PK,9.2–15.5,PMAS Arid Agriculture University Rawalpindi,1001+,9957,31.7,9.8,9.0,n/a,1000+,28.3
+38,14.7,1103,Asia,India,Southern Asia,16.6,38 : 62,IN,9.2–15.5,PSG College of Technology,1001+,8490,32.2,7.2,8.4,n/a,1000+,12.8
+67,9.4,1103,Europe,Russian Federation,Eastern Europe,21.2,67 : 33,RU,9.2–15.5,RUDN University,1001+,16215,35.3,5.6,9.5,32,1000+,45.1
+50,18.9,1103,Asia,India,Southern Asia,16.2,50 : 50,IN,9.2–15.5,SASTRA University,1001+,13147,32.4,15.0,8.2,n/a,1000+,12.6
+51,22.1,1103,Asia,India,Southern Asia,17.0,51 : 49,IN,9.2–15.5,Sathyabama University,1001+,17861,32.2,2.1,7.9,1,1000+,13.3
+58,9.0,1103,Europe,Russian Federation,Eastern Europe,23.4,58 : 42,RU,9.2–15.5,Sechenov University,1001+,16128,33.8,0.8,8.4,10,1000+,23.9
+37,18.8,1103,Asia,China,Eastern Asia,15.2,37 : 63,CN,9.2–15.5,Shanghai Maritime University,1001+,23552,33.8,16.8,8.1,3,1000+,28.8
+15,17.7,1103,Asia,Japan,Eastern Asia,17.1,15 : 85,JP,9.2–15.5,Shibaura Institute of Technology Tokyo,1001+,9911,35.1,8.4,8.5,4,1000+,20.6
+47,11.3,1103,Europe,Russian Federation,Eastern Europe,19.6,47 : 53,RU,9.2–15.5,Siberian Federal University,1001+,28008,35.8,6.2,9.0,1,1000+,16.0
+45,58.3,1103,Africa,Morocco,Northern Africa,25.6,45 : 55,MA,9.2–15.5,Sidi Mohamed Ben Abdellah University,1001+,82558,31.8,9.7,6.3,2,1000+,22.0
+52,20.9,1103,Americas,Brazil,South America,23.0,52 : 48,BR,9.2–15.5,University of the Sinos Valley,1001+,14412,33.2,5.6,12.0,1,1000+,17.9
+65,13.7,1103,Europe,Bulgaria,Eastern Europe,19.6,65 : 35,BG,9.2–15.5,Sofia University,1001+,23956,33.0,9.0,8.6,4,1000+,39.2
+26,15.3,1103,Asia,China,Eastern Asia,18.6,26 : 74,CN,9.2–15.5,Southwest Jiaotong University,1001+,40819,76.0,9.0,12.0,2,1000+,20.2
+23,15.3,1103,Asia,India,Southern Asia,16.4,23 : 77,IN,9.2–15.5,SRM University,1001+,42886,31.9,8.9,7.3,2,1000+,15.9
+59,14.1,1103,Americas,Brazil,South America,18.8,59 : 41,BR,9.2–15.5,State University of Maringá,1001+,23341,32.0,6.0,9.3,1,1000+,15.2
+53,5.0,1103,Americas,Brazil,South America,22.4,53 : 47,BR,9.2–15.5,State University of Western Paraná (Unioeste),1001+,10791,31.9,2.4,4.6,n/a,1000+,13.6
+62,7.1,1103,Asia,India,Southern Asia,24.9,62 : 38,IN,9.2–15.5,Tamil Nadu Agricultural University,1001+,5780,35.3,2.8,8.8,n/a,1000+,14.8
+48,24.0,1103,Asia,Taiwan,Eastern Asia,16.0,48 : 52,TW,9.2–15.5,Tamkang University,1001+,27060,33.5,9.3,11.1,6,1000+,25.0
+54,12.1,1103,Europe,Czech Republic,Eastern Europe,18.5,54 : 46,CZ,9.2–15.5,Technical University of Liberec,1001+,6129,37.1,4.7,10.2,9,1000+,30.9
+22,15.6,1103,Asia,Japan,Eastern Asia,18.5,22 : 78,JP,9.2–15.5,Tokyo City University,1001+,7904,39.3,11.5,9.6,1,1000+,18.4
+10,25.7,1103,Asia,Japan,Eastern Asia,15.5,10 : 90,JP,9.2–15.5,Tokyo Denki University,1001+,9400,0.6,2.9,7.9,2,1000+,17.0
+36,8.0,1103,Asia,Japan,Eastern Asia,22.4,36 : 64,JP,9.2–15.5,Tottori University,1001+,6165,32.8,10.8,8.1,2,1000+,18.3
+41,33.5,1103,Asia,Japan,Eastern Asia,15.7,41 : 59,JP,9.2–15.5,Toyo University,1001+,30142,32.7,8.1,9.3,1,1000+,21.2
+76,16.7,1103,Africa,Tunisia,Northern Africa,22.7,76 : 24,TN,9.2–15.5,University of Tunis El Manar,1001+,30301,32.1,7.3,9.3,1,1000+,38.3
+46,9.8,1103,Europe,Russian Federation,Eastern Europe,22.3,46 : 54,RU,9.2–15.5,Ural Federal University,1001+,24917,38.4,5.8,11.9,7,1000+,27.8
+73,13.0,1103,Asia,Malaysia,South-Eastern Asia,24.2,73 : 27,MY,9.2–15.5,Universiti Utara Malaysia,1001+,14315,32.2,2.9,10.3,18,1000+,45.3
+36,14.5,1103,Asia,Japan,Eastern Asia,18.5,36 : 64,JP,9.2–15.5,Utsunomiya University,1001+,4928,33.2,7.2,9.2,4,1000+,22.0
+45,28.6,1103,Asia,Pakistan,Southern Asia,15.7,45 : 55,PK,9.2–15.5,"University of Veterinary and Animal Sciences, Lahore",1001+,5003,35.1,4.4,9.1,n/a,1000+,29.3
+53,9.8,1103,Europe,Ukraine,Eastern Europe,21.3,53 : 47,UA,9.2–15.5,V.N. Karazin Kharkiv National University,1001+,16067,32.0,3.1,7.9,27,1000+,51.4
+,12.0,1103,Europe,Russian Federation,Eastern Europe,17.7,n/a,RU,9.2–15.5,Volgograd State Technical University,1001+,9254,41.5,2.0,6.9,6,1000+,17.7
+58,10.1,1103,Europe,Russian Federation,Eastern Europe,20.8,58 : 42,RU,9.2–15.5,Voronezh State University,1001+,15468,33.2,1.9,7.1,9,1000+,24.4
+56,23.9,1103,Asia,Iran,Southern Asia,14.6,56 : 44,IR,9.2–15.5,Yazd University,1001+,13600,0.4,14.8,9.9,n/a,1000+,15.5
+52,25.1,1103,Asia,Turkey,Western Asia,15.4,52 : 48,TR,9.2–15.5,Yeditepe University,1001+,23260,0.2,9.7,8.0,1,1000+,23.4
+55,25.8,1103,Asia,Iran,Southern Asia,16.2,55 : 45,IR,9.2–15.5,University of Zanjan,1001+,10305,38.3,15.7,9.4,n/a,1000+,17.3
