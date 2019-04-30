@@ -1,0 +1,501 @@
+,WorldRank,NationalRank,Name,ARWU_university_ID,Country,TotalScore,Alumni,Award,HiCi,NS,PUB,PCP,item,GRID_ID,fuzz
+0,1,"1  ","Harvard University",Harvard-University,unitedstates,"100.0   ",100,100,100,"100.0    ",100,70.5,http://www.wikidata.org/entity/Q13371,grid.38142.3c,
+1,2,"2  ","Stanford University",Stanford-University,unitedstates,"72.6   ",41.2,78.4,88.4,"70.2        ",70.3,48.6,http://www.wikidata.org/entity/Q41506,grid.168010.e,
+2,3,"3  ","Massachusetts Institute of Technology (MIT)",Massachusetts-Institute-of-Technology-(MIT),unitedstates,"72.0   ",72.8,81.9,67.9,"70.6        ",60.6,63.7,http://www.wikidata.org/entity/Q49108,grid.116068.8,
+3,4,"4  ","University of California, Berkeley",University-of-California-Berkeley,unitedstates,"71.9   ",68.3,79.3,70,"69.5        ",69.4,53.1,http://www.wikidata.org/entity/Q168756,grid.47840.3f,
+4,5,"1  ","University of Cambridge",University-of-Cambridge,unitedkingdom,"70.0   ",87.1,96.7,54.5,"54.1        ",65.1,52,http://www.wikidata.org/entity/Q35794,grid.5335.0,
+5,6,"5  ","California Institute of Technology",California-Institute-of-Technology,unitedstates,"64.7   ",52.6,68.8,57.3,"65.0        ",46.5,100,http://www.wikidata.org/entity/Q161562,grid.20861.3d,
+6,7,"6  ","Princeton University",Princeton-University,unitedstates,"61.2   ",56.7,87.1,62.1,"43.8        ",43.4,64.2,http://www.wikidata.org/entity/Q21578,grid.16750.35,
+7,8,"7  ","Columbia University",Columbia-University,unitedstates,"60.4   ",69.6,67.4,57.1,"50.8        ",67.5,31,http://www.wikidata.org/entity/Q49088,grid.21729.3f,
+8,9,"8  ","University of Chicago",University-of-Chicago,unitedstates,"57.5   ",65,83.9,52,"40.4        ",50.9,39.1,http://www.wikidata.org/entity/Q131252,grid.170205.1,
+9,10,"2  ","University of Oxford",University-of-Oxford,unitedkingdom,"56.4   ",55.5,57.6,48.9,"49.7        ",69.5,40,http://www.wikidata.org/entity/Q34433,grid.4991.5,
+10,11,"9  ","Yale University",Yale-University,unitedstates,"54.8   ",49.6,44.9,59.5,"57.4        ",61.6,35.5,http://www.wikidata.org/entity/Q49112,grid.47100.32,
+11,12,"10  ","University of California, Los Angeles",University-of-California-Los-Angeles,unitedstates,"53.0   ",30,42.6,57.5,"53.1        ",73.6,30.3,http://www.wikidata.org/entity/Q174710,grid.19006.3e,
+12,13,"11  ","Cornell University",Cornell-University,unitedstates,"51.5   ",42,51.1,54.5,"48.3        ",56.4,36.9,http://www.wikidata.org/entity/Q49115,grid.5386.8,
+13,14,"12  ","University of Pennsylvania",University-of-Pennsylvania,unitedstates,"50.4   ",36.3,34.3,57.7,"48.8        ",67.5,36.5,http://www.wikidata.org/entity/Q49117,grid.25879.31,
+14,15,"13  ","University of California, San Diego",University-of-California-San-Diego,unitedstates,"49.5   ",15.6,35.8,61.2,"52.4        ",65.6,34.5,http://www.wikidata.org/entity/Q622664,grid.266100.3,
+15,16,"14  ","University of Washington",University-of-Washington,unitedstates,"48.8   ",24.3,31.7,55,"51.9        ",72.4,27.3,http://www.wikidata.org/entity/Q219563,grid.34477.33,
+16,17,"15  ","University of California, San Francisco",University-of-California-San-Francisco,unitedstates,"46.7   ",0,40.1,53.5,"54.2        ",62,33.9,http://www.wikidata.org/entity/Q1061104,grid.266102.1,
+17,18,"16  ","The Johns Hopkins University",The-Johns-Hopkins-University,unitedstates,"45.9   ",43.2,32.1,42.1,"47.9        ",65.6,26.8,,grid.21107.35,103
+18,19,"17  ","University of Wisconsin - Madison",University-of-Wisconsin---Madison,unitedstates,"45.6   ",35.3,35.4,52,"39.7        ",64.2,24.6,http://www.wikidata.org/entity/Q838330,grid.14003.36,
+19,20,"3  ","University College London",University-College-London,unitedkingdom,"44.8   ",32.2,32.1,39.5,"46.1        ",68,31.2,http://www.wikidata.org/entity/Q193196,grid.83440.3b,
+20,21,"1  ","The University of Tokyo",The-University-of-Tokyo,japan,"44.6   ",35.3,14.1,42.1,"52.7        ",75.8,28.3,http://www.wikidata.org/entity/Q7842,grid.26999.3d,
+21,22,"18  ","University of Michigan - Ann Arbor",University-of-Michigan---Ann-Arbor,unitedstates,"44.1   ",36.7,0,60.4,"45.0        ",77.7,25.1,,grid.214458.e,103
+22,23,"1  ","Swiss Federal Institute of Technology Zurich",Swiss-Federal-Institute-of-Technology-Zurich,switzerland,"43.2   ",33.8,36.1,36.4,"43.6        ",53.8,46.1,http://www.wikidata.org/entity/Q11942,grid.5801.c,
+23,24,"4  ","The Imperial College of Science, Technology and Medicine",The-Imperial-College-of-Science-Technology-and-Medicine,unitedkingdom,"42.6   ",16.6,37.2,41.5,"39.6        ",62.7,34.5,,grid.7445.2,103
+24,25,"19  ","University of Illinois at Urbana-Champaign",University-of-Illinois-at-Urbana-Champaign,unitedstates,"42.5   ",34.3,36.5,43.9,"38.2        ",57,27.4,http://www.wikidata.org/entity/Q457281,grid.35403.31,
+25,26,"1  ","University of Toronto",University-of-Toronto,canada,"41.9   ",22.8,19.2,38.9,"40.6        ",79.5,27.2,http://www.wikidata.org/entity/Q180865,grid.17063.33,
+26,27,"2  ","Kyoto University",Kyoto-University,japan,"41.2   ",33.8,34.7,39.5,"35.5        ",62.2,22.7,http://www.wikidata.org/entity/Q336264,grid.258799.8,
+27,28,"20  ","University of Minnesota, Twin Cities",University-of-Minnesota-Twin-Cities,unitedstates,"40.8   ",30,16.2,51,"36.8        ",66.4,25.2,http://www.wikidata.org/entity/Q238101,grid.17635.36,
+28,29,"21  ","New York University",New-York-University,unitedstates,"38.8   ",32.2,24.4,42.1,"39.4        ",55.4,22,http://www.wikidata.org/entity/Q49210,grid.137628.9,
+29,30,"22  ","Northwestern University",Northwestern-University,unitedstates,"38.7   ",17.6,22.1,48.4,"37.7        ",57.8,26.2,http://www.wikidata.org/entity/Q309350,grid.16753.36,
+30,31,"23  ","Washington University in St. Louis",Washington-University-in-St-Louis,unitedstates,"38.1   ",21.2,25.9,38.9,"42.6        ",54.4,25.1,http://www.wikidata.org/entity/Q777403,grid.4367.6,
+31,32,"24  ","University of Colorado at Boulder",University-of-Colorado-at-Boulder,unitedstates,"37.2   ",14.4,30.7,39.5,"42.2        ",44.8,32,http://www.wikidata.org/entity/Q736674,grid.266190.a,
+32,33,"25  ","Rockefeller University",Rockefeller-University,unitedstates,"37.1   ",19.5,58.4,28.9,"42.5        ",21.5,37.7,http://www.wikidata.org/entity/Q270272,grid.134907.8,
+33,33,"25  ","University of California, Santa Barbara",University-of-California-Santa-Barbara,unitedstates,"37.1   ",16.6,35.1,42.7,"34.8        ",40.6,36.8,http://www.wikidata.org/entity/Q263064,grid.133342.4,
+34,35,"27  ","Duke University",Duke-University,unitedstates,"35.1   ",17.6,0,47,"40.9        ",62.5,22,http://www.wikidata.org/entity/Q168751,grid.26009.3d,
+35,35,"27  ","The University of Texas at Austin",The-University-of-Texas-at-Austin,unitedstates,"35.1   ",18.6,16.6,45.6,"31.7        ",55.2,24.1,http://www.wikidata.org/entity/Q49213,grid.89336.37,
+36,37,"2  ","University of British Columbia",University-of-British-Columbia,canada,"34.9   ",17.6,18.9,32.3,"31.8        ",65.9,23.4,http://www.wikidata.org/entity/Q391028,grid.17091.3e,
+37,38,"5  ","The University of Manchester",The-University-of-Manchester,unitedkingdom,"34.8   ",21.2,33.9,28,"27.7        ",56.6,23.8,http://www.wikidata.org/entity/Q230899,grid.5379.8,
+38,38,"29  ","University of Maryland, College Park",University-of-Maryland-College-Park,unitedstates,"34.8   ",22,19.9,41.5,"31.0        ",52.8,25.7,http://www.wikidata.org/entity/Q503415,grid.164295.d,
+39,40,"1  ","University of Paris Sud (Paris 11)",University-of-Paris-Sud-(Paris-11),france,"34.6   ",32.2,53.9,16.1,"20.3        ",49,24.8,http://www.wikidata.org/entity/Q1480643,grid.5842.b,
+40,41,"2  ","Pierre and Marie  Curie University - Paris 6",Pierre-and-Marie--Curie-University---Paris-6,france,"34.3   ",35.4,23.5,25,"30.1        ",59.4,21.6,,grid.5805.8,103
+41,42,"30  ","University of North Carolina at Chapel Hill",University-of-North-Carolina-at-Chapel-Hill,unitedstates,"34.0   ",10.2,16.2,39.5,"31.8        ",60.7,23.2,http://www.wikidata.org/entity/Q192334,grid.10698.36,
+42,43,"1  ","University of Copenhagen",University-of-Copenhagen,denmark,"33.7   ",25,24.1,25.5,"26.3        ",57.8,34.5,http://www.wikidata.org/entity/Q186285,grid.5254.6,
+43,44,"1  ","Karolinska Institute",Karolinska-Institute,sweden,"33.5   ",25.6,27.2,32.3,"21.3        ",50.5,37.3,http://www.wikidata.org/entity/Q219564,grid.4714.6,
+44,45,"31  ","Pennsylvania State University - University Park",Pennsylvania-State-University---University-Park,unitedstates,"32.1   ",11.8,0,46.2,"36.9        ",55.5,22.2,http://www.wikidata.org/entity/Q739627,grid.29857.31,
+45,46,"32  ","University of Southern California",University-of-Southern-California,unitedstates,"32.0   ",0,26.7,39.5,"26.1        ",53.2,19.6,http://www.wikidata.org/entity/Q4614,grid.42505.36,
+46,47,"1  ","Technical University Munich",Technical-University-Munich,germany,"31.8   ",39.9,23.5,25,"21.9        ",48.1,31.8,http://www.wikidata.org/entity/Q157808,grid.6936.a,
+47,48,"33  ","University of California, Davis",University-of-California-Davis,unitedstates,"31.7   ",0,0,47.9,"33.5        ",60.2,24.9,http://www.wikidata.org/entity/Q129421,grid.27860.3b,
+48,48,"33  ","University of California, Irvine",University-of-California-Irvine,unitedstates,"31.7   ",0,29.3,36.8,"25.9        ",48.7,25.9,http://www.wikidata.org/entity/Q868421,grid.266093.8,
+49,48,"1  ","Utrecht University",Utrecht-University,netherlands,"31.7   ",26.3,20.9,29.8,"29.0        ",48.2,25.8,http://www.wikidata.org/entity/Q221653,grid.5477.1,
+50,51,"35  ","The University of Texas Southwestern Medical Center at Dallas",The-University-of-Texas-Southwestern-Medical-Center-at-Dallas,unitedstates,"31.6   ",21.2,33.1,31.5,"29.4        ",37.8,21.6,http://www.wikidata.org/entity/Q2725999,grid.267313.2,
+51,52,"36  ","Vanderbilt University",Vanderbilt-University,unitedstates,"31.3   ",17.6,29.5,31.5,"22.1        ",50.5,18.4,http://www.wikidata.org/entity/Q29052,grid.152326.1,
+52,53,"6  ","The University of Edinburgh",The-University-of-Edinburgh,unitedkingdom,"31.2   ",23.5,16.6,27,"34.2        ",50.3,23.5,http://www.wikidata.org/entity/Q160302,grid.4305.2,
+53,54,"2  ","University of Munich",University-of-Munich,germany,"30.9   ",29.4,22.8,16.1,"28.2        ",52.4,31.8,http://www.wikidata.org/entity/Q55044,grid.5252.0,
+54,55,"37  ","Carnegie Mellon University",Carnegie-Mellon-University,unitedstates,"30.6   ",36.3,32.7,30.6,"16.4        ",33.9,33.5,http://www.wikidata.org/entity/Q190080,grid.147455.6,
+55,56,"2  ","University of Zurich",University-of-Zurich,switzerland,"30.5   ",5.9,26.7,25.5,"29.4        ",50.6,25.6,http://www.wikidata.org/entity/Q206702,grid.7400.3,
+56,57,"1  ","The Hebrew University of Jerusalem",The-Hebrew-University-of-Jerusalem,israel,"30.3   ",36.7,28.1,25,"20.0        ",40.7,29.7,http://www.wikidata.org/entity/Q174158,grid.9619.7,
+57,57,"38  ","University of Pittsburgh",University-of-Pittsburgh,unitedstates,"30.3   ",21.2,0,42.1,"24.2        ",60.8,18.1,,grid.21925.3d,100
+58,59,"39  ","Rutgers, The State University of New Jersey - New Brunswick",Rutgers-The-State-University-of-New-Jersey,unitedstates,"30.1   ",11.8,19.9,39.5,"26.5        ",43.3,21.9,,grid.430387.b,103
+59,60,"1  ","University of Melbourne",University-of-Melbourne,australia,"30.0   ",19.5,14.1,25,"21.1        ",62.1,26.8,,grid.1008.9,100
+60,61,"40  ","Purdue University - West Lafayette",Purdue-University---West-Lafayette,unitedstates,"29.9   ",15.6,23.2,29.8,"23.8        ",50.1,20.5,http://www.wikidata.org/entity/Q217741,grid.169077.e,
+61,62,"3  ","University of Heidelberg",University-of-Heidelberg,germany,"29.6   ",15.6,27,19.1,"24.1        ",50.4,30.4,,grid.7700.0,103
+62,63,"41  ","The Ohio State University - Columbus",The-Ohio-State-University---Columbus,unitedstates,"29.5   ",14.4,0,41.1,"26.2        ",59.7,17.9,http://www.wikidata.org/entity/Q309331,grid.261331.4,
+63,64,"3  ","McGill University",McGill-University,canada,"29.4   ",31.1,0,32.3,"24.2        ",58.2,24.5,http://www.wikidata.org/entity/Q201492,grid.14709.3b,
+64,65,"42  ","Brown University",Brown-University,unitedstates,"29.2   ",16.6,13.6,32.3,"29.5        ",42.1,31.7,http://www.wikidata.org/entity/Q49114,grid.40263.33,
+65,65,"2  ","Leiden University",Leiden-University,netherlands,"29.2   ",20.4,15.4,28,"22.6        ",49.4,32.8,http://www.wikidata.org/entity/Q156598,grid.5132.5,
+66,67,"2  ","Uppsala University",Uppsala-University,sweden,"29.0   ",20.4,32.1,14.4,"22.4        ",48.8,25.5,http://www.wikidata.org/entity/Q185246,grid.8993.b,
+67,68,"7  ","King's College London",Kings-College-London,unitedkingdom,"28.9   ",14.4,23,30.6,"17.6        ",50.4,22.8,http://www.wikidata.org/entity/Q245247,grid.13097.3c,
+68,69,"3  ","Ecole Normale Superieure - Paris",Ecole-Normale-Superieure---Paris,france,"28.7   ",54.2,24.4,12.5,"19.4        ",27.4,57.2,http://www.wikidata.org/entity/Q83259,grid.5607.4,
+69,70,"2  ","The Australian National University",The-Australian-National-University,australia,"28.6   ",15.6,12.6,33.9,"26.3        ",43.5,29.2,http://www.wikidata.org/entity/Q127990,grid.1001.0,
+70,70,"8  ","University of Bristol",University-of-Bristol,unitedkingdom,"28.6   ",8.3,17.8,28.4,"29.6        ",45.6,26.7,http://www.wikidata.org/entity/Q459506,grid.5337.2,
+71,72,"43  ","University of Florida",University-of-Florida,unitedstates,"28.4   ",19.5,0,37.5,"19.7        ",62.1,17.3,http://www.wikidata.org/entity/Q501758,grid.15276.37,
+72,73,"3  ","University of Geneva",University-of-Geneva,switzerland,"28.1   ",25,28.1,20.4,"25.6        ",36.6,26.5,http://www.wikidata.org/entity/Q503473,grid.8591.5,
+73,74,"1  ","University of Helsinki",University-of-Helsinki,finland,"28.0   ",14.4,17.8,23.9,"20.8        ",51.2,29.4,http://www.wikidata.org/entity/Q28695,grid.7737.4,
+74,75,"1  ","University of Oslo",University-of-Oslo,norway,"27.9   ",20.4,33.3,17.7,"14.9        ",47.5,24.1,http://www.wikidata.org/entity/Q486156,grid.5510.1,
+75,76,"44  ","Boston University",Boston-University,unitedstates,"27.7   ",13.2,11.5,29.8,"25.8        ",50.7,20.6,http://www.wikidata.org/entity/Q49110,grid.189504.1,
+76,77,"1  ","Moscow State University",Moscow-State-University,russia,"26.9   ",47.4,34.1,0,"10.1        ",46.9,31.2,http://www.wikidata.org/entity/Q13164,grid.14476.30,
+77,78,"45  ","Arizona State University - Tempe",Arizona-State-University---Tempe,unitedstates,"26.7   ",0,19.9,27,"28.8        ",44.4,18.5,,grid.215654.1,103
+78,79,"46  ","University of Utah",University-of-Utah,unitedstates,"26.5   ",0,11.5,30.6,"27.6        ",47.1,23.3,http://www.wikidata.org/entity/Q168515,grid.223827.e,
+79,80,"47  ","University of Arizona",University-of-Arizona,unitedstates,"26.4   ",0,0,29.8,"37.1        ",51,20.8,http://www.wikidata.org/entity/Q503419,grid.134563.6,
+80,81,"3  ","Stockholm University",Stockholm-University,sweden,"26.1   ",24.3,29.5,16.1,"19.1        ",38.1,23.2,http://www.wikidata.org/entity/Q221645,grid.10548.38,
+81,82,"48  ","Indiana University Bloomington",Indiana-University-Bloomington,unitedstates,"25.9   ",11.8,22.7,26,"20.5        ",40.8,19.5,http://www.wikidata.org/entity/Q1079140,grid.411377.7,
+82,82,"3  ","Osaka University",Osaka-University,japan,"25.9   ",10.2,0,27,"28.2        ",56.9,16.8,http://www.wikidata.org/entity/Q651233,grid.136593.b,
+83,84,"49  ","University of Rochester",University-of-Rochester,unitedstates,"25.8   ",28.2,8.9,27,"22.8        ",41.7,21.7,http://www.wikidata.org/entity/Q149990,grid.16416.34,
+84,85,"9  ","University of Nottingham",University-of-Nottingham,unitedkingdom,"25.7   ",13.2,19.9,23.9,"16.3        ",48,20.2,http://www.wikidata.org/entity/Q472316,grid.4563.4,
+85,86,"2  ","Aarhus University",Aarhus-University,denmark,"25.4   ",13.2,22.1,7.2,"24.3        ",49.3,27.9,http://www.wikidata.org/entity/Q924265,grid.7048.b,
+86,86,"3  ","The University of Queensland",The-University-of-Queensland,australia,"25.4   ",14.4,0,20.4,"24.4        ",58.1,25.9,http://www.wikidata.org/entity/Q866012,grid.1003.2,
+87,86,"4  ","University of Goettingen",University-of-Goettingen,germany,"25.4   ",31.1,19.9,16.1,"18.9        ",40.1,25.7,http://www.wikidata.org/entity/Q152838,grid.7450.6,
+88,89,"1  ","Ghent University",Ghent-University,belgium,"25.3   ",5.9,15.4,17.7,"16.8        ",55.2,29.8,http://www.wikidata.org/entity/Q1137665,grid.5342.0,
+89,89,"4  ","McMaster University",McMaster-University,canada,"25.3   ",14.4,18.9,23.9,"16.7        ",45.2,21.9,http://www.wikidata.org/entity/Q632891,grid.25073.33,
+90,89,"4  ","University of Basel",University-of-Basel,switzerland,"25.3   ",22,17,23.4,"18.0        ",36.9,33,http://www.wikidata.org/entity/Q372608,grid.6612.3,
+91,92,"50  ","Michigan State University",Michigan-State-University,unitedstates,"25.1   ",10.2,0,36.8,"19.5        ",51.5,17.9,http://www.wikidata.org/entity/Q270222,grid.17088.36,
+92,93,"51  ","Rice University",Rice-University,unitedstates,"24.8   ",18.6,21.8,21.7,"23.2        ",29.9,29.4,http://www.wikidata.org/entity/Q842909,grid.21940.3e,
+93,94,"4  ","Nagoya University",Nagoya-University,japan,"24.7   ",25,14.1,16.1,"22.4        ",44.8,20.4,http://www.wikidata.org/entity/Q1191132,grid.27476.30,
+94,94,"5  ","University of Bonn",University-of-Bonn,germany,"24.7   ",17.6,19.9,14.4,"23.9        ",40.4,25.1,http://www.wikidata.org/entity/Q152171,grid.10388.32,
+95,96,"4  ","University of Sydney",University-of-Sydney,australia,"24.5   ",16.6,0,19.1,"19.0        ",60.5,23.6,http://www.wikidata.org/entity/Q487556,grid.1013.3,
+96,97,"52  ","Case Western Reserve University",Case-Western-Reserve-University,unitedstates,"24.4   ",34.8,11.5,21.7,"16.6        ",40,22.3,http://www.wikidata.org/entity/Q1047060,grid.67105.35,
+97,97,"10  ","The University of Sheffield",The-University-of-Sheffield,unitedkingdom,"24.4   ",20.4,14.1,21,"18.7        ",43.6,21.8,http://www.wikidata.org/entity/Q823917,grid.11835.3e,
+98,97,"5  ","Tohoku University",Tohoku-University,japan,"24.4   ",16.6,0,21.7,"22.1        ",55.9,21,http://www.wikidata.org/entity/Q1062129,grid.69566.3a,
+99,100,"53  ","Texas A&M; University - College Station",Texas-AM-University---College-Station,unitedstates,"24.2   ",0,0,33.9,"19.9        ",53.8,19.8,,grid.264756.4,103
+100,100,"6  ","University of Frankfurt",University-of-Frankfurt,germany,"24.2   ",34.8,8.9,19.1,"19.7        ",39.8,25.4,http://www.wikidata.org/entity/Q50662,grid.7839.5,
+101,102-150,"4-6  ","Aix-Marseille University",Aix-Marseille-University,france,"",15.6,0,16.1,"22.4        ",44.3,15.3,http://www.wikidata.org/entity/Q2302586,grid.5399.6,
+102,102-150,"54-68  ","Baylor College of Medicine",Baylor-College-of-Medicine,unitedstates,"",0,0,19.1,"32.7        ",40.5,19.6,http://www.wikidata.org/entity/Q2892284,grid.39382.33,
+103,102-150,"2-3  ","Catholic University of Leuven",Catholic-University-of-Leuven,belgium,"",0,0,22.8,"16.3        ",52.5,24.9,,grid.5596.f,103
+104,102-150,"2-3  ","Catholic University of Louvain",Catholic-University-of-Louvain,belgium,"",11.8,13.6,17.7,"11.4        ",40.7,26.9,http://www.wikidata.org/entity/Q378134,grid.7942.8,
+105,102-150,"54-68  ","Emory University",Emory-University,unitedstates,"",0,0,32.3,"24.8        ",50.8,17.7,http://www.wikidata.org/entity/Q621043,grid.189967.8,
+106,102-150,"54-68  ","Georgia Institute of Technology",Georgia-Institute-of-Technology,unitedstates,"",14.4,0,26,"22.6        ",43.8,25.2,http://www.wikidata.org/entity/Q864855,grid.213917.f,
+107,102-150,"6-7  ","Hokkaido University",Hokkaido-University,japan,"",13.2,16.2,16.1,"16.5        ",45.6,15.9,http://www.wikidata.org/entity/Q1057199,grid.39158.36,
+108,102-150,"11-15  ","London School of Economics and Political Science",London-School-of-Economics-and-Political-Science,unitedkingdom,"",22.8,16.2,16.1,"",28,25.9,http://www.wikidata.org/entity/Q174570,grid.13063.37,
+109,102-150,"4  ","Lund University",Lund-University,sweden,"",24.3,0,25,"17.2        ",49.6,20.8,http://www.wikidata.org/entity/Q218506,grid.4514.4,
+110,102-150,"54-68  ","Mayo Medical School",Mayo-Medical-School,unitedstates,"",0,0,25,"15.1        ",47.7,25.8,http://www.wikidata.org/entity/Q48977467,grid.66875.3a,103
+111,102-150,"1  ","National Taiwan University",National-Taiwan-University,"taiwan,china","",13.2,0,17.7,"12.7        ",58.8,19.2,http://www.wikidata.org/entity/Q32746,grid.19188.39,
+112,102-150,"1  ","National University of Singapore",National-University-of-Singapore,singapore,"",0,0,10.2,"16.3        ",58.1,28.2,http://www.wikidata.org/entity/Q738236,grid.4280.e,
+113,102-150,"54-68  ","Oregon State University",Oregon-State-University,unitedstates,"",11.8,0,27,"22.2        ",33.1,21.6,http://www.wikidata.org/entity/Q861888,grid.4391.f,
+114,102-150,"3-6  ","Radboud University Nijmegen",Radboud-University-Nijmegen,netherlands,"",18.6,0,10.2,"17.4        ",49.4,30.3,http://www.wikidata.org/entity/Q632004,grid.5590.9,
+115,102-150,"1  ","Seoul National University",Seoul-National-University,southkorea,"",0,0,7.2,"14.5        ",66.7,21.2,http://www.wikidata.org/entity/Q39913,grid.31501.36,
+116,102-150,"5  ","Swiss Federal Institute of Technology of Lausanne",Swiss-Federal-Institute-of-Technology-of-Lausanne,switzerland,"",0,0,23.9,"22.6        ",39.8,33,,grid.5333.6,103
+117,102-150,"2-4  ","Technion-Israel Institute of Technology",Technion-Israel-Institute-of-Technology,israel,"",16.6,23,16.1,"13.4        ",36.5,22.8,http://www.wikidata.org/entity/Q333705,grid.6451.6,
+118,102-150,"2-4  ","Tel Aviv University",Tel-Aviv-University,israel,"",0,0,23.9,"15.6        ",49.2,26.2,http://www.wikidata.org/entity/Q319239,grid.12136.37,
+119,102-150,"54-68  ","The University of Georgia",The-University-of-Georgia,unitedstates,"",0,0,27,"21.1        ",44.1,18.3,http://www.wikidata.org/entity/Q761534,grid.213876.9,
+120,102-150,"5  ","The University of Western Australia",The-University-of-Western-Australia,australia,"",15.6,14.1,22.8,"13.9        ",42.2,25.7,http://www.wikidata.org/entity/Q1517021,grid.1012.2,
+121,102-150,"6-7  ","Tokyo Institute of Technology",Tokyo-Institute-of-Technology,japan,"",14.4,0,21.7,"21.8        ",41.3,25.7,http://www.wikidata.org/entity/Q587326,grid.32197.3e,
+122,102-150,"54-68  ","Tufts University",Tufts-University,unitedstates,"",16.6,16.6,22.8,"15.1        ",36.7,25.1,http://www.wikidata.org/entity/Q49120,grid.429997.8,
+123,102-150,"5-6  ","University of Alberta",University-of-Alberta,canada,"",13.2,0,21.7,"19.4        ",55.7,20.7,http://www.wikidata.org/entity/Q640694,grid.17089.37,
+124,102-150,"3-6  ","University of Amsterdam",University-of-Amsterdam,netherlands,"",5.9,0,19.1,"21.1        ",52.7,26.1,http://www.wikidata.org/entity/Q214341,grid.7177.6,
+125,102-150,"11-15  ","University of Birmingham",University-of-Birmingham,unitedkingdom,"",21.2,10.9,21.7,"16.1        ",45.8,20.8,http://www.wikidata.org/entity/Q223429,grid.6572.6,
+126,102-150,"54-68  ","University of California, Riverside",University-of-California-Riverside,unitedstates,"",14.4,0,27,"28.6        ",33.3,26.9,http://www.wikidata.org/entity/Q1075148,grid.266097.c,
+127,102-150,"54-68  ","University of California, Santa Cruz",University-of-California-Santa-Cruz,unitedstates,"",0,0,28.9,"34.3        ",29.8,31.2,http://www.wikidata.org/entity/Q1047293,grid.205975.c,
+128,102-150,"54-68  ","University of Delaware",University-of-Delaware,unitedstates,"",11.8,16.2,22.8,"12.7        ",32.3,18.9,http://www.wikidata.org/entity/Q1068072,grid.33489.35,
+129,102-150,"7-10  ","University of Freiburg",University-of-Freiburg,germany,"",21.2,20.9,15.3,"21.1        ",37.1,24,http://www.wikidata.org/entity/Q153987,grid.5963.9,
+130,102-150,"3-6  ","University of Groningen",University-of-Groningen,netherlands,"",0,19.9,17.7,"16.6        ",48.9,27.4,http://www.wikidata.org/entity/Q850730,grid.4830.f,
+131,102-150,"54-68  ","University of Hawaii at Manoa",University-of-Hawaii-at-Manoa,unitedstates,"",0,0,26,"27.5        ",37.2,18.4,http://www.wikidata.org/entity/Q2000129,grid.410445.0,
+132,102-150,"54-68  ","University of Iowa",University-of-Iowa,unitedstates,"",0,0,30.6,"23.9        ",45.7,18,http://www.wikidata.org/entity/Q182973,grid.214572.7,
+133,102-150,"11-15  ","University of Leeds",University-of-Leeds,unitedkingdom,"",19.5,0,14.4,"21.8        ",44.3,18.7,http://www.wikidata.org/entity/Q503424,grid.9909.9,
+134,102-150,"11-15  ","University of Liverpool",University-of-Liverpool,unitedkingdom,"",19.5,15.4,12.5,"19.4        ",40.1,20.6,http://www.wikidata.org/entity/Q499510,grid.10025.36,
+135,102-150,"54-68  ","University of Massachusetts Amherst",University-of-Massachusetts-Amherst,unitedstates,"",15.6,0,33.1,"16.5        ",36.2,21.9,http://www.wikidata.org/entity/Q15142,grid.266683.f,
+136,102-150,"54-68  ","University of Massachusetts Medical School - Worcester",University-of-Massachusetts-Medical-School---Worcester,unitedstates,"",0,19.9,14.4,"28.5        ",27.1,19.9,http://www.wikidata.org/entity/Q7895715,grid.168645.8,
+137,102-150,"5-6  ","University of Montreal",University-of-Montreal,canada,"",13.2,0,14.4,"19.0        ",51.8,20,http://www.wikidata.org/entity/Q392189,grid.14848.31,
+138,102-150,"7-10  ","University of Muenster",University-of-Muenster,germany,"",22,15.4,12.5,"14.9        ",35.6,21.3,http://www.wikidata.org/entity/Q168426,grid.5949.1,
+139,102-150,"4-6  ","University of Paris Diderot (Paris 7)",University-of-Paris-Diderot-(Paris-7),france,"",15.6,13.8,14.4,"22.7        ",43.2,16.7,,grid.7452.4,103
+140,102-150,"1-2  ","University of Pisa",University-of-Pisa,italy,"",15.6,23.5,16.1,"5.2        ",37.1,17.7,http://www.wikidata.org/entity/Q645663,grid.5395.a,
+141,102-150,"1-2  ","University of Roma - La Sapienza",University-of-Roma---La-Sapienza,italy,"",13.2,15.4,10.2,"15.6        ",49.2,13.5,,grid.7841.a,103
+142,102-150,"1  ","University of Sao Paulo",University-of-Sao-Paulo,brazil,"",0,0,10.2,"12.5        ",73.7,14.6,http://www.wikidata.org/entity/Q835960,grid.11899.38,
+143,102-150,"4-6  ","University of Strasbourg",University-of-Strasbourg,france,"",25,22.4,17.7,"18.4        ",35.1,18.9,http://www.wikidata.org/entity/Q157575,grid.11843.3f,
+144,102-150,"11-15  ","University of Sussex",University-of-Sussex,unitedkingdom,"",0,22.7,20.4,"14.9        ",27.4,25.3,http://www.wikidata.org/entity/Q1161297,grid.12082.39,
+145,102-150,"7-10  ","University of Tuebingen",University-of-Tuebingen,germany,"",25.6,0,14.4,"18.7        ",41,23.4,http://www.wikidata.org/entity/Q153978,grid.10392.39,
+146,102-150,"54-68  ","University of Virginia",University-of-Virginia,unitedstates,"",0,0,33.9,"27.8        ",45.5,18.7,http://www.wikidata.org/entity/Q213439,grid.27755.32,
+147,102-150,"7-10  ","University of Wuerzburg",University-of-Wuerzburg,germany,"",22,8.9,22.2,"16.1        ",34.9,22.1,http://www.wikidata.org/entity/Q161976,grid.8379.5,
+148,102-150,"3-6  ","VU University Amsterdam",VU-University-Amsterdam,netherlands,"",0,0,25,"15.6        ",51.1,28,http://www.wikidata.org/entity/Q1065414,grid.12380.38,
+149,102-150,"2-4  ","Weizmann Institute of Science",Weizmann-Institute-of-Science,israel,"",14.4,16.2,23.9,"29.2        ",28.5,23.5,http://www.wikidata.org/entity/Q4182,grid.13992.30,
+150,151-200,"16-19  ","Cardiff University",Cardiff-University,unitedkingdom,"",0,16.2,7.2,"20.5        ",43.7,18.6,http://www.wikidata.org/entity/Q1035745,grid.5600.3,
+151,151-200,"69-89  ","Colorado State University",Colorado-State-University,unitedstates,"",0,0,29.8,"14.3        ",35.7,19.7,http://www.wikidata.org/entity/Q1111640,grid.47894.36,
+152,151-200,"69-89  ","Dartmouth College",Dartmouth-College,unitedstates,"",20.4,0,23.9,"19.0        ",29.9,22.4,http://www.wikidata.org/entity/Q49116,grid.254880.3,
+153,151-200,"7-9  ","Delft University of Technology",Delft-University-of-Technology,netherlands,"",13.2,0,7.2,"20.1        ",38.9,20.3,http://www.wikidata.org/entity/Q752663,grid.5292.c,
+154,151-200,"7-9  ","Erasmus University Rotterdam",Erasmus-University,netherlands,"",0,15.4,21.7,"6.0        ",34.6,25.7,,grid.6906.9,100
+155,151-200,"69-89  ","Florida State University",Florida-State-University,unitedstates,"",0,0,19.1,"19.0        ",38.4,18.4,http://www.wikidata.org/entity/Q861548,grid.255986.5,
+156,151-200,"69-89  ","George Mason University",George-Mason-University,unitedstates,"",0,32.1,10.2,"9.4        ",29,17.5,http://www.wikidata.org/entity/Q1411222,grid.22448.38,
+157,151-200,"69-89  ","Iowa State University",Iowa-State-University,unitedstates,"",0,0,22.8,"17.3        ",42.1,19.5,http://www.wikidata.org/entity/Q1136919,grid.34421.30,
+158,151-200,"7-8  ","Joseph Fourier University (Grenoble 1)",Joseph-Fourier-University-(Grenoble-1),france,"",0,15.4,10.2,"21.2        ",38.7,17.4,,grid.9621.c,103
+159,151-200,"8-9  ","Kyushu University",Kyushu-University,japan,"",0,0,16.1,"18.0        ",46.5,18,http://www.wikidata.org/entity/Q1188786,grid.177174.3,
+160,151-200,"69-89  ","Louisiana State University - Baton Rouge",Louisiana-State-University---Baton-Rouge,unitedstates,"",0,0,19.1,"17.2        ",38,15.1,http://www.wikidata.org/entity/Q1521725,grid.64337.35,
+161,151-200,"6-7  ","Monash University",Monash-University,australia,"",0,0,14.4,"18.6        ",51.7,20.4,http://www.wikidata.org/entity/Q598841,grid.1002.3,
+162,151-200,"69-89  ","Mount Sinai School of Medicine",Mount-Sinai-School-of-Medicine,unitedstates,"",0,0,20.4,"21.9        ",37.3,18.8,,grid.59734.3c,103
+163,151-200,"1  ","National Autonomous University of Mexico",National-Autonomous-University-of-Mexico,mexico,"",14.4,0,7.2,"11.4        ",47.6,23.3,http://www.wikidata.org/entity/Q222738,grid.9486.3,
+164,151-200,"69-89  ","North Carolina State University - Raleigh",North-Carolina-State-University---Raleigh,unitedstates,"",0,0,28,"13.2        ",42.2,18.1,http://www.wikidata.org/entity/Q1132346,grid.40803.3f,
+165,151-200,"69-89  ","Oregon Health and Science University",Oregon-Health-and-Science-University,unitedstates,"",0,0,19.1,"20.5        ",35.2,20.4,http://www.wikidata.org/entity/Q282097,grid.5288.7,
+166,151-200,"69-89  ","State University of New York at Stony Brook",State-University-of-New-York-at-Stony-Brook,unitedstates,"",0,0,19.1,"23.5        ",36.4,17.1,,grid.36425.36,103
+167,151-200,"3  ","Technical University of Denmark",Technical-University-of-Denmark,denmark,"",5.9,12.6,17.7,"14.8        ",36.8,20.9,http://www.wikidata.org/entity/Q1269766,grid.5170.3,
+168,151-200,"1  ","The Chinese University of Hong Kong",The-Chinese-University-of-Hong-Kong,"hongkong,china","",0,14.1,16.1,"6.5        ",43.9,21.7,http://www.wikidata.org/entity/Q15570,grid.10784.3a,
+169,151-200,"69-89  ","The University of Alabama at Birmingham",The-University-of-Alabama-at-Birmingham,unitedstates,"",0,0,16.1,"20.0        ",41.4,15,,grid.265892.2,103
+170,151-200,"7-8  ","The University of Calgary",The-University-of-Calgary,canada,"",0,0,10.2,"17.2        ",46.2,16.9,http://www.wikidata.org/entity/Q1067471,grid.22072.35,
+171,151-200,"16-19  ","The University of Glasgow",The-University-of-Glasgow,unitedkingdom,"",8.3,0,21.7,"17.1        ",41.9,19.7,http://www.wikidata.org/entity/Q192775,grid.8756.c,
+172,151-200,"69-89  ","The University of Texas Health Science Center at Houston",The-University-of-Texas-Health-Science-Center-at-Houston,unitedstates,"",0,15.4,17.7,"14.7        ",31.5,27.2,http://www.wikidata.org/entity/Q7896431,grid.267308.8,
+173,151-200,"69-89  ","The University of Texas M. D. Anderson Cancer Center",The-University-of-Texas-M-D-Anderson-Cancer-Center,unitedstates,"",0,0,21.7,"17.5        ",43,27.4,http://www.wikidata.org/entity/Q1525831,grid.240145.6,
+174,151-200,"1  ","Tsinghua University",Tsinghua-University,china,"",11.8,0,0,"14.3        ",56.4,16.1,http://www.wikidata.org/entity/Q16955,grid.12527.33,
+175,151-200,"4  ","University Libre Bruxelles",University-Libre-Bruxelles,belgium,"",18.6,18.9,12.5,"11.8        ",31.9,25.1,,grid.4989.c,103
+176,151-200,"6  ","University of Bern",University-of-Bern,switzerland,"",14.4,0,12.5,"21.1        ",38.7,24.6,http://www.wikidata.org/entity/Q659080,grid.5734.5,
+177,151-200,"1  ","University of Buenos Aires",University-of-Buenos-Aires,argentina,"",16.6,25.2,0,"7.7        ",36.9,21.6,http://www.wikidata.org/entity/Q194223,grid.7345.5,
+178,151-200,"11-14  ","University of Hamburg",University-of-Hamburg,germany,"",13.2,0,17.7,"16.4        ",34.2,19.8,http://www.wikidata.org/entity/Q156725,grid.9026.d,
+179,151-200,"69-89  ","University of Illinois at Chicago",University-of-Illinois-at-Chicago,unitedstates,"",0,0,28,"14.2        ",44.9,17.4,http://www.wikidata.org/entity/Q955764,grid.185648.6,
+180,151-200,"69-89  ","University of Kansas - Lawrence",University-of-Kansas---Lawrence,unitedstates,"",13.2,0,19.1,"13.7        ",39.8,14.8,,grid.266515.3,103
+181,151-200,"11-14  ","University of Kiel",University-of-Kiel,germany,"",11.8,15.4,10.2,"12.7        ",32.2,18.5,http://www.wikidata.org/entity/Q156737,grid.9764.c,
+182,151-200,"11-14  ","University of Cologne",University-of-Cologne,germany,"",0,12.6,7.2,"19.3        ",38.4,20.9,http://www.wikidata.org/entity/Q54096,grid.6190.e,
+183,151-200,"11-14  ","University of Mainz",University-of-Mainz,germany,"",0,8.1,17.7,"18.5        ",37.2,21.2,http://www.wikidata.org/entity/Q161982,grid.5802.f,
+184,151-200,"69-89  ","University of Maryland, Baltimore",University-of-Maryland-Baltimore,unitedstates,"",0,0,23.9,"17.0        ",38.8,17.2,http://www.wikidata.org/entity/Q4119470,grid.411024.2,
+185,151-200,"69-89  ","University of Miami",University-of-Miami,unitedstates,"",0,0,23.9,"21.1        ",41.9,15.1,http://www.wikidata.org/entity/Q738258,grid.26790.3a,
+186,151-200,"3-4  ","University of Milan",University-of-Milan,italy,"",19.5,0,18.4,"11.7        ",46.9,18.3,http://www.wikidata.org/entity/Q46210,grid.4708.b,
+187,151-200,"69-89  ","University of Nebraska - Lincoln",University-of-Nebraska---Lincoln,unitedstates,"",19.5,0,16.1,"15.9        ",33.7,15.3,http://www.wikidata.org/entity/Q1353679,grid.24434.35,
+188,151-200,"6-7  ","University of New South Wales",University-of-New-South-Wales,australia,"",0,0,20.4,"13.3        ",53.1,20.7,,grid.1005.4,103
+189,151-200,"3-4  ","University of Padua",University-of-Padua,italy,"",0,0,12.5,"17.2        ",49.1,18.2,http://www.wikidata.org/entity/Q193510,grid.5608.b,
+190,151-200,"7-8  ","University of Paris Descartes (Paris 5)",University-of-Paris-Descartes-(Paris-5),france,"",13.7,11.9,10.2,"17.3        ",42.6,15.5,http://www.wikidata.org/entity/Q1155944,grid.10992.33,
+191,151-200,"16-19  ","University of Southampton",University-of-Southampton,unitedkingdom,"",0,0,20.4,"20.1        ",43,21.2,http://www.wikidata.org/entity/Q76473,grid.5491.9,
+192,151-200,"69-89  ","University of Tennessee - Knoxville",University-of-Tennessee---Knoxville,unitedstates,"",11.8,0,22.2,"18.0        ",38.5,14.6,http://www.wikidata.org/entity/Q1150105,grid.411461.7,
+193,151-200,"8-9  ","University of Tsukuba",University-of-Tsukuba,japan,"",0,19.9,12.5,"9.7        ",37.1,15.3,http://www.wikidata.org/entity/Q743615,grid.20515.33,
+194,151-200,"1  ","University of Vienna",University-of-Vienna,austria,"",15.6,0,14.4,"18.4        ",37.1,21.2,http://www.wikidata.org/entity/Q165980,grid.10420.37,
+195,151-200,"7-9  ","University of Wageningen",University-of-Wageningen,netherlands,"",0,0,28.4,"14.3        ",38.8,29.4,http://www.wikidata.org/entity/Q422208,grid.4818.5,
+196,151-200,"16-19  ","University of Warwick",University-of-Warwick,unitedkingdom,"",0,0,25.5,"15.5        ",36.2,20,http://www.wikidata.org/entity/Q865528,grid.7372.1,
+197,151-200,"7-8  ","University of Waterloo",University-of-Waterloo,canada,"",0,0,19.1,"11.7        ",41.4,20.4,http://www.wikidata.org/entity/Q1049470,grid.46078.3d,
+198,151-200,"69-89  ","Virginia Commonwealth University",Virginia-Commonwealth-University,unitedstates,"",11.8,14.1,17.7,"11.6        ",35.6,14.6,http://www.wikidata.org/entity/Q2303536,grid.224260.0,
+199,151-200,"69-89  ","Virginia Polytechnic Institute and State University",Virginia-Polytechnic-Institute-and-State-University,unitedstates,"",13.2,0,22.8,"14.8        ",40.2,17.1,http://www.wikidata.org/entity/Q65379,grid.438526.e,
+200,201-300,"1-4  ","Autonomous University of Madrid",Autonomous-University-of-Madrid,spain,"",0,0,12.5,"14.4        ",38,16.1,http://www.wikidata.org/entity/Q788091,grid.5515.4,
+201,201-300,"90-110  ","Brandeis University",Brandeis-University,unitedstates,"",22,0,7.2,"18.8        ",18.5,23.2,http://www.wikidata.org/entity/Q49119,grid.253264.4,
+202,201-300,"5-8  ","Chalmers University of Technology",Chalmers-University-of-Technology,sweden,"",0,0,17.7,"11.1        ",27.5,19.3,http://www.wikidata.org/entity/Q836805,grid.5371.0,
+203,201-300,"1  ","Charles University in Prague",Charles-University-in-Prague,czech,"",10.2,0,0,"13.4        ",43.2,18.1,http://www.wikidata.org/entity/Q31519,grid.4491.8,
+204,201-300,"9-13  ","Claude Bernard University Lyon 1",Claude-Bernard-University-Lyon-1,france,"",11.8,0,0,"20.8        ",40.8,13.9,http://www.wikidata.org/entity/Q4032,grid.7849.2,
+205,201-300,"1-4  ","Complutense University of Madrid",Complutense-University-of-Madrid,spain,"",22,0,0,"9.0        ",42.8,11,http://www.wikidata.org/entity/Q219694,grid.4795.f,
+206,201-300,"9-18  ","Dalhousie University",Dalhousie-University,canada,"",0,0,14.4,"16.5        ",34.4,17.4,http://www.wikidata.org/entity/Q579321,grid.55602.34,
+207,201-300,"15-23  ","Dresden University of Technology",Dresden-University-of-Technology,germany,"",0,0,7.2,"11.3        ",37.2,18.2,,grid.4488.0,103
+208,201-300,"2-7  ","Fudan University",Fudan-University,china,"",0,0,7.2,"12.1        ",50,17.7,http://www.wikidata.org/entity/Q495015,grid.8547.e,
+209,201-300,"10  ","Keio University",Keio-University,japan,"",0,0,10.2,"14.5        ",33.4,12.8,http://www.wikidata.org/entity/Q815432,grid.26091.3c,
+210,201-300,"1  ","King Saud University",King-Saud-University,saudiarabia,"",0,0,33.1,"2.1        ",29.7,10.7,http://www.wikidata.org/entity/Q1752043,grid.56302.32,
+211,201-300,"2-3  ","Korea Advanced Institute of Science and Technology",Korea-Advanced-Institute-of-Science-and-Technology,southkorea,"",0,0,7.2,"14.8        ",39.7,27.3,http://www.wikidata.org/entity/Q39949,grid.37172.30,
+212,201-300,"20-29  ","Lancaster University",Lancaster-University,unitedkingdom,"",0,0,17.7,"10.5        ",28.9,18.6,http://www.wikidata.org/entity/Q262854,grid.9835.7,
+213,201-300,"9-18  ","Laval University",Laval-University,canada,"",0,0,16.1,"9.6        ",37.1,15,http://www.wikidata.org/entity/Q1067935,grid.23856.3a,
+214,201-300,"8-9  ","Macquarie University",Macquarie-University,australia,"",0,0,17.7,"13.6        ",28.8,21.5,http://www.wikidata.org/entity/Q741082,grid.1004.5,
+215,201-300,"2-3  ","Medical University of Vienna",Medical-University-of-Vienna,austria,"",10.2,15.4,7.2,"8.6        ",31.6,17.9,http://www.wikidata.org/entity/Q700731,grid.22937.3d,
+216,201-300,"2-7  ","Nanjing University",Nanjing-University,china,"",0,0,0,"13.0        ",45.4,15.8,http://www.wikidata.org/entity/Q683580,grid.41156.37,
+217,201-300,"2  ","Nanyang Technological University",Nanyang-Technological-University,singapore,"",0,0,0,"7.6        ",47.7,22.3,http://www.wikidata.org/entity/Q721064,grid.59025.3b,
+218,201-300,"1  ","National and Kapodistrian University of Athens",National-and-Kapodistrian-University-of-Athens,greece,"",0,0,12.5,"4.1        ",41.4,20,http://www.wikidata.org/entity/Q547867,grid.5216.0,
+219,201-300,"2  ","National Cheng Kung University (NCKU)",National-Cheng-Kung-University,"taiwan,china","",0,0,10.2,"2.1        ",45.2,17.8,http://www.wikidata.org/entity/Q706708,grid.64523.36,
+220,201-300,"20-29  ","Newcastle University",Newcastle-University,unitedkingdom,"",0,0,14.4,"19.0        ",36.5,17.4,http://www.wikidata.org/entity/Q837164,grid.1006.7,
+221,201-300,"2-3  ","Norwegian University of Science and Technology",Norwegian-University-of-Science-and-Technology,norway,"",15.6,0,10.2,"13.9        ",35.3,16.4,,grid.5947.f,100
+222,201-300,"9-13  ","Paul Sabatier University (Toulouse 3)",Paul-Sabatier-University-(Toulouse-3),france,"",0,6.3,7.2,"18.5        ",38.6,12.9,http://www.wikidata.org/entity/Q1273188,grid.15781.3a,
+223,201-300,"2-7  ","Peking University",Peking-University,china,"",0,0,0,"13.5        ",58.4,16.6,http://www.wikidata.org/entity/Q16952,grid.11135.37,
+224,201-300,"5-8  ","Polytechnic Institute of Milan",Polytechnic-Institute-of-Milan,italy,"",8.3,15.4,0,"9.0        ",30.3,14.6,http://www.wikidata.org/entity/Q392904,grid.4643.5,
+225,201-300,"20-29  ","Queen Mary, U. of London",Queen-Mary-U-of-London,unitedkingdom,"",20.4,0,16.1,"16.5        ",28.8,18.8,,grid.4868.2,103
+226,201-300,"9-18  ","Queen's University",Queens-University,canada,"",0,0,16.1,"14.1        ",35.4,19.2,http://www.wikidata.org/entity/Q1420038,grid.410356.5,
+227,201-300,"90-110  ","Rensselaer Polytechnic Institute",Rensselaer-Polytechnic-Institute,unitedstates,"",14.4,0,17.7,"9.1        ",23.3,21.4,http://www.wikidata.org/entity/Q49211,grid.33647.35,
+228,201-300,"5-8  ","Royal Institute of Technology",Royal-Institute-of-Technology,sweden,"",0,15.4,7.2,"9.7        ",35.4,21.6,,grid.5037.1,100
+229,201-300,"15-23  ","RWTH Aachen University",RWTH-Aachen-University,germany,"",0,0,10.2,"10.1        ",40.2,19.7,http://www.wikidata.org/entity/Q273263,grid.1957.a,
+230,201-300,"2-7  ","Shanghai Jiao Tong University",Shanghai-Jiao-Tong-University,china,"",0,0,7.2,"9.1        ",55.2,17,http://www.wikidata.org/entity/Q525169,grid.16821.3c,
+231,201-300,"9-18  ","Simon Fraser University",Simon-Fraser-University,canada,"",0,0,14.4,"10.3        ",33.9,17.4,http://www.wikidata.org/entity/Q201603,grid.61971.38,
+232,201-300,"2  ","State University of Campinas",State-University-of-Campinas,brazil,"",0,0,7.2,"7.9        ",43.1,20.5,,grid.411087.b,100
+233,201-300,"90-110  ","State University of New York at Buffalo",State-University-of-New-York-at-Buffalo,unitedstates,"",0,0,16.1,"7.7        ",38.6,14.6,,grid.273335.3,103
+234,201-300,"15-23  ","Technical University of Berlin",Technical-University-of-Berlin,germany,"",18.6,0,16.1,"6.8        ",28.9,16.7,http://www.wikidata.org/entity/Q51985,grid.6734.6,
+235,201-300,"90-110  ","The George Washington University",The-George-Washington-University,unitedstates,"",13.2,0,12.5,"10.6        ",34,15.9,http://www.wikidata.org/entity/Q432637,grid.253615.6,
+236,201-300,"2-4  ","The Hong Kong Polytechnic University",The-Hong-Kong-Polytechnic-University,"hongkong,china","",0,0,14.4,"3.4        ",40.7,18.8,http://www.wikidata.org/entity/Q1187271,grid.16890.36,
+237,201-300,"2-4  ","The Hong Kong University of Science and Technology",The-Hong-Kong-University-of-Science-and-Technology,"hongkong,china","",0,0,17.7,"5.8        ",30.9,22.2,http://www.wikidata.org/entity/Q1333303,grid.24515.37,
+238,201-300,"8-9  ","The University of Adelaide",The-University-of-Adelaide,australia,"",16.6,0,10.2,"12.2        ",38.3,22.3,http://www.wikidata.org/entity/Q15574,grid.1010.0,
+239,201-300,"1-2  ","The University of Auckland",The-University-of-Auckland,newzealand,"",15.6,0,10.2,"13.8        ",38.4,18.8,http://www.wikidata.org/entity/Q492467,grid.9654.e,
+240,201-300,"90-110  ","The University of Connecticut - Storrs",The-University-of-Connecticut---Storrs,unitedstates,"",13.2,0,15.3,"11.1        ",36,13.6,,grid.63054.34,103
+241,201-300,"2-4  ","The University of Hong Kong",The-University-of-Hong-Kong,"hongkong,china","",0,0,14.4,"11.1        ",44.8,20.7,http://www.wikidata.org/entity/Q15568,grid.194645.b,
+242,201-300,"90-110  ","The University of New Mexico - Albuquerque",The-University-of-New-Mexico---Albuquerque,unitedstates,"",0,0,12.5,"18.7        ",34.3,14.4,http://www.wikidata.org/entity/Q1190812,grid.266832.b,
+243,201-300,"20-29  ","The University of Reading",The-University-of-Reading,unitedkingdom,"",0,0,14.4,"16.5        ",27.9,17.9,http://www.wikidata.org/entity/Q1432632,grid.9435.b,
+244,201-300,"90-110  ","The University of Texas Health Science Center at San Antonio",The-University-of-Texas-Health-Science-Center-at-San-Antonio,unitedstates,"",0,0,22.8,"5.8        ",28.8,16.7,http://www.wikidata.org/entity/Q4005868,grid.267309.9,
+245,201-300,"1  ","Trinity College Dublin",Trinity-College-Dublin,ireland,"",11.8,14.1,7.2,"11.4        ",31.5,17.5,http://www.wikidata.org/entity/Q258464,grid.8217.c,
+246,201-300,"5-8  ","Umea University",Umea-University,sweden,"",0,0,14.4,"12.1        ",33.9,16.5,http://www.wikidata.org/entity/Q1144565,grid.12650.30,
+247,201-300,"20-29  ","University of Aberdeen",University-of-Aberdeen,unitedkingdom,"",0,0,10.2,"13.4        ",34,18.5,http://www.wikidata.org/entity/Q270532,grid.7107.1,
+248,201-300,"5-6  ","University of Antwerp",University-of-Antwerp,belgium,"",0,0,10.2,"11.4        ",33.5,24.5,http://www.wikidata.org/entity/Q175241,grid.5284.b,
+249,201-300,"1-4  ","University of Barcelona",University-of-Barcelona,spain,"",0,0,10.2,"13.8        ",49.8,15.3,http://www.wikidata.org/entity/Q219615,grid.5841.8,
+250,201-300,"2-3  ","University of Bergen",University-of-Bergen,norway,"",0,0,7.2,"15.3        ",35.5,17.6,http://www.wikidata.org/entity/Q204457,grid.7914.b,
+251,201-300,"15-23  ","University of Bochum",University-of-Bochum,germany,"",0,0,12.5,"10.4        ",37,18.6,http://www.wikidata.org/entity/Q309948,grid.5570.7,
+252,201-300,"5-8  ","University of Bologna",University-of-Bologna,italy,"",0,0,10.2,"11.3        ",47.7,15.5,http://www.wikidata.org/entity/Q131262,grid.6292.f,
+253,201-300,"1  ","University of Cape Town",University-of-Cape-Town,southafrica,"",21.2,0,10.2,"13.1        ",34.7,19,http://www.wikidata.org/entity/Q951305,grid.7836.a,
+254,201-300,"90-110  ","University of Central Florida",University-of-Central-Florida,unitedstates,"",0,0,15.3,"11.6        ",29.6,16.4,http://www.wikidata.org/entity/Q143451,grid.170430.1,
+255,201-300,"90-110  ","University of Cincinnati",University-of-Cincinnati,unitedstates,"",0,0,22.8,"9.5        ",40.9,14.5,http://www.wikidata.org/entity/Q153265,grid.24827.3b,
+256,201-300,"90-110  ","University of Colorado at Denver",University-of-Colorado-at-Denver,unitedstates,"",0,0,17.7,"13.7        ",39,14.3,http://www.wikidata.org/entity/Q1468161,grid.241116.1,
+257,201-300,"15-23  ","University of Duesseldorf",University-of-Duesseldorf,germany,"",13.2,0,11.4,"12.1        ",31.2,16.9,http://www.wikidata.org/entity/Q317032,grid.411327.2,
+258,201-300,"20-29  ","University of Durham",University-of-Durham,unitedkingdom,"",0,0,19.1,"16.8        ",33.3,20.2,,grid.8250.f,103
+259,201-300,"20-29  ","University of East Anglia",University-of-East-Anglia,unitedkingdom,"",15.6,0,16.1,"17.0        ",28.4,21.6,http://www.wikidata.org/entity/Q1045828,grid.8273.e,
+260,201-300,"15-23  ","University of Erlangen-Nuremberg",University-of-Erlangen-Nuremberg,germany,"",0,0,14.4,"14.0        ",39.6,20.5,http://www.wikidata.org/entity/Q40025,grid.5330.5,
+261,201-300,"5-8  ","University of Florence",University-of-Florence,italy,"",0,0,16.1,"13.5        ",38.5,15.4,http://www.wikidata.org/entity/Q820887,grid.8404.8,
+262,201-300,"5-8  ","University of Gothenburg",University-of-Gothenburg,sweden,"",0,15.4,7.2,"9.7        ",39.9,16.9,http://www.wikidata.org/entity/Q371522,grid.8761.8,
+263,201-300,"9-18  ","University of Guelph",University-of-Guelph,canada,"",0,0,16.1,"14.9        ",32.7,18.4,http://www.wikidata.org/entity/Q795988,grid.34429.38,
+264,201-300,"90-110  ","University of Houston",University-of-Houston,unitedstates,"",0,0,20.4,"12.8        ",34.3,18.6,http://www.wikidata.org/entity/Q1472358,grid.266436.3,
+265,201-300,"2-3  ","University of Innsbruck",University-of-Innsbruck,austria,"",0,10.9,7.2,"15.1        ",24.7,21,http://www.wikidata.org/entity/Q875788,grid.5771.4,
+266,201-300,"90-110  ","University of Kentucky",University-of-Kentucky,unitedstates,"",11.8,0,7.2,"11.1        ",41.6,13.4,http://www.wikidata.org/entity/Q1360303,grid.266539.d,
+267,201-300,"7  ","University of Lausanne",University-of-Lausanne,switzerland,"",0,0,11.4,"19.3        ",31.4,18.2,http://www.wikidata.org/entity/Q658975,grid.9851.5,
+268,201-300,"20-29  ","University of Leicester",University-of-Leicester,unitedkingdom,"",0,0,19.1,"17.1        ",31.9,19.3,http://www.wikidata.org/entity/Q1333399,grid.9918.9,
+269,201-300,"15-23  ","University of Leipzig",University-of-Leipzig,germany,"",13.2,15.4,0,"9.8        ",34.4,18.5,http://www.wikidata.org/entity/Q154804,grid.9647.c,
+270,201-300,"5-6  ","University of Liege",University-of-Liege,belgium,"",8.3,0,10.2,"12.3        ",31.8,21.8,http://www.wikidata.org/entity/Q1334582,grid.4861.b,
+271,201-300,"9-13  ","University of Lorraine",University-of-Lorraine,france,"",13.2,18.9,0,"11.3        ",33.8,11.9,http://www.wikidata.org/entity/Q4173330,grid.29172.3f,
+272,201-300,"10  ","University of Maastricht",University-of-Maastricht,netherlands,"",0,0,7.2,"7.9        ",40,22.4,,grid.5012.6,103
+273,201-300,"9-18  ","University of Manitoba",University-of-Manitoba,canada,"",0,0,16.1,"9.3        ",34.5,15.4,http://www.wikidata.org/entity/Q1191833,grid.21613.37,
+274,201-300,"15-23  ","University of Marburg",University-of-Marburg,germany,"",11.8,0,14.4,"15.3        ",30.8,17.6,http://www.wikidata.org/entity/Q155354,grid.10253.35,
+275,201-300,"90-110  ","University of Medicine and Dentistry New Jersey",University-of-Medicine-and-Dentistry-New-Jersey,unitedstates,"",0,0,21.7,"12.3        ",30.6,13.9,,Manual_1,103
+276,201-300,"90-110  ","University of Missouri - Columbia",University-of-Missouri---Columbia,unitedstates,"",10.2,0,7.2,"12.8        ",39.5,13.5,http://www.wikidata.org/entity/Q579968,grid.134936.a,
+277,201-300,"9-13  ","University of Montpellier 2",University-of-Montpellier-2,france,"",11.8,0,12.5,"16.6        ",31.4,17,,grid.121334.6,103
+278,201-300,"90-110  ","University of Notre Dame",University-of-Notre-Dame,unitedstates,"",14.4,0,17.7,"14.3        ",30.3,18.5,http://www.wikidata.org/entity/Q178848,grid.131063.6,
+279,201-300,"90-110  ","University of Oregon",University-of-Oregon,unitedstates,"",10.2,0,10.2,"19.7        ",24.8,17.6,http://www.wikidata.org/entity/Q766145,grid.170202.6,
+280,201-300,"1-2  ","University of Otago",University-of-Otago,newzealand,"",0,0,14.4,"11.1        ",35.2,26,http://www.wikidata.org/entity/Q1201513,grid.29980.3a,
+281,201-300,"9-18  ","University of Ottawa",University-of-Ottawa,canada,"",0,0,7.2,"14.4        ",42.4,17.6,http://www.wikidata.org/entity/Q627969,grid.28046.38,
+282,201-300,"9-13  ","University of Paris Dauphine (Paris 9)",University-of-Paris-Dauphine-(Paris-9),france,"",17.6,26.7,7.2,"0.0        ",12.1,21.7,,grid.11024.36,103
+283,201-300,"9-18  ","University of Saskatchewan",University-of-Saskatchewan,canada,"",10.2,0,16.1,"8.0        ",32.5,15.5,http://www.wikidata.org/entity/Q1514848,grid.25152.31,
+284,201-300,"2-7  ","University of Science and Technology of China",University-of-Science-and-Technology-of-China,china,"",0,0,7.2,"12.3        ",42.9,20.8,http://www.wikidata.org/entity/Q1074103,grid.59053.3a,
+285,201-300,"90-110  ","University of South Carolina - Columbia",University-of-South-Carolina---Columbia,unitedstates,"",0,0,16.1,"12.3        ",34.2,14.6,http://www.wikidata.org/entity/Q1024426,grid.254567.7,
+286,201-300,"90-110  ","University of South Florida",University-of-South-Florida,unitedstates,"",0,0,12.5,"11.7        ",39,16.1,http://www.wikidata.org/entity/Q500606,grid.170693.a,
+287,201-300,"4  ","University of Southern Denmark",University-of-Southern-Denmark,denmark,"",0,0,14.4,"10.3        ",32.8,17.2,http://www.wikidata.org/entity/Q2166335,grid.10825.3e,
+288,201-300,"20-29  ","University of St Andrews",University-of-St-Andrews,unitedkingdom,"",11.8,0,7.2,"20.7        ",29.7,23.3,http://www.wikidata.org/entity/Q216273,grid.11914.3c,
+289,201-300,"15-23  ","University of Stuttgart",University-of-Stuttgart,germany,"",21.2,0,10.2,"15.1        ",27.9,16.8,http://www.wikidata.org/entity/Q122453,grid.5719.a,
+290,201-300,"5-8  ","University of Turin",University-of-Turin,italy,"",17.6,0,12.5,"7.6        ",39.8,17.1,http://www.wikidata.org/entity/Q499911,grid.7605.4,
+291,201-300,"1-4  ","University of Valencia",University-of-Valencia,spain,"",0,0,7.2,"10.6        ",39.8,12.6,http://www.wikidata.org/entity/Q383568,grid.5338.d,
+292,201-300,"90-110  ","University of Vermont",University-of-Vermont,unitedstates,"",15.6,0,14.4,"8.0        ",27.8,15,http://www.wikidata.org/entity/Q1048898,grid.59062.38,
+293,201-300,"9-18  ","University of Victoria",University-of-Victoria,canada,"",0,0,14.4,"11.3        ",30.2,18,http://www.wikidata.org/entity/Q1458113,grid.143640.4,
+294,201-300,"20-29  ","University of York",University-of-York,unitedkingdom,"",0,0,17.7,"12.9        ",31.8,20.1,http://www.wikidata.org/entity/Q967165,grid.5685.e,
+295,201-300,"90-110  ","Washington State University - Pullman",Washington-State-University---Pullman,unitedstates,"",0,0,20.4,"12.8        ",31.8,16.1,,grid.30064.31,103
+296,201-300,"9-18  ","Western University",Western-University,canada,"",0,0,8.8,"14.7        ",44.6,17.8,http://www.wikidata.org/entity/Q1144262,grid.39381.30,
+297,201-300,"90-110  ","Yeshiva University",Yeshiva-University,unitedstates,"",0,0,12.5,"16.0        ",34.2,19.6,http://www.wikidata.org/entity/Q1048851,grid.268433.8,
+298,201-300,"2-3  ","Yonsei University",Yonsei-University,southkorea,"",0,0,7.2,"9.4        ",52.1,20.5,http://www.wikidata.org/entity/Q39988,grid.15444.30,
+299,201-300,"2-7  ","Zhejiang University",Zhejiang-University,china,"",0,0,0,"10.5        ",59.6,15.3,http://www.wikidata.org/entity/Q197543,grid.13402.34,
+300,301-400,"2  ","Aristotle University of Thessaloniki",Aristotle-University-of-Thessaloniki,greece,"",0,0,10.2,"3.5        ",35.4,17.1,http://www.wikidata.org/entity/Q667568,grid.4793.9,
+301,301-400,"5-6  ","Autonomous University of Barcelona",Autonomous-University-of-Barcelona,spain,"",0,0,0,"11.2        ",41.4,15.8,http://www.wikidata.org/entity/Q43452,grid.7080.f,
+302,301-400,"5-6  ","Bar-Ilan University",Bar-Ilan-University,israel,"",0,0,14.4,"8.9        ",28.1,15.1,http://www.wikidata.org/entity/Q1124657,grid.22098.31,
+303,301-400,"5-6  ","Ben-Gurion University of the Negev",Ben-Gurion-University-of-the-Negev,israel,"",0,0,7.2,"8.8        ",34.7,16.9,http://www.wikidata.org/entity/Q737332,grid.7489.2,
+304,301-400,"111-137  ","Brigham Young University",Brigham-Young-University,unitedstates,"",10.2,0,14.4,"4.0        ",26.4,11.9,http://www.wikidata.org/entity/Q332498,grid.253294.b,
+305,301-400,"8-12  ","China Agricultural University",China-Agricultural-University,china,"",0,0,0,"9.6        ",36.9,14.8,http://www.wikidata.org/entity/Q257655,grid.22935.3f,
+306,301-400,"5  ","City University of Hong Kong",City-University-of-Hong-Kong,"hongkong,china","",0,0,13.5,"0.0        ",36.9,20.1,http://www.wikidata.org/entity/Q787360,grid.35030.35,
+307,301-400,"111-137  ","City University of New York City College",City-University-of-New-York-City-College,unitedstates,"",32.8,0,10.2,"8.4        ",17.5,18.7,http://www.wikidata.org/entity/Q1093910,grid.254250.4,
+308,301-400,"111-137  ","Clemson University",Clemson-University,unitedstates,"",0,0,12.5,"6.4        ",28.1,14,http://www.wikidata.org/entity/Q631066,grid.26090.3d,
+309,301-400,"111-137  ","Drexel University",Drexel-University,unitedstates,"",0,0,7.2,"11.2        ",30.2,17.4,http://www.wikidata.org/entity/Q603034,grid.166341.7,
+310,301-400,"14-17  ","Ecole Polytechnique",Ecole-Polytechnique,france,"",19.5,0,7.2,"9.4        ",26.9,20,http://www.wikidata.org/entity/Q273626,grid.10877.39,
+311,301-400,"11-12  ","Eindhoven University of Technology",Eindhoven-University-of-Technology,netherlands,"",0,0,7.2,"6.9        ",32.3,19.5,http://www.wikidata.org/entity/Q280824,grid.6852.9,
+312,301-400,"1-2  ","Eotvos Lorand University",Eotvos-Lorand-University,hungary,"",15.6,0,10.2,"9.5        ",22.9,13.3,http://www.wikidata.org/entity/Q390287,grid.5591.8,
+313,301-400,"3-5  ","Federal University of Minas Gerais",Federal-University-of-Minas-Gerais,brazil,"",0,0,7.2,"5.5        ",35.6,16.9,http://www.wikidata.org/entity/Q132140,grid.8430.f,
+314,301-400,"3-5  ","Federal University of Rio de Janeiro",Federal-University-of-Rio-de-Janeiro,brazil,"",0,0,0,"11.1        ",40.6,19.4,http://www.wikidata.org/entity/Q586904,grid.8536.8,
+315,301-400,"10-13  ","Flinders University",Flinders-University,australia,"",17.6,0,10.2,"5.2        ",25.9,20.4,http://www.wikidata.org/entity/Q15575,grid.1014.4,
+316,301-400,"111-137  ","Georgetown University",Georgetown-University,unitedstates,"",0,0,12.5,"6.1        ",32.7,16.9,http://www.wikidata.org/entity/Q333886,grid.213910.8,
+317,301-400,"4-7  ","Hanyang University",Hanyang-University,southkorea,"",0,0,0,"6.7        ",36.9,18.5,http://www.wikidata.org/entity/Q40006,grid.49606.3d,
+318,301-400,"11-16  ","Hiroshima University",Hiroshima-University,japan,"",0,0,10.2,"12.8        ",33.9,11.8,http://www.wikidata.org/entity/Q115220,grid.257022.0,
+319,301-400,"8-12  ","Huazhong University of Science and Technology",Huazhong-University-of-Science-and-Technology,china,"",0,0,0,"4.8        ",42.6,12.6,http://www.wikidata.org/entity/Q1711196,grid.33199.31,
+320,301-400,"1  ","Indian Institute of Science",Indian-Institute-of-Science,india,"",0,0,14.4,"6.2        ",33.5,17.1,http://www.wikidata.org/entity/Q948720,grid.34980.36,
+321,301-400,"111-137  ","Indiana University-Purdue University at Indianapolis",Indiana-University-Purdue-University-at-Indianapolis,unitedstates,"",0,0,0,"6.8        ",39.4,12.6,http://www.wikidata.org/entity/Q1433199,grid.257413.6,
+322,301-400,"14-17  ","Industrial Physics and Chemistry Higher Educational Institution - Paris",Industrial-Physics-and-Chemistry-Higher-Educational-Institution---Paris,france,"",8.3,18.9,0,"10.7        ",15.7,27.6,,grid.15736.36,103
+323,301-400,"1  ","Istanbul University",Istanbul-University,turkey,"",15.6,0,0,"3.4        ",34.3,16.7,http://www.wikidata.org/entity/Q192964,grid.9601.e,
+324,301-400,"1-2  ","Jagiellonian University",Jagiellonian-University,poland,"",11.8,0,7.2,"7.5        ",31.3,15.7,http://www.wikidata.org/entity/Q189441,grid.5522.0,
+325,301-400,"10-13  ","James Cook University",James-Cook-University,australia,"",0,0,10.2,"13.4        ",24.8,21.1,http://www.wikidata.org/entity/Q536512,grid.1011.1,
+326,301-400,"11-16  ","Kanazawa University",Kanazawa-University,japan,"",0,0,10.2,"9.7        ",26.4,14.2,http://www.wikidata.org/entity/Q684783,grid.9707.9,
+327,301-400,"111-137  ","Kansas State University",Kansas-State-University,unitedstates,"",0,0,14.4,"7.8        ",29.4,13.5,http://www.wikidata.org/entity/Q31249,grid.36567.31,
+328,301-400,"24-32  ","Karlsruhe Institute of Technology (KIT)",Karlsruhe-Institute-of-Technology-(KIT),germany,"",0,0,10.2,"14.7        ",30.4,16.3,http://www.wikidata.org/entity/Q309988,grid.7892.4,
+329,301-400,"2  ","King Fahd University of Petroleum & Minerals",King-Fahd-University-of-Petroleum--Minerals,saudiarabia,"",0,0,27.5,"0.0        ",18.9,17.6,http://www.wikidata.org/entity/Q4116241,grid.412135.0,
+330,301-400,"11-16  ","Kobe University",Kobe-University,japan,"",0,0,10.2,"14.0        ",30.7,14,http://www.wikidata.org/entity/Q1192597,grid.31432.37,
+331,301-400,"4-7  ","Korea University",Korea-University,southkorea,"",0,0,0,"7.1        ",46.7,18.7,http://www.wikidata.org/entity/Q39997,grid.222754.4,
+332,301-400,"4-5  ","Medical University of Innsbruck",Medical-University-of-Innsbruck,austria,"",0,0,12.5,"5.8        ",24.2,22.3,http://www.wikidata.org/entity/Q686772,grid.5361.1,
+333,301-400,"111-137  ","Medical University of South Carolina",Medical-University-of-South-Carolina,unitedstates,"",0,0,14.4,"5.6        ",30.9,18.7,http://www.wikidata.org/entity/Q6806451,grid.259828.c,
+334,301-400,"3-4  ","National Chiao Tung University",National-Chiao-Tung-University,"taiwan,china","",0,0,7.2,"6.5        ",36.4,19.5,http://www.wikidata.org/entity/Q43401,grid.260539.b,
+335,301-400,"3-4  ","National Tsing Hua University",National-Tsing-Hua-University,"taiwan,china","",14.4,0,0,"9.4        ",33.8,19.9,http://www.wikidata.org/entity/Q43406,grid.38348.34,
+336,301-400,"111-137  ","Northeastern University",Northeastern-University,unitedstates,"",0,0,7.2,"13.2        ",26.5,15.3,,grid.261112.7,100
+337,301-400,"11-16  ","Okayama University",Okayama-University,japan,"",0,0,7.2,"13.1        ",31,12.2,http://www.wikidata.org/entity/Q1067916,grid.261356.5,
+338,301-400,"4-7  ","Pohang University of Science and Technology",Pohang-University-of-Science-and-Technology,southkorea,"",0,0,0,"11.3        ",30.7,30.2,http://www.wikidata.org/entity/Q40018,grid.49100.3c,
+339,301-400,"5-6  ","Polytechnic University of Valencia",Polytechnic-University-of-Valencia,spain,"",0,0,5.1,"12.7        ",29.4,14.4,http://www.wikidata.org/entity/Q2003976,grid.157927.f,
+340,301-400,"30-33  ","Queen's University Belfast",Queens-University,unitedkingdom,"",20.4,0,0,"12.4        ",32.8,17,http://www.wikidata.org/entity/Q1420038,grid.4777.3,
+341,301-400,"111-137  ","Saint Louis University",Saint-Louis-University,unitedstates,"",0,12.6,10.2,"5.2        ",25,12.3,http://www.wikidata.org/entity/Q734774,grid.262962.b,
+342,301-400,"2  ","Saint Petersburg State University",Saint-Petersburg-State-University,russia,"",30.6,0,0,"4.8        ",26.8,16,http://www.wikidata.org/entity/Q27621,grid.15447.33,
+343,301-400,"111-137  ","San Diego State University",San-Diego-State-University,unitedstates,"",0,0,14.4,"13.5        ",27.4,16.3,http://www.wikidata.org/entity/Q913861,grid.263081.e,
+344,301-400,"3-5  ","Sao Paulo State University",Sao-Paulo-State-University,brazil,"",0,0,0,"5.5        ",42.2,19.6,,grid.410543.7,100
+345,301-400,"9-13  ","Scuola Normale Superiore - Pisa",Scuola-Normale-Superiore---Pisa,italy,"",0,0,14.4,"6.4        ",16.7,44.9,http://www.wikidata.org/entity/Q672416,grid.6093.c,
+346,301-400,"8-12  ","Shandong University",Shandong-University,china,"",0,0,0,"4.5        ",43.1,11.8,http://www.wikidata.org/entity/Q604470,grid.27255.37,
+347,301-400,"8-12  ","Sichuan University",Sichuan-University,china,"",0,0,0,"2.6        ",45.6,12.2,http://www.wikidata.org/entity/Q2281517,grid.13291.38,
+348,301-400,"111-137  ","State University of New York at Albany",State-University-of-New-York-at-Albany,unitedstates,"",0,0,16.1,"6.1        ",27.2,17.3,,grid.265850.c,103
+349,301-400,"111-137  ","State University of New York Health Science Center at Brooklyn",State-University-of-New-York-Health-Science-Center-at-Brooklyn,unitedstates,"",0,15.4,10.2,"7.6        ",17,17.1,http://www.wikidata.org/entity/Q3246712,grid.262863.b,
+350,301-400,"9-10  ","Stockholm School of Economics",Stockholm-School-of-Economics,sweden,"",0,16.6,0,"",10.4,37,http://www.wikidata.org/entity/Q1061504,grid.419684.6,
+351,301-400,"8-12  ","Sun Yat-sen University",Sun-Yat-sen-University,china,"",0,0,0,"4.5        ",44.2,14,http://www.wikidata.org/entity/Q178972,grid.12981.33,
+352,301-400,"4-7  ","Sungkyunkwan University",Sungkyunkwan-University,southkorea,"",0,0,0,"10.0        ",43.5,18.8,http://www.wikidata.org/entity/Q41085,grid.264381.a,
+353,301-400,"9-10  ","Swedish University of Agricultural Sciences",Swedish-University-of-Agricultural-Sciences,sweden,"",0,0,12.5,"12.2        ",27.7,21,http://www.wikidata.org/entity/Q1312762,grid.6341.0,
+354,301-400,"111-137  ","Syracuse University",Syracuse-University,unitedstates,"",0,0,16.1,"8.9        ",24.5,13.3,http://www.wikidata.org/entity/Q617433,grid.264484.8,
+355,301-400,"24-32  ","Technical University Darmstadt",Technical-University-Darmstadt,germany,"",16.6,0,7.2,"7.5        ",28.3,14.9,http://www.wikidata.org/entity/Q310695,grid.6546.1,
+356,301-400,"111-137  ","Temple University",Temple-University,unitedstates,"",0,0,12.5,"7.5        ",32.5,11.2,http://www.wikidata.org/entity/Q1420239,grid.264727.2,
+357,301-400,"30-33  ","The University of Dundee",The-University-of-Dundee,unitedkingdom,"",0,0,16.1,"11.0        ",26.1,16.7,http://www.wikidata.org/entity/Q1249005,grid.8241.f,
+358,301-400,"111-137  ","The University of Montana - Missoula",The-University-of-Montana---Missoula,unitedstates,"",5.9,0,14.4,"13.3        ",17.1,15.5,,grid.253613.0,103
+359,301-400,"111-137  ","The University of Texas at Dallas",The-University-of-Texas-at-Dallas,unitedstates,"",0,0,10.2,"13.7        ",25.2,20.3,http://www.wikidata.org/entity/Q1781394,grid.267323.1,
+360,301-400,"111-137  ","The University of Texas Medical Branch at Galveston",The-University-of-Texas-Medical-Branch-at-Galveston,unitedstates,"",0,0,17.7,"7.6        ",24.1,14.7,http://www.wikidata.org/entity/Q921264,grid.176731.5,
+361,301-400,"111-137  ","Thomas Jefferson University",Thomas-Jefferson-University,unitedstates,"",0,0,17.7,"4.8        ",27.7,26.9,http://www.wikidata.org/entity/Q2471216,grid.265008.9,
+362,301-400,"11-16  ","Tokyo Medical and Dental University",Tokyo-Medical-and-Dental-University,japan,"",0,0,7.2,"14.1        ",24.8,13.6,http://www.wikidata.org/entity/Q3180921,grid.265073.5,
+363,301-400,"111-137  ","Tulane University",Tulane-University,unitedstates,"",0,0,14.4,"12.6        ",28.4,16.1,http://www.wikidata.org/entity/Q1193547,grid.265219.b,
+364,301-400,"2-3  ","University College Cork",University-College-Cork,ireland,"",0,0,16.1,"6.8        ",25.5,14.3,http://www.wikidata.org/entity/Q1574185,grid.7872.a,
+365,301-400,"2-3  ","University College Dublin",University-College-Dublin,ireland,"",0,0,7.2,"11.6        ",35.5,17.6,http://www.wikidata.org/entity/Q1068258,grid.7886.1,
+366,301-400,"111-137  ","University of Alaska - Fairbanks",University-of-Alaska---Fairbanks,unitedstates,"",0,0,14.4,"12.5        ",20,15.4,http://www.wikidata.org/entity/Q1285262,grid.70738.3b,
+367,301-400,"30-33  ","University of Bath",University-of-Bath,unitedkingdom,"",0,0,10.2,"12.3        ",30.1,19.5,http://www.wikidata.org/entity/Q1422458,grid.7340.0,
+368,301-400,"24-32  ","University of Bielefeld",University-of-Bielefeld,germany,"",0,0,14.4,"9.4        ",25.1,14,,grid.7491.b,103
+369,301-400,"14-17  ","University of Bordeaux 1",University-of-Bordeaux-1,france,"",0,0,12.5,"14.7        ",23.8,14.1,,grid.412041.2,103
+370,301-400,"24-32  ","University of Duisburg-Essen",University-of-Duisburg-Essen,germany,"",0,0,7.2,"8.4        ",30.5,15,http://www.wikidata.org/entity/Q696757,grid.5718.b,
+371,301-400,"30-33  ","University of Exeter",University-of-Exeter,unitedkingdom,"",0,0,0,"19.5        ",31.5,19.7,http://www.wikidata.org/entity/Q1414861,grid.8391.3,
+372,301-400,"9-13  ","University of Genova",University-of-Genova,italy,"",0,0,14.4,"4.3        ",30.5,12.9,,grid.5606.5,103
+373,301-400,"4-5  ","University of Graz",University-of-Graz,austria,"",8.3,12.6,0,"8.4        ",20.7,17.9,http://www.wikidata.org/entity/Q622683,grid.5110.5,
+374,301-400,"24-32  ","University of Halle-Wittenberg",University-of-Halle-Wittenberg,germany,"",0,8.9,7.2,"11.7        ",27.8,14.9,http://www.wikidata.org/entity/Q32120,grid.9018.0,
+375,301-400,"24-32  ","University of Jena",University-of-Jena,germany,"",0,0,0,"12.1        ",34.1,16.7,http://www.wikidata.org/entity/Q154561,grid.9613.d,
+376,301-400,"24-32  ","University of Konstanz",University-of-Konstanz,germany,"",0,0,14.4,"11.6        ",23,13.6,http://www.wikidata.org/entity/Q835440,grid.9811.1,
+377,301-400,"9-13  ","University of Naples Federico II",University-of-Naples-Federico-II,italy,"",0,0,7.2,"5.2        ",39.6,11.6,http://www.wikidata.org/entity/Q691851,grid.4691.a,
+378,301-400,"111-137  ","University of Nebraska Medical Center",University-of-Nebraska-Medical-Center,unitedstates,"",0,0,16.1,"8.0        ",22.5,13.6,http://www.wikidata.org/entity/Q7895888,grid.266813.8,
+379,301-400,"111-137  ","University of New Hampshire - Durham",University-of-New-Hampshire---Durham,unitedstates,"",0,0,14.4,"14.3        ",21.9,15.3,http://www.wikidata.org/entity/Q49207,grid.167436.1,
+380,301-400,"10-13  ","University of Newcastle",University-of-Newcastle,australia,"",0,0,12.5,"6.1        ",29.3,20.3,,grid.266842.c,103
+381,301-400,"111-137  ","University of Oklahoma - Norman",University-of-Oklahoma---Norman,unitedstates,"",0,0,10.2,"10.5        ",28.6,13.6,http://www.wikidata.org/entity/Q640652,grid.266900.b,
+382,301-400,"2-3  ","University of Oulu",University-of-Oulu,finland,"",13.2,0,7.2,"8.0        ",29.7,15.2,http://www.wikidata.org/entity/Q1357517,grid.10858.34,
+383,301-400,"9-13  ","University of Palermo",University-of-Palermo,italy,"",0,0,12.5,"6.0        ",28.2,11.6,http://www.wikidata.org/entity/Q1641504,grid.10776.37,
+384,301-400,"1  ","University of Porto",University-of-Porto,portugal,"",0,0,0,"6.8        ",37.4,17.5,http://www.wikidata.org/entity/Q1422903,grid.5808.5,
+385,301-400,"24-32  ","University of Regensburg",University-of-Regensburg,germany,"",0,0,7.2,"10.4        ",30.4,15.2,http://www.wikidata.org/entity/Q574571,grid.7727.5,
+386,301-400,"14-17  ","University of Rennes 1",University-of-Rennes-1,france,"",0,0,7.2,"11.9        ",28.3,10.8,http://www.wikidata.org/entity/Q726595,grid.410368.8,
+387,301-400,"111-137  ","University of Rhode Island",University-of-Rhode-Island,unitedstates,"",0,0,20.4,"10.0        ",18.5,15.8,http://www.wikidata.org/entity/Q1641788,grid.20431.34,
+388,301-400,"9-13  ","University of Roma - Tor Vergata",University-of-Roma---Tor-Vergata,italy,"",0,0,0,"10.3        ",34.7,16.8,http://www.wikidata.org/entity/Q1031803,grid.6530.0,
+389,301-400,"1-2  ","University of Szeged",University-of-Szeged,hungary,"",0,15.4,7.2,"6.8        ",21.3,13,http://www.wikidata.org/entity/Q369839,grid.9008.1,
+390,301-400,"10-13  ","University of Tasmania",University-of-Tasmania,australia,"",0,0,7.2,"11.8        ",26,19,http://www.wikidata.org/entity/Q962011,grid.1009.8,
+391,301-400,"1  ","University of Tehran",University-of-Tehran,iran,"",14.4,0,0,"0.0        ",37.1,17.7,http://www.wikidata.org/entity/Q737835,grid.46072.37,
+392,301-400,"2  ","University of the Witwatersrand",University-of-the-Witwatersrand,southafrica,"",21.2,0,0,"11.2        ",29.9,16.3,http://www.wikidata.org/entity/Q534643,grid.11951.3d,
+393,301-400,"2-3  ","University of Turku",University-of-Turku,finland,"",0,0,12.5,"6.8        ",33.1,16.6,http://www.wikidata.org/entity/Q501841,grid.1374.1,
+394,301-400,"11-12  ","University of Twente",University-of-Twente,netherlands,"",0,0,10.2,"6.9        ",30.2,18.7,http://www.wikidata.org/entity/Q1547084,grid.6214.1,
+395,301-400,"24-32  ","University of Ulm",University-of-Ulm,germany,"",0,0,7.2,"10.1        ",31.5,15.6,http://www.wikidata.org/entity/Q835662,grid.6582.9,
+396,301-400,"1-2  ","University of Warsaw",University-of-Warsaw,poland,"",17.6,0,0,"8.4        ",35.1,17.6,http://www.wikidata.org/entity/Q144488,grid.12847.38,
+397,301-400,"111-137  ","Wake Forest University",Wake-Forest-University,unitedstates,"",0,0,12.5,"8.3        ",31.8,13.1,http://www.wikidata.org/entity/Q392667,grid.241167.7,
+398,301-400,"11-16  ","Waseda University",Waseda-University,japan,"",0,0,12.5,"8.0        ",28.5,11.2,http://www.wikidata.org/entity/Q274486,grid.5290.e,
+399,301-400,"111-137  ","Wayne State University",Wayne-State-University,unitedstates,"",0,0,7.2,"11.2        ",38.5,13.3,http://www.wikidata.org/entity/Q349055,grid.254444.7,
+400,401-500,"138-151  ","Auburn University",Auburn-University,unitedstates,"",0,0,7.2,"4.8        ",28.5,11.8,http://www.wikidata.org/entity/Q540672,grid.252546.2,
+401,401-500,"13-23  ","Beijing Normal University",Beijing-Normal-University,china,"",0,0,0,"6.6        ",31.5,12.1,http://www.wikidata.org/entity/Q1604022,grid.20513.35,
+402,401-500,"13-23  ","Beijing University of Aeronautics and Astronautics",Beijing-University-of-Aeronautics-and-Astronautics,china,"",0,0,7.2,"3.4        ",30.7,12,,grid.64938.30,94
+403,401-500,"138-151  ","Boston College",Boston-College,unitedstates,"",0,0,7.2,"11.3        ",21.7,12.8,http://www.wikidata.org/entity/Q49118,grid.208226.c,
+404,401-500,"1  ","Cairo University",Cairo-University,egypt,"",22,0,0,"2.4        ",26.9,14.4,http://www.wikidata.org/entity/Q194445,grid.7776.1,
+405,401-500,"19-22  ","Carleton University",Carleton-University,canada,"",0,0,14.4,"1.5        ",25.7,14.5,http://www.wikidata.org/entity/Q1041737,grid.34428.39,
+406,401-500,"1-2  ","Catholic University of Chile",Catholic-University-of-Chile,chile,"",0,0,7.2,"9.9        ",27.2,13.7,http://www.wikidata.org/entity/Q1129925,grid.7870.8,
+407,401-500,"14-22  ","Catholic University of the Sacred Heart",Catholic-University-of-the-Sacred-Heart,italy,"",0,0,7.2,"4.8        ",28.9,13.9,http://www.wikidata.org/entity/Q229022,grid.8142.f,
+408,401-500,"5-7  ","Chang Gung University",Chang-Gung-University,"taiwan,china","",0,0,7.2,"2.6        ",33.2,18.9,http://www.wikidata.org/entity/Q2748799,grid.145695.a,
+409,401-500,"17-23  ","Chiba University",Chiba-University,japan,"",0,0,0,"9.6        ",29.4,11.8,http://www.wikidata.org/entity/Q1321803,grid.136304.3,
+410,401-500,"8-11  ","Chungnam National University",Chungnam-National-University,southkorea,"",0,0,0,"6.8        ",30.7,15,http://www.wikidata.org/entity/Q489488,grid.254230.2,
+411,401-500,"14-19  ","Curtin University of Technology",Curtin-University-of-Technology,australia,"",0,0,0,"10.5        ",29.4,16.3,,grid.1032.0,103
+412,401-500,"13-23  ","Dalian University of Technology",Dalian-University-of-Technology,china,"",0,0,0,"2.1        ",37.7,15.1,http://www.wikidata.org/entity/Q1477368,grid.30055.33,
+413,401-500,"18-21  ","Ecole National Superieure Mines - Paris",Ecole-National-Superieure-Mines---Paris,france,"",15.6,25.2,0,"3.4        ",7.3,13.2,,grid.58140.38,103
+414,401-500,"18-21  ","Ecole Normale Superieure - Lyon",Ecole-Normale-Superieure---Lyon,france,"",0,0,7.2,"7.7        ",20.1,19,http://www.wikidata.org/entity/Q10159,grid.15140.31,
+415,401-500,"6-7  ","Federal University of Rio Grande do Sul",Federal-University-of-Rio-Grande-do-Sul,brazil,"",0,0,0,"2.4        ",37.8,17.5,http://www.wikidata.org/entity/Q766447,grid.8532.c,
+416,401-500,"6-7  ","Federal University of Sao Paulo",Federal-University-of-Sao-Paulo,brazil,"",0,0,0,"3.2        ",33.4,15.5,http://www.wikidata.org/entity/Q4384447,grid.411249.b,
+417,401-500,"14-19  ","Griffith University",Griffith-University,australia,"",0,0,0,"6.6        ",30.3,15.7,http://www.wikidata.org/entity/Q1202292,grid.1022.1,
+418,401-500,"33-39  ","Hannover Medical School",Hannover-Medical-School,germany,"",0,0,0,"6.6        ",31.6,14.9,http://www.wikidata.org/entity/Q911561,grid.10423.34,
+419,401-500,"13-23  ","Harbin Institute of Technology",Harbin-Institute-of-Technology,china,"",0,0,0,"0.0        ",42.6,12.5,http://www.wikidata.org/entity/Q632558,grid.19373.3f,
+420,401-500,"13-23  ","Jilin University",Jilin-University,china,"",0,0,0,"5.5        ",41,10.5,http://www.wikidata.org/entity/Q1432030,grid.64924.3d,
+421,401-500,"138-151  ","Kent State University",Kent-State-University,unitedstates,"",0,0,10.2,"13.6        ",21.6,13.2,http://www.wikidata.org/entity/Q1473615,grid.258518.3,
+422,401-500,"8-11  ","Kyung Hee University",Kyung-Hee-University,southkorea,"",0,0,0,"1.5        ",36.9,19.4,http://www.wikidata.org/entity/Q496536,grid.289247.2,
+423,401-500,"8-11  ","Kyungpook National University",Kyungpook-National-University,southkorea,"",0,0,0,"4.3        ",34.6,15.9,http://www.wikidata.org/entity/Q487841,grid.258803.4,
+424,401-500,"14-19  ","La Trobe University",La-Trobe-University,australia,"",0,0,7.2,"4.3        ",26.5,16.6,http://www.wikidata.org/entity/Q1478723,grid.1018.8,
+425,401-500,"13-23  ","Lanzhou University",Lanzhou-University,china,"",0,0,0,"6.5        ",35.3,16.2,http://www.wikidata.org/entity/Q4475799,grid.32566.34,
+426,401-500,"138-151  ","Lehigh University",Lehigh-University,unitedstates,"",0,0,12.5,"8.2        ",20.2,16.1,http://www.wikidata.org/entity/Q622137,grid.259029.5,
+427,401-500,"11  ","Linkoping University",Linkoping-University,sweden,"",0,0,7.2,"4.3        ",32.2,14.8,http://www.wikidata.org/entity/Q782600,grid.5640.7,
+428,401-500,"34-37  ","London School of Hygiene and Tropical Medicine",London-School-of-Hygiene-and-Tropical-Medicine,unitedkingdom,"",8.3,0,0,"4.3        ",31.4,22,,grid.8991.9,103
+429,401-500,"3-5  ","Massey University",Massey-University,newzealand,"",0,0,10.2,"4.0        ",26.9,14.8,http://www.wikidata.org/entity/Q1134606,grid.148374.d,
+430,401-500,"138-151  ","Medical College of Wisconsin",Medical-College-of-Wisconsin,unitedstates,"",0,0,7.2,"7.6        ",27.9,11.6,http://www.wikidata.org/entity/Q6806307,grid.30760.32,
+431,401-500,"6-7  ","Medical University of Graz",Medical-University-of-Graz,austria,"",0,10.9,7.2,"3.4        ",21.3,19.4,http://www.wikidata.org/entity/Q872543,grid.11598.34,
+432,401-500,"138-151  ","Montana State University - Bozeman",Montana-State-University---Bozeman,unitedstates,"",0,0,7.2,"11.5        ",19.7,14.9,,grid.41891.35,103
+433,401-500,"17-23  ","Nagasaki University",Nagasaki-University,japan,"",13.2,0,10.2,"3.5        ",22.4,10.3,http://www.wikidata.org/entity/Q114892,grid.174567.6,
+434,401-500,"13-23  ","Nankai University",Nankai-University,china,"",0,0,0,"8.3        ",35.3,12.7,http://www.wikidata.org/entity/Q254204,grid.216938.7,
+435,401-500,"17-23  ","Nara Institute of Science and Technology",Nara-Institute-of-Science-and-Technology,japan,"",0,0,12.5,"11.5        ",15.6,10.6,http://www.wikidata.org/entity/Q843253,grid.260493.a,
+436,401-500,"5-7  ","National Central University",National-Central-University,"taiwan,china","",0,0,0,"8.3        ",29.2,16.9,http://www.wikidata.org/entity/Q714891,grid.37589.30,
+437,401-500,"5-7  ","National Yang Ming University",National-Yang-Ming-University,"taiwan,china","",0,0,0,"7.6        ",30.7,22.4,http://www.wikidata.org/entity/Q718328,grid.260770.4,
+438,401-500,"17-23  ","Nihon University",Nihon-University,japan,"",0,0,7.2,"6.7        ",27.1,8.3,,grid.260969.2,100
+439,401-500,"17-23  ","Niigata University",Niigata-University,japan,"",0,0,12.5,"5.9        ",24.6,13,http://www.wikidata.org/entity/Q267111,grid.260975.f,
+440,401-500,"14-22  ","Polytechnic University of Turin",Polytechnic-University-of-Turin,italy,"",0,0,14.4,"0.0        ",26.5,14.1,http://www.wikidata.org/entity/Q392897,grid.4800.c,
+441,401-500,"8-11  ","Pusan National University",Pusan-National-University,southkorea,"",0,0,0,"7.9        ",34,14.6,http://www.wikidata.org/entity/Q53122,grid.262229.f,
+442,401-500,"13-23  ","Southeast University",Southeast-University,china,"",0,0,0,"6.0        ",34.9,13.1,http://www.wikidata.org/entity/Q3551770,grid.263826.b,
+443,401-500,"14-19  ","Swinburne University of Technology",Swinburne-University-of-Technology,australia,"",0,0,10.2,"10.5        ",18.6,18.7,http://www.wikidata.org/entity/Q787234,grid.1027.4,
+444,401-500,"33-39  ","Technical University of Braunschweig",Technical-University-of-Braunschweig,germany,"",14.4,0,7.2,"5.9        ",23.1,12.4,http://www.wikidata.org/entity/Q734324,grid.6738.a,
+445,401-500,"138-151  ","Texas Tech University",Texas-Tech-University,unitedstates,"",0,0,10.2,"4.7        ",30.3,13.7,http://www.wikidata.org/entity/Q1423756,grid.264784.b,
+446,401-500,"34-37  ","The Open University",The-Open-University,unitedkingdom,"",0,0,12.5,"11.1        ",23,11.9,http://www.wikidata.org/entity/Q2413375,grid.10837.3d,
+447,401-500,"138-151  ","The University of Connecticut Health Center",The-University-of-Connecticut-Health-Center,unitedstates,"",0,0,10.2,"7.4        ",21.7,11.6,,grid.208078.5,103
+448,401-500,"138-151  ","The University of Texas at San Antonio",The-University-of-Texas-at-San-Antonio,unitedstates,"",0,0,7.2,"9.1        ",22,13.7,http://www.wikidata.org/entity/Q183170,grid.215352.2,
+449,401-500,"17-23  ","The University of Tokushima",The-University-of-Tokushima,japan,"",0,0,10.2,"8.9        ",21,13.8,http://www.wikidata.org/entity/Q1150231,grid.267335.6,
+450,401-500,"13  ","Tilburg University",Tilburg-University,netherlands,"",0,0,0,"",27,18.9,http://www.wikidata.org/entity/Q595668,grid.12295.3d,
+451,401-500,"138-151  ","University of Arkansas at Fayetteville",University-of-Arkansas-at-Fayetteville,unitedstates,"",0,0,10.2,"9.3        ",24.5,13,http://www.wikidata.org/entity/Q1070333,grid.411017.2,
+452,401-500,"14-22  ","University of Bari",University-of-Bari,italy,"",0,0,0,"7.8        ",30.4,13.1,http://www.wikidata.org/entity/Q1236136,grid.7644.1,
+453,401-500,"33-39  ","University of Bayreuth",University-of-Bayreuth,germany,"",0,0,7.2,"14.1        ",23.9,13.2,http://www.wikidata.org/entity/Q702482,grid.7384.8,
+454,401-500,"33-39  ","University of Bremen",University-of-Bremen,germany,"",0,0,0,"13.8        ",29.1,14.9,http://www.wikidata.org/entity/Q500692,grid.7704.4,
+455,401-500,"3-5  ","University of Canterbury",University-of-Canterbury,newzealand,"",0,0,7.2,"5.7        ",24.5,17.3,http://www.wikidata.org/entity/Q432475,grid.21006.35,
+456,401-500,"1-2  ","University of Chile",University-of-Chile,chile,"",8.3,0,0,"7.9        ",31.4,15.2,http://www.wikidata.org/entity/Q232141,grid.443909.3,
+457,401-500,"4-5  ","University of Eastern Finland",University-of-Eastern-Finland,finland,"",0,0,7.2,"6.9        ",30.3,14.7,http://www.wikidata.org/entity/Q2093139,grid.9668.1,
+458,401-500,"34-37  ","University of Essex",University-of-Essex,unitedkingdom,"",22,0,7.2,"2.1        ",20.3,19,http://www.wikidata.org/entity/Q1075104,grid.8356.8,
+459,401-500,"14-22  ","University of Ferrara",University-of-Ferrara,italy,"",0,0,10.2,"8.4        ",23.9,15.7,http://www.wikidata.org/entity/Q955609,grid.8484.0,
+460,401-500,"33-39  ","University of Giessen",University-of-Giessen,germany,"",0,0,7.2,"6.6        ",30.3,14.7,http://www.wikidata.org/entity/Q317053,grid.8664.c,
+461,401-500,"7-11  ","University of Granada",University-of-Granada,spain,"",0,0,0,"8.6        ",36.6,11.2,http://www.wikidata.org/entity/Q1232180,grid.4489.1,
+462,401-500,"33-39  ","University of Greifswald",University-of-Greifswald,germany,"",0,8.9,7.2,"3.5        ",23.7,12.2,http://www.wikidata.org/entity/Q165528,grid.5603.0,
+463,401-500,"7  ","University of Haifa",University-of-Haifa,israel,"",0,0,7.2,"6.5        ",26.8,13.2,http://www.wikidata.org/entity/Q591115,grid.18098.38,
+464,401-500,"33-39  ","University of Hannover",University-of-Hannover,germany,"",0,0,7.2,"7.3        ",25.2,12.5,http://www.wikidata.org/entity/Q678982,grid.9122.8,
+465,401-500,"4-5  ","University of Jyvaskyla",University-of-Jyvaskyla,finland,"",0,0,7.2,"7.3        ",25.1,12.5,http://www.wikidata.org/entity/Q578326,grid.9681.6,
+466,401-500,"3  ","University of KwaZulu-Natal",University-of-KwaZulu-Natal,southafrica,"",0,0,7.2,"7.9        ",26.5,13.2,http://www.wikidata.org/entity/Q727516,grid.16463.36,
+467,401-500,"2  ","University of Lisbon",University-of-Lisbon,portugal,"",0,8.9,0,"5.8        ",28.3,14,http://www.wikidata.org/entity/Q1122926,grid.9983.b,
+468,401-500,"1  ","University of Ljubljana",University-of-Ljubljana,slovenia,"",0,0,0,"6.4        ",35.2,12.9,http://www.wikidata.org/entity/Q1377,grid.8954.0,
+469,401-500,"1  ","University of Malaya",University-of-Malaya,malaysia,"",0,0,0,"3.4        ",34.6,16,http://www.wikidata.org/entity/Q1142924,grid.10347.31,
+470,401-500,"138-151  ","University of Maryland, Baltimore County",University-of-Maryland-Baltimore,unitedstates,"",0,0,12.5,"5.2        ",20.2,13.6,http://www.wikidata.org/entity/Q4119470,grid.411024.2,
+471,401-500,"14-22  ","University of Milan - Bicocca",University-of-Milan,italy,"",0,0,0,"9.9        ",28.1,23.1,http://www.wikidata.org/entity/Q46210,grid.7563.7,
+472,401-500,"138-151  ","University of Nevada - Reno",University-of-Nevada---Reno,unitedstates,"",0,0,7.2,"11.2        ",22.6,12.5,http://www.wikidata.org/entity/Q1185955,grid.266818.3,
+473,401-500,"18-21  ","University of Nice Sophia Antipolis",University-of-Nice-Sophia-Antipolis,france,"",0,0,7.2,"12.8        ",23.8,10.4,http://www.wikidata.org/entity/Q1198571,grid.10737.32,
+474,401-500,"14-22  ","University of Parma",University-of-Parma,italy,"",0,0,7.2,"5.3        ",25.5,12.9,http://www.wikidata.org/entity/Q1758474,grid.10383.39,
+475,401-500,"14-22  ","University of Pavia",University-of-Pavia,italy,"",0,0,0,"8.6        ",29.1,14.4,http://www.wikidata.org/entity/Q219317,grid.8982.b,
+476,401-500,"14-22  ","University of Perugia",University-of-Perugia,italy,"",0,0,7.2,"9.8        ",28.1,14.5,http://www.wikidata.org/entity/Q748085,grid.9027.c,
+477,401-500,"7-11  ","University of Pompeu Fabra",University-of-Pompeu-Fabra,spain,"",0,0,0,"13.4        ",24,24,,grid.5612.0,103
+478,401-500,"19-22  ","University of Quebec",University-of-Quebec,canada,"",0,0,0,"9.4        ",33.1,15.9,,grid.265695.b,100
+479,401-500,"7-11  ","University of Santiago Compostela",University-of-Santiago-Compostela,spain,"",0,0,0,"5.9        ",32.4,11.8,http://www.wikidata.org/entity/Q1473677,grid.11794.3a,
+480,401-500,"19-22  ","University of Sherbrooke",University-of-Sherbrooke,canada,"",0,0,7.2,"12.1        ",25.3,12.1,http://www.wikidata.org/entity/Q2579532,grid.86715.3d,
+481,401-500,"14-22  ","University of Siena",University-of-Siena,italy,"",0,0,0,"9.7        ",27.6,17.6,http://www.wikidata.org/entity/Q1245999,grid.9024.f,
+482,401-500,"34-37  ","University of Surrey",University-of-Surrey,unitedkingdom,"",0,0,7.2,"5.2        ",26,17.1,http://www.wikidata.org/entity/Q546976,grid.5475.3,
+483,401-500,"14-19  ","University of Technology, Sydney",University-of-Technology-Sydney,australia,"",0,0,12.5,"2.4        ",22.5,14.8,http://www.wikidata.org/entity/Q1145731,grid.117476.2,
+484,401-500,"4  ","University of Tromso",University-of-Tromso,norway,"",0,0,10.2,"8.6        ",24.6,15.5,,grid.10919.30,103
+485,401-500,"18-21  ","University of Versailles",University-of-Versailles,france,"",0,0,7.2,"12.1        ",19.1,11.3,,grid.7901.f,103
+486,401-500,"7-11  ","University of Vigo",University-of-Vigo,spain,"",0,0,7.2,"5.9        ",25.5,13.4,http://www.wikidata.org/entity/Q666916,grid.6312.6,
+487,401-500,"138-151  ","University of Wisconsin - Milwaukee",University-of-Wisconsin---Milwaukee,unitedstates,"",11.8,0,0,"6.8        ",25.7,12.6,,grid.267468.9,97
+488,401-500,"14-19  ","University of Wollongong",University-of-Wollongong,australia,"",0,0,7.2,"8.0        ",27.5,17.9,http://www.wikidata.org/entity/Q1350021,grid.1007.6,
+489,401-500,"138-151  ","University of Wyoming",University-of-Wyoming,unitedstates,"",0,0,7.2,"13.9        ",23,15.1,http://www.wikidata.org/entity/Q1326975,grid.135963.b,
+490,401-500,"1  ","University of Zagreb",University-of-Zagreb,croatia,"",0,0,0,"2.1        ",36.7,17,http://www.wikidata.org/entity/Q675848,grid.4808.4,
+491,401-500,"7-11  ","University of Zaragoza",University-of-Zaragoza,spain,"",0,0,5.1,"1.5        ",32.4,11.3,http://www.wikidata.org/entity/Q633561,grid.11205.37,
+492,401-500,"3-5  ","Victoria University of Wellington",Victoria-University-of-Wellington,newzealand,"",13.2,0,0,"8.8        ",23.4,16.5,http://www.wikidata.org/entity/Q1150437,grid.267827.e,
+493,401-500,"6-7  ","Vienna University of Technology",Vienna-University-of-Technology,austria,"",0,0,0,"10.8        ",28,20.5,http://www.wikidata.org/entity/Q689400,grid.5329.d,
+494,401-500,"7  ","Vrije University Brussel",Vrije-University-Brussel,belgium,"",15.6,0,0,"5.8        ",26.5,21.7,,grid.8767.e,103
+495,401-500,"13-23  ","Wuhan University",Wuhan-University,china,"",0,0,0,"2.6        ",36.6,10,http://www.wikidata.org/entity/Q1108197,grid.49470.3e,
+496,401-500,"13-23  ","Xiamen University",Xiamen-University,china,"",0,0,0,"8.9        ",32.9,11.6,http://www.wikidata.org/entity/Q1153539,grid.12955.3a,
+497,401-500,"13-23  ","Xian Jiao Tong University",Xian-Jiao-Tong-University,china,"",0,0,0,"5.0        ",39.2,14.2,http://www.wikidata.org/entity/Q981237,grid.43169.39,
+498,401-500,"17-23  ","Yamaguchi University",Yamaguchi-University,japan,"",0,0,16.1,"2.8        ",20,13.2,,grid.268397.1,100
+499,401-500,"19-22  ","York University",York-University,canada,"",0,0,0,"11.0        ",31.5,11.7,http://www.wikidata.org/entity/Q849751,grid.21100.32,
