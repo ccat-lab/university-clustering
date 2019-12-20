@@ -7,14 +7,14 @@ location = dirname + '/data/raw/'
 
 for file in os.listdir(location):
     print(file)
-    df_wiki = pd.read_csv('/Users/Friso/PycharmProjects/Master_Thesis/Project/GRID_Data/WikiDataGridExport.csv')
+    df_wiki = pd.read_csv('Path_To_Wikidata_File')
     df_QS = pd.read_csv(location + file, index_col='Unnamed: 0')
     df_QS['QS_World_University_ID'] = df_QS['href'].str.replace('/universities/', '')
 
     df = pd.merge(df_QS, df_wiki, on='QS_World_University_ID', how='left')
     df['fuzz_score'] = -1
 
-    df_grid = pd.read_csv('/Users/Friso/PycharmProjects/Master_Thesis/Merge/grid/grid.csv')
+    df_grid = pd.read_csv('Path_To_GRID_File')
     for index, row in df.iterrows():
         if pd.isnull(df.loc[index, 'GRID_ID']):
             university = df_QS.loc[index, 'Name']
