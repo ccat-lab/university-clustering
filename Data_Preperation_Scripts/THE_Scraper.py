@@ -18,7 +18,7 @@ for i in range(9):
     firefoxProfile.set_preference("http.response.timeout", 10)
     firefoxProfile.set_preference("dom.max_script_run_time", 10)
 
-    driver = webdriver.Firefox(executable_path='/Users/Friso/PycharmProjects/Master_Thesis/Scrapers/geckodriver',
+    driver = webdriver.Firefox(executable_path='Path_To_GeckoDriver',
                                firefox_profile=firefoxProfile)
     driver.get(url)
 
